@@ -1,0 +1,43 @@
+name: Analyze Reported Authors
+
+on:
+  push:
+    paths:
+      - 'queue/**.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install Dependencies
+        run: |
+          npm init -y
+          npm install cheerio @google/generative-ai
+
+      - name: Run Troll Analysis Script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/analyze_trolls.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add trolls.json queue/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated Troll Analysis: Database update [skip ci]" && git push)
