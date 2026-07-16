@@ -140,8 +140,8 @@ async function run() {
 
   // Initialize Gemini with primary and fallback models
   const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-  const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash-lite' });
-  const fallbackModel = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
+  const model = genAI.getGenerativeModel({ model: 'gemini-3.5-flash' });
+  const fallbackModel = genAI.getGenerativeModel({ model: 'gemini-3-flash' });
 
   // Launch a single stealth browser for all requests in this batch
   console.log('[Browser] Launching stealth Chromium browser...');
