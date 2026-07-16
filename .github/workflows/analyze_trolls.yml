@@ -27,7 +27,7 @@ jobs:
       - name: Install Dependencies
         run: |
           npm init -y
-          npm install cheerio @google/generative-ai playwright-extra puppeteer-extra-plugin-stealth
+          npm install cheerio @google/generative-ai playwright playwright-extra puppeteer-extra-plugin-stealth
 
       - name: Install Playwright Chromium Browser
         run: npx playwright install chromium --with-deps
