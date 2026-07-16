@@ -167,26 +167,34 @@ async function run() {
     }
 
     // Apply delay between requests
-    if (idx > 0) {
+    // Apply delay between requests if we actually need to fetch
+    let entries = data.entries || [];
+    const hasCachedEntries = entries.length > 0;
+
+    if (!hasCachedEntries && idx > 0) {
       console.log(`Waiting ${REQUEST_DELAY_MS / 1000} seconds before next fetch...`);
       await new Promise(resolve => setTimeout(resolve, REQUEST_DELAY_MS));
     }
 
     try {
-      const html = await fetchUserProfile(nickname);
-      const $ = cheerio.load(html);
+      if (!hasCachedEntries) {
+        console.log(`No entries provided in queue file. Fetching profile from mirrors...`);
+        const html = await fetchUserProfile(nickname);
+        const $ = cheerio.load(html);
 
-      const entries = [];
-      $('#entry-item-list li').each((i, el) => {
-        const content = $(el).find('.content').text().trim();
-        const title = $(el).find('.entry-title').text().trim() || $(el).find('a').first().text().trim() || '';
-        if (content) {
-          entries.push({ title, content });
-        }
-      });
+        $('#entry-item-list li').each((i, el) => {
+          const content = $(el).find('.content').text().trim();
+          const title = $(el).find('.entry-title').text().trim() || $(el).find('a').first().text().trim() || '';
+          if (content) {
+            entries.push({ title, content });
+          }
+        });
+      } else {
+        console.log(`Using ${entries.length} pre-fetched entries from queue file.`);
+      }
 
       if (entries.length === 0) {
-        console.warn(`No entries parsed for '${nickname}'. Possibly blocked by Cloudflare, or user has no entries, or profile is private.`);
+        console.warn(`No entries parsed or provided for '${nickname}'. Possibly blocked by Cloudflare, or user has no entries, or profile is private.`);
         // Note: We don't delete queue file so it might retry later, or we can delete to avoid stuck queue
         // Let's delete to prevent queue clogging, but log details
         fs.unlinkSync(item.filePath);
