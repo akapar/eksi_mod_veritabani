@@ -138,10 +138,10 @@ async function run() {
   const batch = queueFiles.slice(0, MAX_BATCH_SIZE);
   console.log(`Processing batch of ${batch.length} authors...`);
 
-  // Initialize Gemini with primary and fallback models
+  // Initialize Gemini — gemini-3.5-flash is the current stable model
   const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
   const model = genAI.getGenerativeModel({ model: 'gemini-3.5-flash' });
-  const fallbackModel = genAI.getGenerativeModel({ model: 'gemini-3-flash' });
+  const fallbackModel = model; // Same model, just retry on 503
 
   // Launch a single stealth browser for all requests in this batch
   console.log('[Browser] Launching stealth Chromium browser...');
@@ -244,7 +244,7 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
 }`;
 
         const response = await callGeminiWithRetry(model, fallbackModel, prompt);
-        let text = response.text().trim();
+        let text = response.response.text().trim();
 
         // Clean markdown code blocks if Gemini wraps response
         if (text.startsWith('```')) {
