@@ -73,16 +73,26 @@ async function fetchUserProfileWithBrowser(browser, nickname) {
   throw new Error(`Could not fetch profile for '${nickname}' from any mirror using stealth browser.`);
 }
 
-// Retry with exponential backoff for Gemini API
-async function callGeminiWithRetry(model, prompt, retries = 3, delay = 5000) {
+// Retry with exponential backoff for Gemini API, respecting server retry-after delay
+async function callGeminiWithRetry(model, fallbackModel, prompt, retries = 3, delay = 60000) {
   for (let i = 0; i < retries; i++) {
     try {
-      const result = await model.generateContent(prompt);
+      const currentModel = i < 2 ? model : fallbackModel;
+      if (i > 0) console.log(`[Gemini] Using model: ${i < 2 ? 'gemini-2.0-flash-lite' : 'gemini-2.0-flash'}`);
+      const result = await currentModel.generateContent(prompt);
       return result;
     } catch (e) {
       if (i === retries - 1) throw e;
-      console.warn(`[Gemini] API error (retry ${i + 1}/${retries}): ${e.message}. Retrying in ${delay}ms...`);
-      await new Promise(resolve => setTimeout(resolve, delay));
+
+      // Try to extract server-suggested retry delay from the error message
+      let waitMs = delay;
+      const retryMatch = e.message && e.message.match(/retryDelay['":\s]+["']?(\d+)s/);
+      if (retryMatch) {
+        waitMs = (parseInt(retryMatch[1]) + 5) * 1000; // Add 5s buffer
+      }
+
+      console.warn(`[Gemini] API error (retry ${i + 1}/${retries}): ${e.message.split('\n')[0]}. Retrying in ${waitMs / 1000}s...`);
+      await new Promise(resolve => setTimeout(resolve, waitMs));
       delay *= 2;
     }
   }
@@ -128,9 +138,10 @@ async function run() {
   const batch = queueFiles.slice(0, MAX_BATCH_SIZE);
   console.log(`Processing batch of ${batch.length} authors...`);
 
-  // Initialize Gemini
+  // Initialize Gemini with primary and fallback models
   const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-  const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
+  const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash-lite' });
+  const fallbackModel = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
 
   // Launch a single stealth browser for all requests in this batch
   console.log('[Browser] Launching stealth Chromium browser...');
@@ -232,7 +243,7 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
   "nefret": 0.0
 }`;
 
-        const response = await callGeminiWithRetry(model, prompt);
+        const response = await callGeminiWithRetry(model, fallbackModel, prompt);
         let text = response.text().trim();
 
         // Clean markdown code blocks if Gemini wraps response
