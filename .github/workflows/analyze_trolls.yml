@@ -27,14 +27,14 @@ jobs:
       - name: Install Dependencies
         run: |
           npm init -y
-          npm install cheerio @google/generative-ai playwright playwright-extra puppeteer-extra-plugin-stealth
+          npm install cheerio groq-sdk playwright playwright-extra puppeteer-extra-plugin-stealth
 
       - name: Install Playwright Chromium Browser
         run: npx playwright install chromium --with-deps
 
       - name: Run Troll Analysis Script
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/analyze_trolls.js
 
