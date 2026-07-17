@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
-const { GoogleGenerativeAI } = require('@google/generative-ai');
+const Groq = require('groq-sdk');
 const { chromium } = require('playwright-extra');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 
@@ -73,25 +73,26 @@ async function fetchUserProfileWithBrowser(browser, nickname) {
   throw new Error(`Could not fetch profile for '${nickname}' from any mirror using stealth browser.`);
 }
 
-// Retry with exponential backoff for Gemini API, respecting server retry-after delay
-async function callGeminiWithRetry(model, fallbackModel, prompt, retries = 3, delay = 60000) {
+// Retry with exponential backoff for Groq API
+async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
+  const models = ['llama-3.3-70b-versatile', 'llama-3.1-8b-instant', 'gemma2-9b-it'];
   for (let i = 0; i < retries; i++) {
+    const currentModel = models[Math.min(i, models.length - 1)];
     try {
-      const currentModel = i < 2 ? model : fallbackModel;
-      if (i > 0) console.log(`[Gemini] Using model: ${i < 2 ? 'gemini-2.0-flash-lite' : 'gemini-2.0-flash'}`);
-      const result = await currentModel.generateContent(prompt);
-      return result;
+      if (i > 0) console.log(`[Groq] Retrying with model: ${currentModel}`);
+      const result = await groq.chat.completions.create({
+        model: currentModel,
+        messages: [{ role: 'user', content: prompt }],
+        temperature: 0.1,
+        max_tokens: 256,
+      });
+      return result.choices[0].message.content.trim();
     } catch (e) {
       if (i === retries - 1) throw e;
-
-      // Try to extract server-suggested retry delay from the error message
       let waitMs = delay;
-      const retryMatch = e.message && e.message.match(/retryDelay['":\s]+["']?(\d+)s/);
-      if (retryMatch) {
-        waitMs = (parseInt(retryMatch[1]) + 5) * 1000; // Add 5s buffer
-      }
-
-      console.warn(`[Gemini] API error (retry ${i + 1}/${retries}): ${e.message.split('\n')[0]}. Retrying in ${waitMs / 1000}s...`);
+      const retryMatch = e.message && e.message.match(/(\d+(\.\d+)?)\s*second/);
+      if (retryMatch) waitMs = (parseFloat(retryMatch[1]) + 2) * 1000;
+      console.warn(`[Groq] API error (retry ${i + 1}/${retries}): ${e.message.split('\n')[0]}. Retrying in ${waitMs / 1000}s...`);
       await new Promise(resolve => setTimeout(resolve, waitMs));
       delay *= 2;
     }
@@ -99,8 +100,8 @@ async function callGeminiWithRetry(model, fallbackModel, prompt, retries = 3, de
 }
 
 async function run() {
-  if (!process.env.GEMINI_API_KEY) {
-    console.error('Error: GEMINI_API_KEY environment variable is not set.');
+  if (!process.env.GROQ_API_KEY) {
+    console.error('Error: GROQ_API_KEY environment variable is not set.');
     process.exit(1);
   }
 
@@ -138,10 +139,8 @@ async function run() {
   const batch = queueFiles.slice(0, MAX_BATCH_SIZE);
   console.log(`Processing batch of ${batch.length} authors...`);
 
-  // Initialize Gemini — gemini-3.5-flash is the current stable model
-  const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-  const model = genAI.getGenerativeModel({ model: 'gemini-3.5-flash' });
-  const fallbackModel = model; // Same model, just retry on 503
+  // Initialize Groq — 14,400 free requests/day with llama-3.3-70b-versatile
+  const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
   // Launch a single stealth browser for all requests in this batch
   console.log('[Browser] Launching stealth Chromium browser...');
@@ -220,9 +219,9 @@ async function run() {
           continue;
         }
 
-        console.log(`Successfully got ${entries.length} entries. Sending to Gemini for scoring...`);
+        console.log(`Successfully got ${entries.length} entries. Sending to Groq for scoring...`);
 
-        // Prepare Gemini Prompt
+        // Prepare Groq Prompt
         const prompt = `Aşağıda bir Ekşi Sözlük yazarının yazdığı son ${entries.length} entry bulunmaktadır. Bu yazıları dikkatlice analiz et ve yazarın yazılarındaki ihlal durumunu 4 farklı kategoride değerlendir:
 
 1. dini (Dini ve Kutsal Değerler Hassasiyeti): İnançlara, kutsal figürlere, dini ritüellere yönelik hakaret veya aşırı provokatif üslup var mı?
@@ -243,15 +242,15 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
   "nefret": 0.0
 }`;
 
-        const response = await callGeminiWithRetry(model, fallbackModel, prompt);
-        let text = response.response.text().trim();
+        const response = await callGroqWithRetry(groq, prompt);
+        let text = response.trim();
 
-        // Clean markdown code blocks if Gemini wraps response
+        // Clean markdown code blocks if model wraps response
         if (text.startsWith('```')) {
           text = text.replace(/^```json\s*/, '').replace(/```$/, '').trim();
         }
 
-        console.log(`Gemini response: ${text}`);
+        console.log(`Groq response: ${text}`);
         const scores = JSON.parse(text);
 
         const dini = parseFloat(scores.dini) || 0.0;
