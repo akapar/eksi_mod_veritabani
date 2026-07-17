@@ -58,5 +58,55 @@
       "siyasi": 0.5,
       "nefret": 0.6
     }
+  },
+  "beytiahzan": {
+    "score": 0,
+    "last_evaluated": "2026-07-17T11:02:41.700Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bulamadim bir nick": {
+    "score": 80,
+    "last_evaluated": "2026-07-17T11:02:53.430Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.2,
+      "nefret": 0.6
+    }
+  },
+  "fidisikulee": {
+    "score": 80,
+    "last_evaluated": "2026-07-17T11:03:05.136Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.4,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "gece mavi ve baykus": {
+    "score": 80,
+    "last_evaluated": "2026-07-17T11:03:17.905Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
+  },
+  "jedi07": {
+    "score": 80,
+    "last_evaluated": "2026-07-17T11:03:29.610Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.7
+    }
   }
 }
