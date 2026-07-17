@@ -1,1 +1,32 @@
-{}
+{
+  "hiperaktf c": {
+    "score": 90,
+    "last_evaluated": "2026-07-17T05:23:36.135Z",
+    "details": {
+      "dini": 0.3,
+      "milli": 0.5,
+      "siyasi": 0.9,
+      "nefret": 0.9
+    }
+  },
+  "sis atmayi seven adam": {
+    "score": 0,
+    "last_evaluated": "2026-07-17T05:23:52.188Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "tugralivolvo": {
+    "score": 50,
+    "last_evaluated": "2026-07-17T05:24:11.490Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  }
+}
