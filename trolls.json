@@ -28,5 +28,35 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "batuderler": {
+    "score": 90,
+    "last_evaluated": "2026-07-17T05:41:39.394Z",
+    "details": {
+      "dini": 0.3,
+      "milli": 0.1,
+      "siyasi": 0.9,
+      "nefret": 0.3
+    }
+  },
+  "deepthinking": {
+    "score": 50,
+    "last_evaluated": "2026-07-17T05:47:09.089Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "elon muskun tellaki": {
+    "score": 60,
+    "last_evaluated": "2026-07-17T05:49:13.856Z",
+    "details": {
+      "dini": 0.4,
+      "milli": 0.1,
+      "siyasi": 0.5,
+      "nefret": 0.6
+    }
   }
 }
