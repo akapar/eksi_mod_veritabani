@@ -148,5 +148,45 @@
       "siyasi": 0.1,
       "nefret": 0.1
     }
+  },
+  "betveren": {
+    "score": 20,
+    "last_evaluated": "2026-07-18T08:18:59.651Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "j4x": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:18:59.859Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "pachelor reloaded": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:20:07.855Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sonbahar yolcusu": {
+    "score": 20,
+    "last_evaluated": "2026-07-18T08:20:36.458Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
   }
 }
