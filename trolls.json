@@ -448,5 +448,45 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "093506": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T12:39:25.086Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bos muhabbet": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T12:39:25.358Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bozkirin ugultusu": {
+    "score": 50,
+    "last_evaluated": "2026-07-18T12:39:35.716Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "came to forge the words in my soul": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T12:39:46.132Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
