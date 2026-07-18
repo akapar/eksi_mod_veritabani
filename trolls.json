@@ -128,5 +128,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "we are being watched": {
+    "score": 20,
+    "last_evaluated": "2026-07-18T08:11:19.066Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
   }
 }
