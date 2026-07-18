@@ -558,5 +558,55 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "de nada": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:32:24.742Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "deanmc": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:32:35.377Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "dedim sozluk falan beni bozar": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:32:45.758Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "derinsubasi": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:33:23.468Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "dostnaystro": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:33:37.922Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
