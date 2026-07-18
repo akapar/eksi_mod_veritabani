@@ -11,7 +11,7 @@ chromium.use(StealthPlugin());
 // Config
 const DB_FILE = path.join(__dirname, '../trolls.json');
 const QUEUE_DIR = path.join(__dirname, '../queue');
-const MAX_BATCH_SIZE = 5;
+const MAX_BATCH_SIZE = 30;
 const REQUEST_DELAY_MS = 8000; // 8 seconds delay between browser fetches
 
 const DOMAINS = [
