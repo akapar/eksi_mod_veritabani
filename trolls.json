@@ -138,5 +138,15 @@
       "siyasi": 0,
       "nefret": 0.2
     }
+  },
+  "seferyan": {
+    "score": 20,
+    "last_evaluated": "2026-07-18T08:17:55.678Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
   }
 }
