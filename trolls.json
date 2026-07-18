@@ -228,5 +228,35 @@
       "siyasi": 0.1,
       "nefret": 0.1
     }
+  },
+  "8832ch78": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:27:46.197Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "adamin basi": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:28:29.952Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "derelaj": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:32:07.126Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
