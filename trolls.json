@@ -508,5 +508,55 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "amk 2023": {
+    "score": 20,
+    "last_evaluated": "2026-07-18T13:25:01.229Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0
+    }
+  },
+  "cayda dem sozlukte kidem": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:25:11.823Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "chewrim": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:25:12.360Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "cinderhella": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:25:22.783Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "cosmosumsu": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:26:00.436Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
