@@ -188,5 +188,45 @@
       "siyasi": 0.1,
       "nefret": 0.1
     }
+  },
+  "bonus48": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:22:41.855Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "furkinin anasi": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:23:24.856Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "komikmisinlan": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:23:34.419Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kuramsal sirket": {
+    "score": 20,
+    "last_evaluated": "2026-07-18T08:23:56.133Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
   }
 }
