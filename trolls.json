@@ -488,5 +488,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "akaco": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T12:44:49.788Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "augustert": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T12:45:57.851Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
