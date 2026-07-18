@@ -258,5 +258,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "30 a 3 kala": {
+    "score": 80,
+    "last_evaluated": "2026-07-18T08:33:06.365Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.2,
+      "nefret": 0.6
+    }
+  },
+  "astropowerless": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:33:34.023Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
