@@ -608,5 +608,55 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "dr of profs": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:39:52.657Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "efemsradyo": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:40:52.139Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "elinherifi": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:41:02.602Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "emre85": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:41:32.248Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "erkekseniz tekrar tekrar gelin": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T13:41:44.736Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
