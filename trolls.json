@@ -378,5 +378,35 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "bibozados": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T10:23:07.085Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "blackact": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T10:24:30.261Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "boyoz efendi": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T10:26:37.978Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
