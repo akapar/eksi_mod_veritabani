@@ -408,5 +408,45 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "aylakbocek": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T11:38:11.603Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "azeteus": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T11:38:11.983Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "borates": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T11:38:22.539Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bosphorus gulf runner": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T11:39:21.398Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
