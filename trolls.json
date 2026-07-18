@@ -278,5 +278,35 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "ates bocegi ercan": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:53:21.456Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "babanaparaverdim": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:53:52.036Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "becony1": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T08:54:31.598Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
