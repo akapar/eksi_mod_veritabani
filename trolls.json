@@ -328,5 +328,55 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "antipatik sempatizan": {
+    "score": 20,
+    "last_evaluated": "2026-07-18T10:21:34.895Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "atalaykirbancioglu": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T10:21:35.125Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bedbinkisilik": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T10:21:46.142Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "berilangabeach": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T10:21:46.367Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "besincisi ne": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T10:21:56.674Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
