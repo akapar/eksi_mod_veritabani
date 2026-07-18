@@ -948,5 +948,295 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "allah diyen radyoaktif maymun": {
+    "score": 50,
+    "last_evaluated": "2026-07-18T20:06:02.306Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0.1,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "illegalstar": {
+    "score": 20,
+    "last_evaluated": "2026-07-18T20:06:02.906Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "istmen": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:06:03.231Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "jakamen": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:06:03.554Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kafeinsizkayfe": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:06:03.867Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kahmut": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:06:06.261Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kapipkacamadigim": {
+    "score": 20,
+    "last_evaluated": "2026-07-18T20:06:28.833Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "karaage": {
+    "score": 20,
+    "last_evaluated": "2026-07-18T20:06:51.334Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "karizmatik bir nick olsun": {
+    "score": 80,
+    "last_evaluated": "2026-07-18T20:06:56.750Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.4
+    }
+  },
+  "kasaturasiz rambo": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:07:07.326Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kayganemin": {
+    "score": 20,
+    "last_evaluated": "2026-07-18T20:07:07.569Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kelebekus": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:07:17.960Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kenefte geldi aklima ornegin mesela": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:07:18.298Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kesinlikle dengesizim": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:07:28.573Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kirmizi rujlu izmarit": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:07:38.881Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kivilibiraa": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:07:49.154Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "knopflerlatimer": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:08:28.701Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kokuyorsun": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:09:12.469Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kontinantinantel": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:09:26.973Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "koyunolanakoyarlar": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:09:40.293Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kralja milutina": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:09:51.718Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "krizantemsinegi": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:10:37.279Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ktucek": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:11:18.822Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kullanimdaolmayannickarayancaylak": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:11:31.227Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "la prometheus": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:11:46.615Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "laciverti gecenin": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:11:58.939Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "laplupbop": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:12:42.525Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "lesnty": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:13:26.161Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "levkem": {
+    "score": 0,
+    "last_evaluated": "2026-07-18T20:13:36.555Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
