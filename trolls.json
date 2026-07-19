@@ -1868,5 +1868,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "garipbasci": {
+    "score": 40,
+    "last_evaluated": "2026-07-19T13:50:39.754Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.2
+    }
   }
 }
