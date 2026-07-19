@@ -2,13 +2,16 @@ const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
 const Groq = require('groq-sdk');
-const { chromium } = require('playwright-extra');
-const StealthPlugin = require('puppeteer-extra-plugin-stealth');
-
-// Activate stealth mode to bypass Cloudflare bot detection
-chromium.use(StealthPlugin());
-
 // Config
+const ENABLE_BROWSER_FETCH = false; // Yeni düzende Chrome uzantısı gönderdiği için kapalı. Aktif etmek için true yapın.
+
+let chromium, StealthPlugin;
+if (ENABLE_BROWSER_FETCH) {
+  chromium = require('playwright-extra').chromium;
+  StealthPlugin = require('puppeteer-extra-plugin-stealth');
+  // Activate stealth mode to bypass Cloudflare bot detection
+  chromium.use(StealthPlugin());
+}
 const DB_FILE = path.join(__dirname, '../trolls.json');
 const QUEUE_DIR = path.join(__dirname, '../queue');
 const MAX_BATCH_SIZE = 30;
@@ -143,16 +146,19 @@ async function run() {
   const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
   // Launch a single stealth browser for all requests in this batch
-  console.log('[Browser] Launching stealth Chromium browser...');
-  const browser = await chromium.launch({
-    headless: true,
-    args: [
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-      '--disable-gpu',
-    ]
-  });
+  let browser = null;
+  if (ENABLE_BROWSER_FETCH) {
+    console.log('[Browser] Launching stealth Chromium browser...');
+    browser = await chromium.launch({
+      headless: true,
+      args: [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-dev-shm-usage',
+        '--disable-gpu',
+      ]
+    });
+  }
 
   try {
     for (let idx = 0; idx < batch.length; idx++) {
@@ -192,23 +198,31 @@ async function run() {
       const hasCachedEntries = entries.length > 0;
 
       if (!hasCachedEntries && idx > 0) {
-        console.log(`Waiting ${REQUEST_DELAY_MS / 1000} seconds before next browser fetch...`);
-        await new Promise(resolve => setTimeout(resolve, REQUEST_DELAY_MS));
+        if (ENABLE_BROWSER_FETCH) {
+          console.log(`Waiting ${REQUEST_DELAY_MS / 1000} seconds before next browser fetch...`);
+          await new Promise(resolve => setTimeout(resolve, REQUEST_DELAY_MS));
+        }
       }
 
       try {
         if (!hasCachedEntries) {
-          console.log(`No entries in queue file. Using stealth browser to fetch profile...`);
-          const html = await fetchUserProfileWithBrowser(browser, nickname);
-          const $ = cheerio.load(html);
+          if (ENABLE_BROWSER_FETCH) {
+            console.log(`No entries in queue file. Using stealth browser to fetch profile...`);
+            const html = await fetchUserProfileWithBrowser(browser, nickname);
+            const $ = cheerio.load(html);
 
-          $('#entry-item-list li').each((i, el) => {
-            const content = $(el).find('.content').text().trim();
-            const title = $(el).find('.entry-title').text().trim() || $(el).find('a').first().text().trim() || '';
-            if (content) {
-              entries.push({ title, content });
-            }
-          });
+            $('#entry-item-list li').each((i, el) => {
+              const content = $(el).find('.content').text().trim();
+              const title = $(el).find('.entry-title').text().trim() || $(el).find('a').first().text().trim() || '';
+              if (content) {
+                entries.push({ title, content });
+              }
+            });
+          } else {
+            console.warn(`No entries found for '${nickname}' and browser fetch is disabled. Skipping...`);
+            fs.unlinkSync(item.filePath);
+            continue;
+          }
         } else {
           console.log(`Using ${entries.length} pre-fetched entries from queue file.`);
         }
@@ -279,8 +293,10 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
       }
     }
   } finally {
-    await browser.close();
-    console.log('[Browser] Stealth browser closed.');
+    if (browser) {
+      await browser.close();
+      console.log('[Browser] Stealth browser closed.');
+    }
   }
 
   // Save updated database
