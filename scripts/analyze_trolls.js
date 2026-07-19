@@ -1,14 +1,13 @@
 const fs = require('fs');
 const path = require('path');
-const cheerio = require('cheerio');
-const Groq = require('groq-sdk');
 // Config
 const ENABLE_BROWSER_FETCH = false; // Yeni düzende Chrome uzantısı gönderdiği için kapalı. Aktif etmek için true yapın.
 
-let chromium, StealthPlugin;
+let cheerio, chromium, StealthPlugin;
 if (ENABLE_BROWSER_FETCH) {
   chromium = require('playwright-extra').chromium;
   StealthPlugin = require('puppeteer-extra-plugin-stealth');
+  cheerio = require('cheerio');
   // Activate stealth mode to bypass Cloudflare bot detection
   chromium.use(StealthPlugin());
 }
@@ -76,19 +75,33 @@ async function fetchUserProfileWithBrowser(browser, nickname) {
   throw new Error(`Could not fetch profile for '${nickname}' from any mirror using stealth browser.`);
 }
 
-// Retry with exponential backoff for Groq API
-async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
+// Retry with exponential backoff for Groq API using native fetch
+async function callGroqWithRetry(apiKey, prompt, retries = 3, delay = 10000) {
   const models = ['llama-3.3-70b-versatile', 'llama-3.1-8b-instant', 'gemma2-9b-it'];
   for (let i = 0; i < retries; i++) {
     const currentModel = models[Math.min(i, models.length - 1)];
     try {
       if (i > 0) console.log(`[Groq] Retrying with model: ${currentModel}`);
-      const result = await groq.chat.completions.create({
-        model: currentModel,
-        messages: [{ role: 'user', content: prompt }],
-        temperature: 0.1,
-        max_tokens: 256,
+      const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          model: currentModel,
+          messages: [{ role: 'user', content: prompt }],
+          temperature: 0.1,
+          max_tokens: 256,
+        })
       });
+
+      if (!res.ok) {
+        const errText = await res.text();
+        throw new Error(`HTTP ${res.status}: ${errText}`);
+      }
+
+      const result = await res.json();
       return result.choices[0].message.content.trim();
     } catch (e) {
       if (i === retries - 1) throw e;
@@ -142,8 +155,7 @@ async function run() {
   const batch = queueFiles.slice(0, MAX_BATCH_SIZE);
   console.log(`Processing batch of ${batch.length} authors...`);
 
-  // Initialize Groq — 14,400 free requests/day with llama-3.3-70b-versatile
-  const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+  const apiKey = process.env.GROQ_API_KEY;
 
   // Launch a single stealth browser for all requests in this batch
   let browser = null;
@@ -256,7 +268,7 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
   "nefret": 0.0
 }`;
 
-        const response = await callGroqWithRetry(groq, prompt);
+        const response = await callGroqWithRetry(apiKey, prompt);
         let text = response.trim();
 
         // Clean markdown code blocks if model wraps response
