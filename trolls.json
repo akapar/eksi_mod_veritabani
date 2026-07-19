@@ -1928,5 +1928,15 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "omurgadoktoru": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T14:25:32.301Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
