@@ -1,5 +1,9 @@
 name: Analyze Reported Authors
 
+concurrency:
+  group: analyze-trolls
+  cancel-in-progress: false
+
 on:
   push:
     paths:
@@ -19,7 +23,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
