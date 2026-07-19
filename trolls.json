@@ -1908,5 +1908,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "cobtoday": {
+    "score": 50,
+    "last_evaluated": "2026-07-19T14:19:41.942Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
