@@ -270,12 +270,12 @@
     }
   },
   "astropowerless": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T08:33:34.023Z",
+    "score": 60,
+    "last_evaluated": "2026-07-19T14:14:24.615Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
       "nefret": 0
     }
   },
