@@ -1918,5 +1918,15 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "zaubmarf": {
+    "score": 50,
+    "last_evaluated": "2026-07-19T14:21:24.473Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.5,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
