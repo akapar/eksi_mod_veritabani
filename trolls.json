@@ -1238,5 +1238,305 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "life compiler": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:26:03.697Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "lion king345": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:26:03.963Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0
+    }
+  },
+  "machete klonu": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:26:04.143Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "manhattanneollen": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:26:04.407Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "me no money": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:26:04.608Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "mein": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:26:10.280Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "merantirintezim": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:26:29.829Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "mopan": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:26:51.387Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "mr scream": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:27:12.789Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "muhalif13": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:27:19.128Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "muptela06": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:27:40.774Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "newusername": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:27:46.088Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "newyorkcanki": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:28:07.843Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "nicholai3618": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:28:13.089Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "nickim yok sikim var": {
+    "score": 50,
+    "last_evaluated": "2026-07-19T13:28:18.339Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "nonvult": {
+    "score": 80,
+    "last_evaluated": "2026-07-19T13:28:24.838Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "nutellali balik ekmek": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:28:30.119Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "omurturk": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:28:36.394Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ondokuztemmuz": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:28:57.937Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "overlokcum ayagima geldi": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:29:04.301Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "paranoyak ruh doktoru": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:29:25.844Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "pergoveris": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:29:31.055Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "peride aksal": {
+    "score": 80,
+    "last_evaluated": "2026-07-19T13:29:36.322Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "pezevenksirin": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:29:41.682Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "pirrrt": {
+    "score": 80,
+    "last_evaluated": "2026-07-19T13:29:48.026Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "pornetto": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:30:09.794Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.1
+    }
+  },
+  "portekizli forvet": {
+    "score": 80,
+    "last_evaluated": "2026-07-19T13:30:17.246Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "prenssiz beyaz at": {
+    "score": 20,
+    "last_evaluated": "2026-07-19T13:30:38.758Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "psyjonturk": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:30:44.038Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "puyule": {
+    "score": 0,
+    "last_evaluated": "2026-07-19T13:30:52.336Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
