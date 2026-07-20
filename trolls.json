@@ -3398,5 +3398,85 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "osmancik57": {
+    "score": 40,
+    "last_evaluated": "2026-07-20T20:18:14.651Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "bokunbuhari": {
+    "score": 20,
+    "last_evaluated": "2026-07-20T20:18:14.750Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.1
+    }
+  },
+  "tsigallko": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T20:18:24.556Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "xoxox": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T20:18:24.647Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "heykellere ufleyen adam": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T20:18:24.667Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "distortion the real": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T20:18:24.739Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "toskana": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T20:18:24.775Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "hotfuzz": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T20:18:24.993Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.5,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
   }
 }
