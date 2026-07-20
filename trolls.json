@@ -290,12 +290,12 @@
     }
   },
   "ates bocegi ercan": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T08:53:21.456Z",
+    "score": 20,
+    "last_evaluated": "2026-07-20T16:10:51.594Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.2,
       "nefret": 0
     }
   },
@@ -510,13 +510,13 @@
     }
   },
   "augustert": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T12:45:57.851Z",
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:10:41.670Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "milli": 0.6,
+      "siyasi": 0.8,
+      "nefret": 0.2
     }
   },
   "amk 2023": {
@@ -1070,13 +1070,13 @@
     }
   },
   "kelebekus": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T20:07:17.960Z",
+    "score": 40,
+    "last_evaluated": "2026-07-20T16:10:41.583Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "siyasi": 0.2,
+      "nefret": 0.4
     }
   },
   "kenefte geldi aklima ornegin mesela": {
@@ -2347,6 +2347,56 @@
       "milli": 0.2,
       "siyasi": 0.8,
       "nefret": 0.4
+    }
+  },
+  "atlascor": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:10:41.642Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "audio unit": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:10:41.791Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "birazdan geliyorum": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:10:51.581Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "baranbugra": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:10:51.586Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "attanindeveye1000": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:10:51.594Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
