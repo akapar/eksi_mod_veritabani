@@ -2768,5 +2768,55 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "bokundabolcaboncukvar": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:24:22.809Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.8
+    }
+  },
+  "chay smith": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:24:22.852Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "birgaripelektron": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:24:22.939Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "cengiz bond": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:24:22.946Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "cengiz budak": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:24:22.960Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
