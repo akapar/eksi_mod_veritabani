@@ -3478,5 +3478,65 @@
       "siyasi": 0.5,
       "nefret": 0.5
     }
+  },
+  "radicaledward": {
+    "score": 40,
+    "last_evaluated": "2026-07-20T20:48:29.526Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.4
+    }
+  },
+  "yapcak bisi yok": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T20:48:29.553Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "voyvoda": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T20:48:39.638Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "senersongur": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T20:48:39.664Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "engineerdolma": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T20:48:39.699Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "heuristic algorithmic": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T20:48:39.836Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
