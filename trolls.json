@@ -2858,5 +2858,45 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "corivar": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:27:50.182Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "defusion": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:27:50.190Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "cptberaat": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:27:50.203Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "citosumdan taso cikmadi": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:27:50.432Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
