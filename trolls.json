@@ -3568,5 +3568,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "desjard": {
+    "score": 100,
+    "last_evaluated": "2026-07-20T21:02:50.215Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 1,
+      "nefret": 0
+    }
+  },
+  "baska yildiz": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T21:02:50.239Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
