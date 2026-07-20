@@ -3138,5 +3138,35 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "dunden beri dimdik": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T18:11:01.889Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "dictinory": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T18:11:02.047Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0.6,
+      "siyasi": 0.4,
+      "nefret": 0.4
+    }
+  },
+  "bigariphuzun": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T18:11:12.043Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
