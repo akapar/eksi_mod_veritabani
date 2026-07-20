@@ -1221,7 +1221,7 @@
   },
   "laplupbop": {
     "score": 0,
-    "last_evaluated": "2026-07-18T20:12:42.525Z",
+    "last_evaluated": "2026-07-20T18:36:33.196Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -3296,6 +3296,16 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "onceto": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T18:36:33.229Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
       "nefret": 0
     }
   }
