@@ -2398,5 +2398,45 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "bak dinle hele": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:13:18.753Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "bencladius": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:13:18.777Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.5,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bavyeralim": {
+    "score": 100,
+    "last_evaluated": "2026-07-20T16:13:18.836Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 1
+    }
+  },
+  "batibeyi": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:13:18.876Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
   }
 }
