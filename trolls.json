@@ -2988,5 +2988,55 @@
       "siyasi": 0.8,
       "nefret": 0.6
     }
+  },
+  "cvv": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:35:43.110Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "architec": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:35:43.131Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "akilli bidik ve mutlu": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:35:43.145Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "craxy": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:35:43.154Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "contik": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:35:43.227Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
   }
 }
