@@ -3228,5 +3228,35 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "kingan": {
+    "score": 20,
+    "last_evaluated": "2026-07-20T18:24:53.955Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "childreninthegrave": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T18:25:03.898Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "fashcoco": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T18:25:16.905Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
