@@ -3538,5 +3538,35 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "c9": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T20:53:52.321Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "matanzas": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T20:53:52.395Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "dut mevsimi": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T20:53:52.611Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
