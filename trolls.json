@@ -2498,5 +2498,35 @@
       "siyasi": 0.5,
       "nefret": 0.5
     }
+  },
+  "beniucurmayin": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:16:18.741Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bayturuncu": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:16:18.816Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bilirin": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:16:18.924Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
