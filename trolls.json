@@ -1,4 +1,14 @@
 {
+  "236": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:16:46.969Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
   "hiperaktf c": {
     "score": 90,
     "last_evaluated": "2026-07-17T05:23:36.135Z",
@@ -2166,6 +2176,86 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "internettindede": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:16:46.766Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "3caybardagisu": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:16:46.795Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
+  },
+  "25cmbeyin": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T13:16:46.913Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ahmetbayram5": {
+    "score": 40,
+    "last_evaluated": "2026-07-20T13:16:46.914Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "1bir1bir1": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T13:16:46.921Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "lasthe": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T13:16:46.965Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sairler evlenince siir pic olur": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:16:56.761Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.8
+    }
+  },
+  "fenahuyluspazo": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:16:57.001Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0,
+      "siyasi": 0,
       "nefret": 0
     }
   }
