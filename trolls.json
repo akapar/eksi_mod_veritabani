@@ -2528,5 +2528,65 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "binaenaleyhh": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:18:03.442Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.5,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "bilim felsefe": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:18:03.503Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bi dinle hele": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:18:03.544Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "beydays": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:18:03.552Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.8
+    }
+  },
+  "benimkidemliolsun": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:18:03.583Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bibliyografikkunye": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:18:03.660Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
   }
 }
