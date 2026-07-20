@@ -2658,5 +2658,75 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "cilop cilop": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:21:36.220Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bu is boyle olmaz altan ben donuyorum": {
+    "score": 90,
+    "last_evaluated": "2026-07-20T16:21:36.223Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.9
+    }
+  },
+  "boybanddeki gereksiz eleman": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:21:36.264Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "boeing777": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:21:36.306Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bodybuilder": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:21:36.373Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "cok zalimsin sakir abi": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:21:36.407Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "burayabakmazlar": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:21:36.485Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
