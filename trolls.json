@@ -2588,5 +2588,75 @@
       "siyasi": 0,
       "nefret": 0.5
     }
+  },
+  "buyuluplanet": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:19:51.319Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bir psikolojik danisman": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:19:51.386Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "bir sehrin hikayesi": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:19:51.390Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "bulgurunan tarhana": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:19:51.392Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bir gurultu aninda": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:19:51.407Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.8
+    }
+  },
+  "bidenforever": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:19:51.413Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bimehisimladalanadam": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:19:51.415Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
