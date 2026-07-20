@@ -1551,7 +1551,7 @@
   },
   "rahtamlik": {
     "score": 0,
-    "last_evaluated": "2026-07-19T13:33:30.677Z",
+    "last_evaluated": "2026-07-20T18:23:50.474Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -3216,6 +3216,16 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "cskn1903": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T18:23:50.472Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
       "nefret": 0
     }
   }
