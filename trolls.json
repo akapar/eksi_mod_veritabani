@@ -3258,5 +3258,45 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "decoy effect": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T18:33:05.669Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "dexxe": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T18:33:05.756Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "soamanager": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T18:33:05.784Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "outhernasyonal": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T18:33:05.842Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
