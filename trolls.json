@@ -610,12 +610,12 @@
     }
   },
   "dostnaystro": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T13:33:37.922Z",
+    "score": 80,
+    "last_evaluated": "2026-07-20T19:27:53.588Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
+      "milli": 0.8,
+      "siyasi": 0.6,
       "nefret": 0
     }
   },
@@ -771,7 +771,7 @@
   },
   "hamamcininodunus": {
     "score": 0,
-    "last_evaluated": "2026-07-18T13:56:47.068Z",
+    "last_evaluated": "2026-07-20T19:27:53.626Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -3336,6 +3336,66 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "deneysel psikoloji": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T19:27:43.552Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "deutsche am meer": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T19:27:43.630Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "dondurmakutusundancikandolma": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T19:27:43.696Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.4
+    }
+  },
+  "ibrahim tasteless": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T19:27:53.590Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0.2,
+      "siyasi": 0.2,
+      "nefret": 0.8
+    }
+  },
+  "nbr gbr": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T19:27:53.634Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "buikincideneme": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T19:27:53.889Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
       "nefret": 0
     }
   }
