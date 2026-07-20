@@ -1948,5 +1948,15 @@
       "siyasi": 0.4,
       "nefret": 0.2
     }
+  },
+  "juvini": {
+    "score": 20,
+    "last_evaluated": "2026-07-20T12:03:18.648Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
