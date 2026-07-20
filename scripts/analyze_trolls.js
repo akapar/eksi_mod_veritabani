@@ -273,4 +273,55 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
   "nefret": 0.0
 }`;
 
-        const response = await callGro
+        const response = await callGroqWithRetry(apiKey, prompt);
+        let text = response.trim();
+
+        if (text.startsWith('```')) {
+          text = text.replace(/^```json\s*/, '').replace(/```$/, '').trim();
+        }
+
+        console.log(`Groq response for '${nickname}': ${text}`);
+        const scores = JSON.parse(text);
+
+        const dini = parseFloat(scores.dini) || 0.0;
+        const milli = parseFloat(scores.milli) || 0.0;
+        const siyasi = parseFloat(scores.siyasi) || 0.0;
+        const nefret = parseFloat(scores.nefret) || 0.0;
+
+        const maxScoreVal = Math.max(dini, milli, siyasi, nefret);
+        const overallScore = Math.round(maxScoreVal * 100);
+
+        trolls[nickname] = {
+          score: overallScore,
+          last_evaluated: new Date().toISOString(),
+          details: { dini, milli, siyasi, nefret }
+        };
+
+        console.log(`Scored '${nickname}': Overall=${overallScore}, Dini=${dini}, Milli=${milli}, Siyasi=${siyasi}, Nefret=${nefret}`);
+
+        fs.unlinkSync(item.filePath);
+
+      } catch (e) {
+        console.error(`Error processing '${nickname}':`, e.message);
+      }
+    });
+
+    await Promise.all(promises);
+
+  } finally {
+    if (browser) {
+      await browser.close();
+      console.log('[Browser] Stealth browser closed.');
+    }
+  }
+
+  // Save updated database
+  try {
+    fs.writeFileSync(DB_FILE, JSON.stringify(trolls, null, 2), 'utf8');
+    console.log(`\nSuccessfully updated trolls.json.`);
+  } catch (e) {
+    console.error('Failed to write trolls.json:', e.message);
+  }
+}
+
+run().catch(console.error);
