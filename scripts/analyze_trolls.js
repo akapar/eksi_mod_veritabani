@@ -141,10 +141,23 @@ async function run() {
 
   const queueFiles = fs.readdirSync(QUEUE_DIR)
     .filter(file => file.endsWith('.json'))
-    .map(file => ({
-      file,
-      filePath: path.join(QUEUE_DIR, file)
-    }));
+    .map(file => {
+      const filePath = path.join(QUEUE_DIR, file);
+      let reportedAt = 0;
+      try {
+        const content = fs.readFileSync(filePath, 'utf8');
+        const match = content.match(/"reported_at"\s*:\s*"([^"]+)"/);
+        if (match && match[1]) {
+          reportedAt = new Date(match[1]).getTime();
+        } else {
+          reportedAt = fs.statSync(filePath).mtimeMs;
+        }
+      } catch (e) {
+        try { reportedAt = fs.statSync(filePath).mtimeMs; } catch(err) { reportedAt = 0; }
+      }
+      return { file, filePath, reportedAt };
+    })
+    .sort((a, b) => a.reportedAt - b.reportedAt);
 
   const MIN_BATCH_SIZE = 10;
   const isForceRun = process.env.FORCE_RUN === 'true';
