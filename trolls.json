@@ -1938,5 +1938,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "ghetto ea": {
+    "score": 60,
+    "last_evaluated": "2026-07-20T07:01:43.441Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.6,
+      "siyasi": 0.4,
+      "nefret": 0.2
+    }
   }
 }
