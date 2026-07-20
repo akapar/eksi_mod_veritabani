@@ -3168,5 +3168,55 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "farkli ses": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T18:22:53.185Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.8
+    }
+  },
+  "puzzleitis": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T18:22:53.186Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "denizbilimci": {
+    "score": 100,
+    "last_evaluated": "2026-07-20T18:22:53.193Z",
+    "details": {
+      "dini": 1,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 1
+    }
+  },
+  "dogu ile bati": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T18:22:53.338Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "yomra": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T18:22:53.484Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
