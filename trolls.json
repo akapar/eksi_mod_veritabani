@@ -2338,5 +2338,15 @@
       "siyasi": 0,
       "nefret": 0.8
     }
+  },
+  "yatakta edebiyat olmaz": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T15:46:05.885Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.4
+    }
   }
 }
