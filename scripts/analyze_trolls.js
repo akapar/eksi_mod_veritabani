@@ -181,22 +181,21 @@ async function run() {
   }
 
   try {
-    for (let idx = 0; idx < batch.length; idx++) {
-      const item = batch[idx];
+    const promises = batch.map(async (item, idx) => {
       let data;
       try {
         data = JSON.parse(fs.readFileSync(item.filePath, 'utf8'));
       } catch (e) {
         console.error(`Failed to read/parse queue file ${item.file}:`, e.message);
         fs.unlinkSync(item.filePath);
-        continue;
+        return;
       }
 
       const rawNickname = data.nickname;
       if (!rawNickname) {
         console.error(`Invalid data in queue file ${item.file}: missing 'nickname'.`);
         fs.unlinkSync(item.filePath);
-        continue;
+        return;
       }
 
       const nickname = rawNickname.trim().toLowerCase();
@@ -209,17 +208,16 @@ async function run() {
         if (hoursSinceLastEval < 24) {
           console.log(`Skipping '${nickname}'. Evaluated recently (${hoursSinceLastEval.toFixed(1)} hours ago).`);
           fs.unlinkSync(item.filePath);
-          continue;
+          return;
         }
       }
 
-      // Use pre-fetched entries from queue file if available, otherwise use browser
       let entries = (data.entries || []).filter(e => e.content && e.content.trim().length > 0);
       const hasCachedEntries = entries.length > 0;
 
       if (!hasCachedEntries && idx > 0) {
         if (ENABLE_BROWSER_FETCH) {
-          console.log(`Waiting ${REQUEST_DELAY_MS / 1000} seconds before next browser fetch...`);
+          // Note: browser fetch doesn't support concurrent well with a single page, but it's disabled anyway.
           await new Promise(resolve => setTimeout(resolve, REQUEST_DELAY_MS));
         }
       }
@@ -241,7 +239,7 @@ async function run() {
           } else {
             console.warn(`No entries found for '${nickname}' and browser fetch is disabled. Skipping...`);
             fs.unlinkSync(item.filePath);
-            continue;
+            return;
           }
         } else {
           console.log(`Using ${entries.length} pre-fetched entries from queue file.`);
@@ -250,12 +248,11 @@ async function run() {
         if (entries.length === 0) {
           console.warn(`No entries found for '${nickname}'. User may not exist or have no entries.`);
           fs.unlinkSync(item.filePath);
-          continue;
+          return;
         }
 
-        console.log(`Successfully got ${entries.length} entries. Sending to Groq for scoring...`);
+        console.log(`Successfully got ${entries.length} entries for '${nickname}'. Sending to Groq for scoring...`);
 
-        // Prepare Groq Prompt
         const prompt = `Aşağıda bir Ekşi Sözlük yazarının yazdığı son ${entries.length} entry bulunmaktadır. Bu yazıları dikkatlice analiz et ve yazarın yazılarındaki ihlal durumunu 4 farklı kategoride değerlendir:
 
 1. dini (Dini ve Kutsal Değerler Hassasiyeti): İnançlara, kutsal figürlere, dini ritüellere yönelik hakaret veya aşırı provokatif üslup var mı?
@@ -276,56 +273,4 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
   "nefret": 0.0
 }`;
 
-        const response = await callGroqWithRetry(apiKey, prompt);
-        let text = response.trim();
-
-        // Clean markdown code blocks if model wraps response
-        if (text.startsWith('```')) {
-          text = text.replace(/^```json\s*/, '').replace(/```$/, '').trim();
-        }
-
-        console.log(`Groq response: ${text}`);
-        const scores = JSON.parse(text);
-
-        const dini = parseFloat(scores.dini) || 0.0;
-        const milli = parseFloat(scores.milli) || 0.0;
-        const siyasi = parseFloat(scores.siyasi) || 0.0;
-        const nefret = parseFloat(scores.nefret) || 0.0;
-
-        // Overall score = highest category * 100
-        const maxScoreVal = Math.max(dini, milli, siyasi, nefret);
-        const overallScore = Math.round(maxScoreVal * 100);
-
-        trolls[nickname] = {
-          score: overallScore,
-          last_evaluated: new Date().toISOString(),
-          details: { dini, milli, siyasi, nefret }
-        };
-
-        console.log(`Scored '${nickname}': Overall=${overallScore}, Dini=${dini}, Milli=${milli}, Siyasi=${siyasi}, Nefret=${nefret}`);
-
-        // Delete queue file upon successful evaluation
-        fs.unlinkSync(item.filePath);
-
-      } catch (e) {
-        console.error(`Error processing '${nickname}':`, e.message);
-        // Keep queue file on error for retry in next run
-      }
-    }
-  } finally {
-    if (browser) {
-      await browser.close();
-      console.log('[Browser] Stealth browser closed.');
-    }
-  }
-
-  // Save updated database
-  try {
-    fs.writeFileSync(DB_FILE, JSON.stringify(trolls, null, 2), 'utf8');
-    console.log(`\nSuccessfully updated trolls.json.`);
-  } catch (e) {
-    console.error('Failed to write trolls.json:', e.message);
-  }
-}
-
-run().catch(console.error);
+        const response = await callGro
