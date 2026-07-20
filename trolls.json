@@ -1958,5 +1958,25 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "ayininayagakalkmishali": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T12:07:27.847Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "persimmon61": {
+    "score": 20,
+    "last_evaluated": "2026-07-20T12:07:28.240Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
