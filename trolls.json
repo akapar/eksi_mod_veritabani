@@ -2298,5 +2298,45 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "a for axi": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:50:49.597Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "acemal": {
+    "score": 100,
+    "last_evaluated": "2026-07-20T13:50:59.370Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 1
+    }
+  },
+  "abbondanzieri": {
+    "score": 60,
+    "last_evaluated": "2026-07-20T13:50:59.386Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "76 bir bilen mi": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:50:59.692Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
   }
 }
