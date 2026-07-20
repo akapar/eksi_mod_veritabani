@@ -146,8 +146,16 @@ async function run() {
       filePath: path.join(QUEUE_DIR, file)
     }));
 
+  const MIN_BATCH_SIZE = 10;
+  const isForceRun = process.env.FORCE_RUN === 'true';
+
   if (queueFiles.length === 0) {
     console.log('Queue is empty. Nothing to process.');
+    return;
+  }
+
+  if (queueFiles.length < MIN_BATCH_SIZE && !isForceRun) {
+    console.log(`Queue has ${queueFiles.length} items. Waiting for at least ${MIN_BATCH_SIZE} before processing.`);
     return;
   }
 
