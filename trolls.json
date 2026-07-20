@@ -2068,5 +2068,105 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "dans ve israr": {
+    "score": 60,
+    "last_evaluated": "2026-07-20T13:11:31.328Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "2303nnn": {
+    "score": 20,
+    "last_evaluated": "2026-07-20T13:11:31.389Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.1
+    }
+  },
+  "dalmakotuolur": {
+    "score": 20,
+    "last_evaluated": "2026-07-20T13:11:31.400Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "timurun fillerinin bakicisi": {
+    "score": 20,
+    "last_evaluated": "2026-07-20T13:11:31.453Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "61ts": {
+    "score": 40,
+    "last_evaluated": "2026-07-20T13:11:31.481Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "seckinmuzik": {
+    "score": 90,
+    "last_evaluated": "2026-07-20T13:11:31.565Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.9,
+      "nefret": 0.2
+    }
+  },
+  "revile34": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:11:31.758Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "justanotheridea": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:11:41.392Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "west indies": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T13:11:41.497Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "vusta": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T13:11:41.603Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
