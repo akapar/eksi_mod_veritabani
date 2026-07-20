@@ -2898,5 +2898,35 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "cingiz": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:33:15.038Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.5,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "alanyali": {
+    "score": 90,
+    "last_evaluated": "2026-07-20T16:33:15.046Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.9
+    }
+  },
+  "bohemiantirad": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:33:15.277Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.5,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
   }
 }
