@@ -60,13 +60,13 @@
     }
   },
   "beytiahzan": {
-    "score": 0,
-    "last_evaluated": "2026-07-17T11:02:41.700Z",
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:07:22.326Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.4
     }
   },
   "bulamadim bir nick": {
@@ -210,12 +210,12 @@
     }
   },
   "komikmisinlan": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T08:23:34.419Z",
+    "score": 90,
+    "last_evaluated": "2026-07-20T13:07:22.327Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
+      "milli": 0.8,
+      "siyasi": 0.9,
       "nefret": 0
     }
   },
@@ -660,12 +660,12 @@
     }
   },
   "eski deniz feneri": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T13:52:24.760Z",
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:07:22.268Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.8,
       "nefret": 0
     }
   },
@@ -1997,6 +1997,76 @@
       "milli": 0,
       "siyasi": 0.8,
       "nefret": 0.4
+    }
+  },
+  "astralseyehatyaparkenkaybolanadam": {
+    "score": 20,
+    "last_evaluated": "2026-07-20T13:07:22.318Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "matematikseladam": {
+    "score": 60,
+    "last_evaluated": "2026-07-20T13:07:22.480Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
+  },
+  "transparan soyut": {
+    "score": 60,
+    "last_evaluated": "2026-07-20T13:07:22.535Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.1
+    }
+  },
+  "cemregillerden": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T13:07:22.650Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "a little bird told me": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T13:07:23.055Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "johatsu": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T13:07:32.342Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "silah arkadaslarinin bedduasini alan zat": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T13:07:32.430Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
