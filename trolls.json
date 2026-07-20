@@ -2928,5 +2928,65 @@
       "siyasi": 0.8,
       "nefret": 0
     }
+  },
+  "apokaliptikyazar": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:34:54.529Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bordobmw": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:34:54.532Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.8
+    }
+  },
+  "birvahsikelebek": {
+    "score": 20,
+    "last_evaluated": "2026-07-20T16:34:54.581Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "ddsmac": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:34:54.589Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "cuneytkl": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:34:54.591Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "culo inquieto": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:34:54.744Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
   }
 }
