@@ -1978,5 +1978,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "nerissa hatun": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T12:14:29.442Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
   }
 }
