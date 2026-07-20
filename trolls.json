@@ -2258,5 +2258,45 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "abruzziarchill": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T13:18:50.396Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "8k": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T13:18:50.413Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ayhann71": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T13:18:50.446Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "abdusselamaleykumselam": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T13:18:50.454Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
