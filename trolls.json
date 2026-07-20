@@ -2728,5 +2728,45 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "bybydedingitdemedin": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:22:29.601Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "birgezginadam": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:22:29.628Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "contragiray": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:22:29.668Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "cag atlanirken arada kalan adam": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:22:29.674Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
