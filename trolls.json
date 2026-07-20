@@ -301,7 +301,7 @@
   },
   "babanaparaverdim": {
     "score": 0,
-    "last_evaluated": "2026-07-18T08:53:52.036Z",
+    "last_evaluated": "2026-07-20T16:15:03.814Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -2434,6 +2434,66 @@
     "last_evaluated": "2026-07-20T16:13:18.876Z",
     "details": {
       "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "bakilan": {
+    "score": 90,
+    "last_evaluated": "2026-07-20T16:15:03.758Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.9
+    }
+  },
+  "bazgiret": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:15:03.780Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "aynuristan": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T16:15:03.784Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.5,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "baltazarrr321": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:15:03.794Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "berkay85": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:15:03.797Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bedomango2": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:15:03.822Z",
+    "details": {
+      "dini": 0,
       "milli": 0,
       "siyasi": 0.5,
       "nefret": 0.5
