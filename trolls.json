@@ -2818,5 +2818,45 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "cilli horozun intikami": {
+    "score": 60,
+    "last_evaluated": "2026-07-20T16:26:06.450Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "cathars": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:26:06.459Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "cinque": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T16:26:06.467Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "cok acim sucuk ekmek istiyorum": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T16:26:06.558Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.5,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
