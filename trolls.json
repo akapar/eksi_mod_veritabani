@@ -3308,5 +3308,35 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "suskun zamanlar": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T18:39:33.385Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "doktormulaim": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T18:39:33.469Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "denizdenucanadam": {
+    "score": 60,
+    "last_evaluated": "2026-07-20T18:39:33.516Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
   }
 }
