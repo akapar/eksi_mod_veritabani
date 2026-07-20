@@ -3038,5 +3038,105 @@
       "siyasi": 0.8,
       "nefret": 0.6
     }
+  },
+  "cool gear": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T17:26:03.109Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "darkomedia": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T17:26:03.142Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0.2,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "cnc": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T17:26:03.161Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.2,
+      "siyasi": 0,
+      "nefret": 0.3
+    }
+  },
+  "djforever": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T17:26:03.283Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "dersaadet34": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T17:26:12.909Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "deniz gecmis": {
+    "score": 80,
+    "last_evaluated": "2026-07-20T17:26:12.935Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "derectus": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T17:26:12.973Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "counteroffensive": {
+    "score": 50,
+    "last_evaluated": "2026-07-20T17:26:13.005Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "dert etme terk et": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T17:26:13.075Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "damlalarin damlasi": {
+    "score": 0,
+    "last_evaluated": "2026-07-20T17:26:13.274Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
