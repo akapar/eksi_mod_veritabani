@@ -260,12 +260,12 @@
     }
   },
   "derelaj": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T08:32:07.126Z",
+    "score": 50,
+    "last_evaluated": "2026-07-21T17:43:25.318Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.5,
       "nefret": 0
     }
   },
@@ -4126,6 +4126,96 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "nbrlandegisik": {
+    "score": 0,
+    "last_evaluated": "2026-07-21T17:41:39.616Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "aramizda jesus var": {
+    "score": 0,
+    "last_evaluated": "2026-07-21T17:41:49.981Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sultanapex": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T17:42:33.440Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "mesut insanlar fotografhanesi": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T17:42:43.853Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "cenabettin the fourth": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T17:42:54.107Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "ali kalaylar": {
+    "score": 0,
+    "last_evaluated": "2026-07-21T17:43:04.489Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "aktifkarbon": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T17:43:14.868Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.5,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "e23": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T17:43:35.553Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "last pirate jack sparrow": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T17:43:45.734Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
       "nefret": 0
     }
   }
