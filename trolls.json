@@ -3958,5 +3958,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "sa de su da so da": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T14:56:09.310Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
   }
 }
