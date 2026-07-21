@@ -3968,5 +3968,65 @@
       "siyasi": 0.8,
       "nefret": 0.6
     }
+  },
+  "san marino teknik direktoru": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T15:29:42.363Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "con snovun jokeri": {
+    "score": 40,
+    "last_evaluated": "2026-07-21T15:29:42.788Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "gentoure": {
+    "score": 0,
+    "last_evaluated": "2026-07-21T15:29:53.037Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "paolomaldini": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T15:30:03.461Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "nickimi getirin ulen": {
+    "score": 0,
+    "last_evaluated": "2026-07-21T15:30:13.754Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "atini seven": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T15:30:24.004Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
