@@ -3688,5 +3688,95 @@
       "siyasi": 0.8,
       "nefret": 0
     }
+  },
+  "pradayi": {
+    "score": 40,
+    "last_evaluated": "2026-07-21T11:05:44.175Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.4
+    }
+  },
+  "emektar dusunur": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T11:05:44.259Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "pandalp": {
+    "score": 20,
+    "last_evaluated": "2026-07-21T11:05:44.292Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "sayiylabindokuzyuz7": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T11:05:44.369Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "another crack on the wall": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T11:05:44.426Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "indie dreams": {
+    "score": 40,
+    "last_evaluated": "2026-07-21T11:05:44.638Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.4
+    }
+  },
+  "sataram koyu ha": {
+    "score": 20,
+    "last_evaluated": "2026-07-21T11:05:44.834Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "suskunnefer": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T11:05:54.690Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "qashqai": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T11:05:54.804Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
   }
 }
