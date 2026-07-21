@@ -3918,5 +3918,35 @@
       "siyasi": 0,
       "nefret": 0.5
     }
+  },
+  "imwalterwhite": {
+    "score": 60,
+    "last_evaluated": "2026-07-21T14:37:29.674Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "wiegehtesihnen": {
+    "score": 60,
+    "last_evaluated": "2026-07-21T14:37:29.827Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "derin sedasyon": {
+    "score": 0,
+    "last_evaluated": "2026-07-21T14:37:40.440Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
