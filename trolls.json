@@ -440,12 +440,12 @@
     }
   },
   "borates": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T11:38:22.539Z",
+    "score": 80,
+    "last_evaluated": "2026-07-21T12:39:27.366Z",
     "details": {
-      "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
+      "dini": 0.8,
+      "milli": 0.8,
+      "siyasi": 0.6,
       "nefret": 0
     }
   },
@@ -3777,6 +3777,76 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0.5
+    }
+  },
+  "duymasinbenimkiler": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T12:39:17.397Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "hayattagordugumenobjektifadambenim": {
+    "score": 20,
+    "last_evaluated": "2026-07-21T12:39:17.617Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "island er besti stadurinn til ad lifa": {
+    "score": 40,
+    "last_evaluated": "2026-07-21T12:39:17.916Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.4
+    }
+  },
+  "oblenskiy": {
+    "score": 20,
+    "last_evaluated": "2026-07-21T12:39:17.936Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.1
+    }
+  },
+  "dememi": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T12:39:27.300Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "enlargement": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T12:39:27.350Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "ispanakye": {
+    "score": 0,
+    "last_evaluated": "2026-07-21T12:39:27.382Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
