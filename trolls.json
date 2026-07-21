@@ -4218,5 +4218,75 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "tukenmisskalem": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T19:06:23.056Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "everybody congratulated me": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T19:06:23.268Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "a new hour": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T19:06:23.661Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "redacted": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T19:06:24.065Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "huysuzbeyinsendromu": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T19:06:34.335Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "dokuzuncukoydensonkovulanadam": {
+    "score": 0,
+    "last_evaluated": "2026-07-21T19:07:25.859Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "tanrilarsusamislardi": {
+    "score": 20,
+    "last_evaluated": "2026-07-21T19:07:36.313Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
