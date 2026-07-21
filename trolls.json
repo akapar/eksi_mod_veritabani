@@ -4288,5 +4288,65 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "wukonghai": {
+    "score": 60,
+    "last_evaluated": "2026-07-21T20:58:59.676Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
+  },
+  "teal": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T20:59:00.183Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.4
+    }
+  },
+  "cnrplt": {
+    "score": 20,
+    "last_evaluated": "2026-07-21T20:59:00.541Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "anavatra": {
+    "score": 20,
+    "last_evaluated": "2026-07-21T20:59:00.882Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "hollandali": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T20:59:01.235Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0,
+      "siyasi": 0.7,
+      "nefret": 0.6
+    }
+  },
+  "alicopter": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T20:59:01.759Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
   }
 }
