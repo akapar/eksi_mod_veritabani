@@ -3848,5 +3848,35 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "kocermio": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T13:03:32.740Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "murhin": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T13:03:42.860Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "machiavellian": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T13:03:43.977Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
   }
 }
