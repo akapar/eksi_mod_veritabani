@@ -700,13 +700,13 @@
     }
   },
   "g23": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T13:53:34.815Z",
+    "score": 90,
+    "last_evaluated": "2026-07-21T11:02:30.446Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "milli": 0.8,
+      "siyasi": 0.9,
+      "nefret": 0.2
     }
   },
   "gaspetizm": {
@@ -3616,6 +3616,76 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "tebdili kiyafetce": {
+    "score": 40,
+    "last_evaluated": "2026-07-21T11:02:30.327Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0.4,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "sfenk35": {
+    "score": 20,
+    "last_evaluated": "2026-07-21T11:02:30.470Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "hohem": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T11:02:30.470Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.6,
+      "nefret": 0.7
+    }
+  },
+  "buharsacli": {
+    "score": 20,
+    "last_evaluated": "2026-07-21T11:02:30.494Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "teleskopcu": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T11:02:30.592Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "addementa": {
+    "score": 0,
+    "last_evaluated": "2026-07-21T11:02:30.602Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "wasterzhi": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T11:02:40.983Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
       "nefret": 0
     }
   }
