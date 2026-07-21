@@ -3948,5 +3948,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "trajedi": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T14:42:22.830Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
