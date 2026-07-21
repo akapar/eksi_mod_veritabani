@@ -3878,5 +3878,45 @@
       "siyasi": 0.8,
       "nefret": 0.6
     }
+  },
+  "ruyamda hunter idim": {
+    "score": 40,
+    "last_evaluated": "2026-07-21T13:20:17.575Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.2
+    }
+  },
+  "planlama": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T13:20:27.638Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "flash tv nin sahibi": {
+    "score": 0,
+    "last_evaluated": "2026-07-21T13:20:27.666Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kamajikaciya": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T13:20:27.677Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
   }
 }
