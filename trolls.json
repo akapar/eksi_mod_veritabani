@@ -4028,5 +4028,105 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "zorasali": {
+    "score": 40,
+    "last_evaluated": "2026-07-21T17:31:13.024Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.4,
+      "nefret": 0.2
+    }
+  },
+  "yigit kamcilayan borc": {
+    "score": 20,
+    "last_evaluated": "2026-07-21T17:31:13.398Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "dahnzehn": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T17:31:13.790Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "adimnickdegil": {
+    "score": 60,
+    "last_evaluated": "2026-07-21T17:31:14.060Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "mackass": {
+    "score": 20,
+    "last_evaluated": "2026-07-21T17:31:14.715Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "indigoloji": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T17:31:15.080Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "postmodern nicklerin hayraniyiz": {
+    "score": 90,
+    "last_evaluated": "2026-07-21T17:31:15.450Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.9,
+      "nefret": 0.7
+    }
+  },
+  "rheinland pfalz": {
+    "score": 80,
+    "last_evaluated": "2026-07-21T17:31:15.838Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "guneslenen adam": {
+    "score": 50,
+    "last_evaluated": "2026-07-21T17:31:26.281Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.5,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "andabiranda": {
+    "score": 0,
+    "last_evaluated": "2026-07-21T17:31:36.730Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
