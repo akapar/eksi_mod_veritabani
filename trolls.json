@@ -740,13 +740,13 @@
     }
   },
   "geri donen mektup": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T13:55:07.726Z",
+    "score": 80,
+    "last_evaluated": "2026-07-22T15:26:35.680Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "milli": 0.8,
+      "siyasi": 0.6,
+      "nefret": 0.8
     }
   },
   "get on the my floor": {
@@ -4492,6 +4492,46 @@
   "eksi sozlugun en degerli yazari": {
     "score": 80,
     "last_evaluated": "2026-07-22T13:24:43.065Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.4
+    }
+  },
+  "nickulaniste": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T15:26:35.126Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "yosunga": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T15:26:36.364Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "cengovski": {
+    "score": 0,
+    "last_evaluated": "2026-07-22T15:26:36.841Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "izlanda": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T15:26:37.287Z",
     "details": {
       "dini": 0,
       "milli": 0,
