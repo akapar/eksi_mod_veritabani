@@ -400,12 +400,12 @@
     }
   },
   "blackact": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T10:24:30.261Z",
+    "score": 80,
+    "last_evaluated": "2026-07-22T13:24:42.288Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.8,
       "nefret": 0
     }
   },
@@ -4477,6 +4477,26 @@
       "milli": 0,
       "siyasi": 0.8,
       "nefret": 0
+    }
+  },
+  "ismail hakki altuntas": {
+    "score": 0,
+    "last_evaluated": "2026-07-22T13:24:42.660Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "eksi sozlugun en degerli yazari": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T13:24:43.065Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.4
     }
   }
 }
