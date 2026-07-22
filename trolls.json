@@ -4348,5 +4348,45 @@
       "siyasi": 0.8,
       "nefret": 0
     }
+  },
+  "penguenleri severim": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T08:11:17.015Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.4
+    }
+  },
+  "pistolnoob": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T08:11:17.377Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "enver von enverland": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T08:11:17.673Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "hellboy7": {
+    "score": 20,
+    "last_evaluated": "2026-07-22T08:11:17.993Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
