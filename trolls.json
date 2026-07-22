@@ -1091,7 +1091,7 @@
   },
   "kesinlikle dengesizim": {
     "score": 0,
-    "last_evaluated": "2026-07-18T20:07:28.573Z",
+    "last_evaluated": "2026-07-22T12:46:36.034Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -4386,6 +4386,96 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "murath": {
+    "score": 20,
+    "last_evaluated": "2026-07-22T12:46:33.524Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "mentatification": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T12:46:34.076Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "asiri tuketiminde olusan laksatif etki": {
+    "score": 60,
+    "last_evaluated": "2026-07-22T12:46:34.343Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "copier bond": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T12:46:34.692Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "orjinaryus": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T12:46:35.229Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "thatismylife": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T12:46:35.780Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.1
+    }
+  },
+  "fizyokrat": {
+    "score": 50,
+    "last_evaluated": "2026-07-22T12:46:36.332Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "novipa": {
+    "score": 60,
+    "last_evaluated": "2026-07-22T12:46:37.020Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "anani siken kadi": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T12:46:38.029Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
       "nefret": 0
     }
   }
