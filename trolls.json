@@ -4538,5 +4538,15 @@
       "siyasi": 0.8,
       "nefret": 0.4
     }
+  },
+  "egopat": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T17:08:18.447Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
   }
 }
