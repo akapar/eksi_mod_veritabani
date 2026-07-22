@@ -1610,12 +1610,12 @@
     }
   },
   "rhan": {
-    "score": 0,
-    "last_evaluated": "2026-07-19T13:34:13.304Z",
+    "score": 80,
+    "last_evaluated": "2026-07-22T18:59:49.203Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.8,
       "nefret": 0
     }
   },
@@ -4542,6 +4542,76 @@
   "egopat": {
     "score": 80,
     "last_evaluated": "2026-07-22T17:08:18.447Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "ebedihayatgranprix": {
+    "score": 60,
+    "last_evaluated": "2026-07-22T18:59:47.312Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
+  },
+  "swarley stinson": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T18:59:47.705Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "bekomurat": {
+    "score": 40,
+    "last_evaluated": "2026-07-22T18:59:48.000Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.4
+    }
+  },
+  "zeus your son has returned": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T18:59:48.248Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "ruhani lider 7": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T18:59:48.499Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "a journey in the dark": {
+    "score": 20,
+    "last_evaluated": "2026-07-22T18:59:48.809Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "fairs": {
+    "score": 80,
+    "last_evaluated": "2026-07-22T18:59:49.405Z",
     "details": {
       "dini": 0,
       "milli": 0,
