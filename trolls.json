@@ -6978,5 +6978,75 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "nimda": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T20:44:32.961Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "offical yazar": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T20:44:43.289Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "safcocuk": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:44:53.561Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "rehetsiz": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T20:45:03.824Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "alpgiray": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:45:14.321Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kubar terziyan": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T20:45:24.663Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "teslatron": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:45:35.071Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
