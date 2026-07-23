@@ -4968,5 +4968,175 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "freemo716": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:19:48.337Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "gabarcik": {
+    "score": 60,
+    "last_evaluated": "2026-07-23T07:19:48.875Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.2
+    }
+  },
+  "gedik ahmet pasha": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:19:49.217Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "gvnnn": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:19:49.582Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "hazard ratio": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:19:51.815Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "hemi tune tune": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:19:54.094Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "in gold we trust": {
+    "score": 40,
+    "last_evaluated": "2026-07-23T07:19:58.454Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.4,
+      "nefret": 0.2
+    }
+  },
+  "ippolit kirillovic": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:20:02.781Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kaptanceksparrow": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:20:08.233Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0
+    }
+  },
+  "keremtunaa": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:20:12.461Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "kingkrule": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:20:16.829Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "lethestyx": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:20:20.063Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "lmrvnx": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:20:24.322Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "maximiliano ramirez": {
+    "score": 90,
+    "last_evaluated": "2026-07-23T07:20:31.701Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0.4,
+      "siyasi": 0.7,
+      "nefret": 0.9
+    }
+  },
+  "men kucik chomichmen": {
+    "score": 40,
+    "last_evaluated": "2026-07-23T07:20:36.074Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "montkomeri": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:20:43.354Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "nasil eksici oldum": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:20:44.558Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
