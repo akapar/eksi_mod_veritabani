@@ -6648,5 +6648,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "arma yann tiersen": {
+    "score": 40,
+    "last_evaluated": "2026-07-23T15:48:53.032Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.4
+    }
+  },
+  "estelin lilibeth": {
+    "score": 40,
+    "last_evaluated": "2026-07-23T15:48:53.831Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.4
+    }
   }
 }
