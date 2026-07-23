@@ -380,13 +380,13 @@
     }
   },
   "berilangabeach": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T10:21:46.367Z",
+    "score": 40,
+    "last_evaluated": "2026-07-23T20:03:40.621Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "siyasi": 0.2,
+      "nefret": 0.4
     }
   },
   "besincisi ne": {
@@ -6787,6 +6787,76 @@
       "milli": 0,
       "siyasi": 0.8,
       "nefret": 0.2
+    }
+  },
+  "superimbenmuthisimaferimbana": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T20:03:39.251Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "tuzlu leblebi": {
+    "score": 40,
+    "last_evaluated": "2026-07-23T20:03:39.639Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.4
+    }
+  },
+  "dedi ve ekle me di": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T20:03:40.115Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.4,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "penelope pussycat": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T20:03:41.169Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "thechef2": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:04:13.358Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "jc denton": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:04:23.763Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "better than nothing": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T20:04:34.185Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
     }
   }
 }
