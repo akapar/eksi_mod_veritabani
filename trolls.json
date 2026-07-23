@@ -7048,5 +7048,65 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "erasmusla gelen yamyam": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T20:53:35.229Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "biz de bos degiliz yani": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:53:56.217Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "irispi cicigi": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T20:54:06.552Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "corcihaci": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T20:54:17.040Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "nemlendirici": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T20:54:27.423Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.8
+    }
+  },
+  "sir saklayan muhafazakar zenci": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T20:54:37.816Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
