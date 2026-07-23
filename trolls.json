@@ -4618,5 +4618,95 @@
       "siyasi": 0.8,
       "nefret": 0
     }
+  },
+  "shadyphobia": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:13:12.989Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "nickomu": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:13:13.414Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "osmanov siki": {
+    "score": 90,
+    "last_evaluated": "2026-07-23T07:13:13.941Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.9,
+      "nefret": 0.2
+    }
+  },
+  "sheldon coopers cousin": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:13:14.224Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "fatihtok": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:13:14.648Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "baygeveze": {
+    "score": 90,
+    "last_evaluated": "2026-07-23T07:13:15.003Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.9
+    }
+  },
+  "kendini arayan adamin kendi": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:13:15.360Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bursaray": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:13:15.753Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.4
+    }
+  },
+  "kinginthehaymana": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:13:16.142Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
