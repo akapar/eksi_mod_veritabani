@@ -5258,5 +5258,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "yorgun aksamlar80": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T08:14:27.765Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0.6,
+      "siyasi": 0.4,
+      "nefret": 0.8
+    }
+  },
+  "zeytinnci": {
+    "score": 40,
+    "last_evaluated": "2026-07-23T08:14:28.165Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.4
+    }
   }
 }
