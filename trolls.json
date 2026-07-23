@@ -5428,5 +5428,155 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "cigkufte": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T11:41:31.485Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "cokonemlidegilzaten": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:41:41.872Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "dahaderinden": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:41:52.308Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "dalgaya gelmek": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:42:02.677Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "dogu akdeniz": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:42:13.059Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "ebdal": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:42:23.481Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ebu hureyrenin kedisi": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:42:33.910Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "ekaraurgan": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:42:44.346Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "el classico": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:42:54.700Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.5,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "eren34": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:43:05.068Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "iktidaryumagi": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:43:15.408Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ismailhan1": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:43:25.782Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "iyotsuz sofra tuzu": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T11:43:36.135Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "jaws": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:43:46.511Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "kader mahdumu": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:43:56.993Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
