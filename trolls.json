@@ -6768,5 +6768,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "sadimazi": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T19:01:37.267Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "dunyayagecgelenkisi": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T19:01:37.874Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
   }
 }
