@@ -1231,7 +1231,7 @@
   },
   "laplupbop": {
     "score": 0,
-    "last_evaluated": "2026-07-20T18:36:33.196Z",
+    "last_evaluated": "2026-07-23T11:51:48.468Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -3190,12 +3190,12 @@
     }
   },
   "puzzleitis": {
-    "score": 0,
-    "last_evaluated": "2026-07-20T18:22:53.186Z",
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:54:02.994Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.5,
       "nefret": 0
     }
   },
@@ -5572,6 +5572,276 @@
   "kader mahdumu": {
     "score": 0,
     "last_evaluated": "2026-07-23T11:43:56.993Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kaybass": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:50:15.281Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "kaymaksiz kuymak": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:50:25.615Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kobradovic1": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:50:36.128Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "konversif osman efendi": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:50:46.422Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "korhan sayginel": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:50:56.694Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kuluckasizyumurta": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:51:07.101Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "kurbaga uyandi": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:51:17.388Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "kurtinindeki adam": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T11:51:27.897Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.5,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "kuzey guney amerika": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:51:38.132Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "lesvos": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:51:58.774Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "leuchten": {
+    "score": 100,
+    "last_evaluated": "2026-07-23T11:52:09.033Z",
+    "details": {
+      "dini": 1,
+      "milli": 1,
+      "siyasi": 0,
+      "nefret": 1
+    }
+  },
+  "loruspucta": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:52:19.395Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "mahud": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:52:29.711Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "maimetu": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:52:40.617Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "matrax2100": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:52:50.888Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "mecnunumleylam": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T11:53:01.258Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "paslanmazdemir": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:53:11.571Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "pikeas": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:53:21.800Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "piknick": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:53:32.179Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "plazma": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:53:42.399Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.5,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "punkrock1907": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:53:52.748Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "qutrit": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:54:13.472Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "rambulhwa": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:54:23.852Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sad olricc": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:54:34.353Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "samuron": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:54:44.626Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "scandsucker": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:54:55.275Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "scientist15": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:55:05.783Z",
     "details": {
       "dini": 0,
       "milli": 0,
