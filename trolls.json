@@ -6668,5 +6668,105 @@
       "siyasi": 0.2,
       "nefret": 0.4
     }
+  },
+  "heralarca": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T18:27:37.356Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kul ahmedin ceketi": {
+    "score": 40,
+    "last_evaluated": "2026-07-23T18:27:37.748Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.4
+    }
+  },
+  "aminabonito": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T18:27:38.172Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ruhsuz": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T18:27:38.439Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "lorlen": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T18:27:38.791Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "uykututmaz": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T18:27:39.078Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "kapamagozlerini": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T18:27:39.335Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "princessofnihilism": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T18:27:39.680Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "fifty five falls": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T18:27:40.068Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "29 mayis 1453 gunu hasta olan yeniceri": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T18:27:50.436Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
