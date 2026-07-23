@@ -780,12 +780,12 @@
     }
   },
   "hamamcininodunus": {
-    "score": 0,
-    "last_evaluated": "2026-07-20T19:27:53.626Z",
+    "score": 80,
+    "last_evaluated": "2026-07-23T22:48:50.321Z",
     "details": {
-      "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
+      "dini": 0.2,
+      "milli": 0.4,
+      "siyasi": 0.8,
       "nefret": 0
     }
   },
@@ -1330,23 +1330,23 @@
     }
   },
   "mopan": {
-    "score": 20,
-    "last_evaluated": "2026-07-19T13:26:51.387Z",
+    "score": 80,
+    "last_evaluated": "2026-07-23T22:49:01.279Z",
     "details": {
       "dini": 0,
-      "milli": 0.2,
-      "siyasi": 0.1,
-      "nefret": 0.1
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
     }
   },
   "mr scream": {
-    "score": 20,
-    "last_evaluated": "2026-07-19T13:27:12.789Z",
+    "score": 80,
+    "last_evaluated": "2026-07-23T22:48:50.744Z",
     "details": {
       "dini": 0,
       "milli": 0.2,
-      "siyasi": 0.1,
-      "nefret": 0.1
+      "siyasi": 0.8,
+      "nefret": 0
     }
   },
   "muhalif13": {
@@ -7146,6 +7146,56 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "zanutsas": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T22:48:49.263Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
+  },
+  "kanun ve namlu": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T22:48:49.639Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "masalnehir": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T22:48:50.007Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "hayirsiz": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T22:49:11.640Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "glonass": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T22:49:32.616Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
       "nefret": 0
     }
   }
