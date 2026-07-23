@@ -6318,5 +6318,135 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "ayanadam": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T13:28:12.041Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "beni emniyete goturun sikinti cikaricam": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T13:28:12.421Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "gelgelsarisinimsagyapgel": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T13:28:12.805Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "nickmis cok da nickimdeydi": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T13:28:13.204Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "tojourus": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T13:29:37.329Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "tudapa": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T13:29:47.817Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "tuluma gayda diyen adam": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T13:29:58.199Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "ucansarman": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T13:30:08.649Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "webya": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T13:30:19.122Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "x68000": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T13:30:29.516Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "yel senin oranda esiyor orospu": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T13:30:39.906Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "yetkin99": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T13:30:50.270Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "zakir": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T13:31:00.665Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
   }
 }
