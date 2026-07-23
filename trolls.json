@@ -7108,5 +7108,45 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "ahmet ver muzugu": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T21:06:52.997Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "jamirikua": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T21:07:03.351Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "marjinalilahiyatci": {
+    "score": 40,
+    "last_evaluated": "2026-07-23T21:07:13.603Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "aelmaci": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T21:07:45.241Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
   }
 }
