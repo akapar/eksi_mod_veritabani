@@ -9,6 +9,16 @@
       "nefret": 0.2
     }
   },
+  "155551": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:33:37.039Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
   "hiperaktf c": {
     "score": 90,
     "last_evaluated": "2026-07-17T05:23:36.135Z",
@@ -500,12 +510,12 @@
     }
   },
   "akaco": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T12:44:49.788Z",
+    "score": 80,
+    "last_evaluated": "2026-07-23T11:33:40.130Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
       "nefret": 0
     }
   },
@@ -5277,6 +5287,86 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0.4
+    }
+  },
+  "60 dakika": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:33:37.566Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "7deliklitokmak": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:33:38.059Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "abi tartiyim mi": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:33:38.613Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "adams kerler": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T11:33:39.076Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.2
+    }
+  },
+  "addiroy": {
+    "score": 40,
+    "last_evaluated": "2026-07-23T11:33:39.522Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.4
+    }
+  },
+  "akliselim sultan": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T11:33:40.609Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.1
+    }
+  },
+  "altero": {
+    "score": 40,
+    "last_evaluated": "2026-07-23T11:33:40.970Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.2
+    }
+  },
+  "anarkhos": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T11:33:41.502Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
     }
   }
 }
