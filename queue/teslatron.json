@@ -1,0 +1,46 @@
+{
+  "nickname": "teslatron",
+  "reported_at": "2026-07-23T20:43:44.527Z",
+  "entries": [
+    {
+      "title": "yeni parti",
+      "content": "akıllardaki tek soru, sezgin tanrıkulu ve saz arkadaşları da yeni partiye geliyor mu?"
+    },
+    {
+      "title": "almanya'nın 62 ülkeye vizesiz giriş hakkı vermesi",
+      "content": "varya çok ayıp ediyorsun doçland. 1. dünya savaşında müttefiktik. 2. dünya savaşında gücü kaybedince isveç dahil herkes sana savaş ilan ederken biz tarafsız kaldık. savaş sonrası gereken iş gücü ve pis işler için misafir işçi gönderdik. hiçbir almanın çalışmayacağı madenler ve ağır fabrika işlerinde çalışıp alman ekonomisine ciddi katkıda bulunduk. ulan dönerin de mi hatrı yok, yazıklar olsunbiz naptık bu almanlara içten içe besledikleri bu kin ve nefret nedir bir türlü anlam veremiyorum. bir kara veya deniz bağımız yok. stratejik hedeflerimiz kesişmiyor. neden almanya neden, neden bay andersonsadece vize mi. yıllarca ne kadar zararlı cemiyet, dernek varsa hepsini el altından beslediler, necip hablemitoğlu konu hakkında kitapları var. (bkz: alman vakıfları ve bergama dosyası)"
+    },
+    {
+      "title": "aysu bankoğlu",
+      "content": "avukat hanım napıyorsunuz. ulan böyle iş mi olur ya. nerdeyse öldürülen, gençlikleri çalınan çocukları suçlu çıkartacaklar: https://x.com/…oglu/status/2027009602743644478?s=20avukat hanımın bahsettiği fakirlikten suça bulaşmış çocuklar:https://x.com/…3548/status/2076730878672466032?s=20"
+    },
+    {
+      "title": "goap",
+      "content": "goal oriented action planning. hedefe (goal) ulaşmak için gerekli olan şartları sağlayan eylemleri (action) dinamik olarak çözümleyip bir plan oluşturan yöntem.oyunlarda npc karakter veya agent'ların yapay zekalarını programlanırken kullanılan tekniklerden birisidir. fear oyunundaki çok başarılı kullanımı sonrası yaygınlaşmıştır. oyunlarında daha enteresan, öngörülemez ve lezzetli çipetpet yapay zeka isteyen oyun geliştiriciler tarafından tercih edilir. alt yapı olarak a star yol bulma algoritması kullandığı için kalabalık yapay zeka grupları ve büyük plan derinlikleri sisteme yük olmaya başlar. performans kaygısı güden oyunlar tarafından tercih edilmez, misal battlefield serisi 100'ün üzerinde askeri simüle ettiği için ve eylem ağacı oldukça kalabalık olduğu için diğer bir yöntem olan behavior tree kullanır."
+    },
+    {
+      "title": "hintli ingilizcesi",
+      "content": "çok maruz kalırsanız siz de onlar gibi konuşmaya başlarsınız."
+    },
+    {
+      "title": "sevilen bilgisayar oyununu üç kelime ile anlatmak",
+      "content": "aaaairship ready"
+    },
+    {
+      "title": "donald trump'ın anıtkabir'i ziyaret etmemesi",
+      "content": "belki biraz feyz alırdı. kendi kaybetmiş. kurtuluş savaşımızın güzel bir anlatısı var orada. 5 dakika gezip, 2 tane soru sorsa türk'ün ne olduğunu anlar. ya bu adamlar ile artık uğraşmayalım der, gerisin geri dönerdi :)"
+    },
+    {
+      "title": "claude fable 5",
+      "content": "sırtınızı yapay zekaya yaslayın, kod review bile yapmayın anlayışı şirketlerde giderek yaygınlaşıyor. çünkü yapay zekanın ürettiği kodu gözden geçirme ve değerlendirme süreci oldukça yavaşlatan bir eylem. şirketler bu yavaşlık yüzünden verim krizine girmiş gibi bir histeri yaşıyor. yapay zeka şirketleri de yakılan tokenı maksimize etmek için bu hayali bulabildiği tüm mecralarda satıyor. sonuçta başarılı oldu, bir grup insan gerçekten yapay zeka histerisine kapıldı ve gözü kapalı bu metin üreteçlerine güveniyor. peki gerçekten öyle mi? bence daha orada değiliz. aşağıdaki çıktı claude fable'dan geliyor. detayları çok önemli değil. ama ne yapıyor bu diye sürekli kontrol ediyor olmalısınız. çok zor işleri yapabiliyor olması, çok basit yerlerde ölümcül hatalar yapabileceği gerçeğini değiştirmiyor. çünkü az kalsın bulması çok zor bir hatayı üretim koduna yollayacaktım. yüzüne vurunca da fair critic diyor. yaa fair critic, anamızı belliyordun az daha keranacı. --- spoiler ---fair criticism — my first answer was wrong in its headline conclusion, and here's exactly why.when you asked \"is this a host-only call?\", ı traced only the event-firing side of the chain: bomb.onupdate › scanforfusetimerupdate() › fusescanned.invoke(), saw that this update loop runs on every client with no ishost() gate, and concluded \"not host-only — it runs on every client.\" that reasoning was correct for the invoke, but ı never checked the registration side — who actually calls .add() on onfusescanned. an event that fires everywhere but has a listener only on the host is, in practice, host-only. the registration in onspawnbomb happens inside the ınstantiator's onsuccess, which only runs on the host, so the practical answer to your question was closer to \"yes\" than the \"no\" ı led with.the irony is that ı was half-aware of the issue: ı flagged in that same answer that allspawnedfuses is only populated in the host's onsuccess callback, so non-host clients would iterate an empty list. the exact same host-only pattern applies to the listener registration two hundred lines away in bombspawner — ı just didn't follow that thread until you asked the follow-up question directly.the general lesson (for me): for event-based questions in a networked codebase, \"who fires it\" and \"who listens to it\" are equally load-bearing, and ı should trace both before answering. answering from the firing side alone gave you a technically-true-but-practically-misleading answer.--- spoiler ---"
+    },
+    {
+      "title": "erin catto",
+      "content": "box2d ve fırından taze çıkan box3d'nin geliştiricisi."
+    },
+    {
+      "title": "nihat genç",
+      "content": "tek derdi cumhuriyet ve memleket olan bir nihat genç geçti bu topraklardan. 1 sene olmuş gideli.evvelce gidenlerin ruhları şad olsun. geride kalan bizler bu cumhuriyeti yaşatacağız!"
+    }
+  ]
+}
