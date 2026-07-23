@@ -6448,5 +6448,105 @@
       "siyasi": 0.5,
       "nefret": 0
     }
+  },
+  "sorgulayaninsangercegi": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T14:29:34.783Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "tareek": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T14:29:35.099Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "tekgozen": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T14:29:35.576Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "kediyledertlesenadam": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T14:29:46.222Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "ragnar lortbok": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T14:29:56.749Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "boslama": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T14:30:07.431Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "james webb once teleskop olsun": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T14:30:17.905Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "everywhere": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T14:30:28.714Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "stunter": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T14:30:39.322Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "liverpoollutesla": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T14:30:49.851Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
