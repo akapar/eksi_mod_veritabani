@@ -311,7 +311,7 @@
   },
   "babanaparaverdim": {
     "score": 0,
-    "last_evaluated": "2026-07-20T16:15:03.814Z",
+    "last_evaluated": "2026-07-23T11:37:18.424Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -2711,7 +2711,7 @@
   },
   "bodybuilder": {
     "score": 0,
-    "last_evaluated": "2026-07-20T16:21:36.373Z",
+    "last_evaluated": "2026-07-23T11:37:39.264Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -2941,7 +2941,7 @@
   },
   "apokaliptikyazar": {
     "score": 0,
-    "last_evaluated": "2026-07-20T16:34:54.529Z",
+    "last_evaluated": "2026-07-23T11:36:30.541Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -5367,6 +5367,66 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0.2
+    }
+  },
+  "anarkoz": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T11:36:19.923Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "arslan kaptan": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T11:36:46.944Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "aydoda": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:37:08.052Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "birdisland": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:37:28.955Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "boktan kaleler": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T11:37:49.488Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "catwappears": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T11:37:59.928Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
