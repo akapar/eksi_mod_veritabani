@@ -4011,7 +4011,7 @@
   },
   "nickimi getirin ulen": {
     "score": 0,
-    "last_evaluated": "2026-07-21T15:30:13.754Z",
+    "last_evaluated": "2026-07-23T07:25:27.338Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -5132,6 +5132,126 @@
   "nasil eksici oldum": {
     "score": 0,
     "last_evaluated": "2026-07-23T07:20:44.558Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "neyazarim": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:25:17.004Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ozigzagor": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:25:37.686Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "paul sahillleri": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:25:47.929Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "pilot alper": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:25:58.309Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "practice": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T07:26:08.565Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "psyche sthenos": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:26:18.821Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "rising sun ironlife": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:26:29.136Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "siragelirmiacep": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:26:39.443Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sivridillibilge": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:26:49.744Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "vejetaryen queer feminist sosyalist": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T07:26:59.941Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "what is wrong with me": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T07:27:10.458Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "yapraklarin alkisladigi adam": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:27:20.627Z",
     "details": {
       "dini": 0,
       "milli": 0,
