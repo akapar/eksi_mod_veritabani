@@ -6918,5 +6918,65 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "basyargic": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T20:37:00.837Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "cineequus": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:37:11.218Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "mufettis gacirtt": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T20:37:21.663Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "at parti": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:37:32.018Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "to vbe or not to vbe": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:37:42.397Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bilge akrep": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:37:52.759Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
