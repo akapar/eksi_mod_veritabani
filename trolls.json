@@ -4708,5 +4708,115 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "155mi": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:15:35.499Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "24dal": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:15:35.836Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "2o23": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:15:36.147Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "aburak": {
+    "score": 40,
+    "last_evaluated": "2026-07-23T07:15:36.594Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "acz ve fakr": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:15:37.050Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "anthemius": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:15:37.466Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "arif159": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:15:37.894Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.7,
+      "nefret": 0.2
+    }
+  },
+  "beni al uykumdan": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:15:38.383Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.8
+    }
+  },
+  "bir zamanlarin azimli yazari": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:15:38.809Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "blackbriar": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:15:39.216Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "cay icen adam": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:15:39.935Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
   }
 }
