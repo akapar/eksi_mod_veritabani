@@ -910,12 +910,12 @@
     }
   },
   "i do not know it at work": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T14:02:01.534Z",
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:05:33.549Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.5,
       "nefret": 0
     }
   },
@@ -1720,13 +1720,13 @@
     }
   },
   "serbesti": {
-    "score": 0,
-    "last_evaluated": "2026-07-19T13:38:57.161Z",
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:01:25.571Z",
     "details": {
       "dini": 0,
       "milli": 0,
       "siyasi": 0,
-      "nefret": 0
+      "nefret": 0.5
     }
   },
   "seviptekavusamayaninsan": {
@@ -5842,6 +5842,256 @@
   "scientist15": {
     "score": 0,
     "last_evaluated": "2026-07-23T11:55:05.783Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sermayeyi kediye yukleyen veteran": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:01:35.855Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sevilmeyendilci": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:01:46.100Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sheldoncooper": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:01:56.461Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "silasolla": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:02:06.918Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "sincabimezelden": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T12:02:07.241Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "sistematik psikopat": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:02:17.658Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "siyah pantolon": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:02:27.894Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "siyahbeyazfilmdekigokkusagibenim": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:02:38.118Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "barobax": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:02:48.359Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bascarkci": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:02:58.609Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bir aksamdi ruzgarliydi sokaklar bostu": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:03:19.515Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "faizlbisi": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T12:03:29.918Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "ferman87": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:03:40.252Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "goldar": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:04:01.037Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "hadramawt": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:04:11.261Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "halismuhlis": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:04:21.580Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "hasbitembel er": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:04:31.932Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "hastroll": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:04:42.189Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "hayvan sever insan sevmez": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T12:04:52.414Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "hejhej": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:05:02.642Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "herkes mutlu olmak istiyor": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:05:12.972Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "hukum41": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:05:23.262Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "i hate you all": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:05:43.913Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "icq": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:05:54.161Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "iki fincan kahve": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:06:04.401Z",
     "details": {
       "dini": 0,
       "milli": 0,
