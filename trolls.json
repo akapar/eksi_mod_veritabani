@@ -6548,5 +6548,105 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "defy": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T14:50:50.321Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "mahserindortpatatesi": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T14:51:16.907Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bir zamanlar cok mutluyduk": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T14:51:27.234Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "barbarpavlin": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T14:51:37.629Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "gucuneguckatmayageldik": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T14:51:48.379Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "muhalhal": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T14:51:58.937Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "yellowblack": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T14:52:09.437Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.8
+    }
+  },
+  "biranfistik": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T14:52:20.317Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "mango ve karpuz": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T14:52:30.805Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "ferri yezdani": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T14:52:41.428Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
