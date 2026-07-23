@@ -6858,5 +6858,65 @@
       "siyasi": 0,
       "nefret": 0.5
     }
+  },
+  "thesappho": {
+    "score": 60,
+    "last_evaluated": "2026-07-23T20:31:47.641Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "yazanbiri": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T20:32:30.930Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "ekrem muhittin yegen": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:32:41.528Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bkzentrynickuyumu": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T20:32:41.934Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "isimsiz fosil": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T20:32:52.322Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "batistuta": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T20:33:02.677Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
