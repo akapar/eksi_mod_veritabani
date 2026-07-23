@@ -3301,7 +3301,7 @@
   },
   "outhernasyonal": {
     "score": 0,
-    "last_evaluated": "2026-07-20T18:33:05.842Z",
+    "last_evaluated": "2026-07-23T12:15:25.850Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -6092,6 +6092,226 @@
   "iki fincan kahve": {
     "score": 0,
     "last_evaluated": "2026-07-23T12:06:04.401Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "iki kelimeyle olaganustu": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:12:42.338Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "mguzun": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:12:52.719Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "mmmeeeddd": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:13:03.332Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "monacoroom1": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:14:02.599Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "munzevicakal": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:14:12.952Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "nazarboncuklucaybardagi": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:14:23.219Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "ne desem ki simdi bilemedim": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:14:33.701Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "negerekvaraq": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:14:44.042Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "nuhun jetskisi": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:15:04.985Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "on": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:15:15.442Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "p8": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:15:36.246Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "parliament night blu ray": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:15:46.618Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sofistike sofi": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:15:56.934Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
+  },
+  "special mind": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:16:17.918Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "stokrates": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:16:28.224Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sultanazam": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:16:38.508Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "tarkanvikingkani": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:16:59.661Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "taylor durden": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:17:09.942Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "techniques": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:17:20.286Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "the sacred noble": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:17:41.651Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ti mani": {
+    "score": 50,
+    "last_evaluated": "2026-07-23T12:17:51.994Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.5
+    }
+  },
+  "tngm": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T12:18:02.599Z",
     "details": {
       "dini": 0,
       "milli": 0,
