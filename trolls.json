@@ -570,12 +570,12 @@
     }
   },
   "de nada": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T13:32:24.742Z",
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:17:36.024Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.2,
       "nefret": 0
     }
   },
@@ -4817,6 +4817,156 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0.2
+    }
+  },
+  "cccjackreisccc": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:17:34.987Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "celebriantasartir": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:17:35.260Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "daha sakin olamazdim": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:17:35.667Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "denizcakmak": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:17:36.693Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "dolantindr": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:17:37.438Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "earendilx": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:17:37.689Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ebuddy": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:17:38.175Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.8
+    }
+  },
+  "efsane mevzular": {
+    "score": 20,
+    "last_evaluated": "2026-07-23T07:17:38.503Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "elektronikteknisyeni": {
+    "score": 90,
+    "last_evaluated": "2026-07-23T07:17:39.811Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.9,
+      "nefret": 0.9
+    }
+  },
+  "eski sozlukculerden kim kaldi": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:17:43.116Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "eskiden nick yoktu ama simdi var": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:17:46.586Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "euro truck simulator 2 kamyoncusu": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:17:49.987Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ex pek bi patronum": {
+    "score": 80,
+    "last_evaluated": "2026-07-23T07:17:56.585Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "feomer": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:18:04.953Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "filozofia": {
+    "score": 0,
+    "last_evaluated": "2026-07-23T07:18:08.426Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
