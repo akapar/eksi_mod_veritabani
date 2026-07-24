@@ -6570,12 +6570,12 @@
     }
   },
   "bir zamanlar cok mutluyduk": {
-    "score": 0,
-    "last_evaluated": "2026-07-23T14:51:27.234Z",
+    "score": 60,
+    "last_evaluated": "2026-07-24T20:56:08.291Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
       "nefret": 0
     }
   },
@@ -7587,6 +7587,26 @@
       "milli": 0.2,
       "siyasi": 0.8,
       "nefret": 0.1
+    }
+  },
+  "ikibucukluk": {
+    "score": 90,
+    "last_evaluated": "2026-07-24T20:56:08.556Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.9
+    }
+  },
+  "duzeni duzen duzensiz kisi": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T20:56:08.923Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.2
     }
   }
 }
