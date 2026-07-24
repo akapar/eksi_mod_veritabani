@@ -7238,5 +7238,95 @@
       "siyasi": 0.8,
       "nefret": 0
     }
+  },
+  "yerli ve milli ubermensch": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T09:20:56.040Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "funkoff": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T09:20:56.667Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "drxero": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T09:20:57.085Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "notet": {
+    "score": 0,
+    "last_evaluated": "2026-07-24T09:20:57.632Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "dd1978": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T09:20:58.058Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.8
+    }
+  },
+  "friendly 1980": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T09:20:58.384Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "di izopropil eter": {
+    "score": 10,
+    "last_evaluated": "2026-07-24T09:20:58.822Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0
+    }
+  },
+  "kahve beyefendi": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T09:20:59.145Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "kumanaga": {
+    "score": 40,
+    "last_evaluated": "2026-07-24T09:20:59.486Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.4
+    }
   }
 }
