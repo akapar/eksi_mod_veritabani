@@ -3640,13 +3640,13 @@
     }
   },
   "sfenk35": {
-    "score": 20,
-    "last_evaluated": "2026-07-21T11:02:30.470Z",
+    "score": 40,
+    "last_evaluated": "2026-07-24T11:37:31.864Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
-      "nefret": 0.2
+      "siyasi": 0.4,
+      "nefret": 0
     }
   },
   "hohem": {
@@ -7327,6 +7327,66 @@
       "milli": 0,
       "siyasi": 0.2,
       "nefret": 0.4
+    }
+  },
+  "ham it yidim kabiz oldum": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T11:37:29.344Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "jiggity jamminest dude": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T11:37:29.656Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "mecazianlam": {
+    "score": 40,
+    "last_evaluated": "2026-07-24T11:37:30.038Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0.1,
+      "siyasi": 0.3,
+      "nefret": 0.4
+    }
+  },
+  "trensiz makinist": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T11:37:30.412Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "cadillacman": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T11:37:30.785Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "tortuqa": {
+    "score": 40,
+    "last_evaluated": "2026-07-24T11:37:31.321Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
     }
   }
 }
