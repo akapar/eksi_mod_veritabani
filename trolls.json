@@ -300,12 +300,12 @@
     }
   },
   "ates bocegi ercan": {
-    "score": 20,
-    "last_evaluated": "2026-07-20T16:10:51.594Z",
+    "score": 80,
+    "last_evaluated": "2026-07-24T13:20:38.696Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0.2,
+      "milli": 0.2,
+      "siyasi": 0.8,
       "nefret": 0
     }
   },
@@ -1560,13 +1560,13 @@
     }
   },
   "rahtamlik": {
-    "score": 0,
-    "last_evaluated": "2026-07-20T18:23:50.474Z",
+    "score": 80,
+    "last_evaluated": "2026-07-24T13:20:38.974Z",
     "details": {
-      "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "dini": 0.2,
+      "milli": 0.1,
+      "siyasi": 0.8,
+      "nefret": 0.1
     }
   },
   "rapstarbg": {
@@ -7477,6 +7477,26 @@
       "milli": 0.2,
       "siyasi": 0.6,
       "nefret": 0
+    }
+  },
+  "queenwrath": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T13:20:39.389Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.2
+    }
+  },
+  "anonymous anarchist": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T13:20:39.772Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.6
     }
   }
 }
