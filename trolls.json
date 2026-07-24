@@ -7608,5 +7608,85 @@
       "siyasi": 0.6,
       "nefret": 0.2
     }
+  },
+  "sfinyzn": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T22:54:46.367Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "daimat": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T22:54:46.734Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "hangar": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T22:54:47.090Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "onikionikibinonalti": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T22:54:47.502Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "rightangle": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T22:54:48.018Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.2
+    }
+  },
+  "kargahasan": {
+    "score": 40,
+    "last_evaluated": "2026-07-24T22:54:48.491Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.2
+    }
+  },
+  "selcukokan": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T22:54:49.077Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "dus jeli yiyen adam": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T22:54:49.514Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
