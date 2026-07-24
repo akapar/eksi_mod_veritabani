@@ -7198,5 +7198,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "ne cok bekledim seni ben": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T01:55:27.223Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "lupus grandus batiatus": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T01:55:27.550Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
   }
 }
