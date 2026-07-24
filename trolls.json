@@ -310,12 +310,12 @@
     }
   },
   "babanaparaverdim": {
-    "score": 0,
-    "last_evaluated": "2026-07-23T11:37:18.424Z",
+    "score": 80,
+    "last_evaluated": "2026-07-24T12:28:06.229Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
       "nefret": 0
     }
   },
@@ -1230,12 +1230,12 @@
     }
   },
   "laplupbop": {
-    "score": 0,
-    "last_evaluated": "2026-07-23T11:51:48.468Z",
+    "score": 80,
+    "last_evaluated": "2026-07-24T12:28:05.916Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.8,
       "nefret": 0
     }
   },
@@ -7386,6 +7386,96 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "serdarsl 06": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T12:28:06.678Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.6
+    }
+  },
+  "afantazya": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T12:28:06.985Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.2
+    }
+  },
+  "there will be": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T12:28:07.351Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "altai": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T12:28:07.815Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "codar74": {
+    "score": 40,
+    "last_evaluated": "2026-07-24T12:28:08.248Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.4
+    }
+  },
+  "the battleship": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T12:28:08.710Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "ptah amun ra": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T12:28:09.116Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "lokmano": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T12:28:09.413Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.1
+    }
+  },
+  "baya iyi": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T12:28:09.833Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
       "nefret": 0
     }
   }
