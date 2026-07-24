@@ -7218,5 +7218,25 @@
       "siyasi": 0,
       "nefret": 0.2
     }
+  },
+  "beak": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T08:10:44.679Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "brucheimer": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T08:10:45.054Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
   }
 }
