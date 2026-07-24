@@ -7578,5 +7578,15 @@
       "siyasi": 0.7,
       "nefret": 0.1
     }
+  },
+  "paskalyacoregi": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T19:14:17.874Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.1
+    }
   }
 }
