@@ -5570,13 +5570,13 @@
     }
   },
   "kader mahdumu": {
-    "score": 0,
-    "last_evaluated": "2026-07-23T11:43:56.993Z",
+    "score": 80,
+    "last_evaluated": "2026-07-24T17:21:41.051Z",
     "details": {
-      "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "dini": 0.2,
+      "milli": 0.1,
+      "siyasi": 0.8,
+      "nefret": 0.2
     }
   },
   "kaybass": {
@@ -7497,6 +7497,86 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0.6
+    }
+  },
+  "o kadar haklisin ki": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T17:21:38.023Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "qwerty qaz": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T17:21:38.433Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.6
+    }
+  },
+  "onlar insansa ben hayvanim": {
+    "score": 40,
+    "last_evaluated": "2026-07-24T17:21:38.654Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.2
+    }
+  },
+  "artibus": {
+    "score": 60,
+    "last_evaluated": "2026-07-24T17:21:38.957Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "eposa": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T17:21:39.383Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "untitled frame": {
+    "score": 20,
+    "last_evaluated": "2026-07-24T17:21:39.916Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "pisikoppat": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T17:21:40.306Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "ogstr": {
+    "score": 80,
+    "last_evaluated": "2026-07-24T17:21:40.812Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0.2,
+      "siyasi": 0.7,
+      "nefret": 0.1
     }
   }
 }
