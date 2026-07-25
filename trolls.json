@@ -2070,13 +2070,13 @@
     }
   },
   "johatsu": {
-    "score": 0,
-    "last_evaluated": "2026-07-20T13:07:32.342Z",
+    "score": 80,
+    "last_evaluated": "2026-07-25T13:05:02.283Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "siyasi": 0.8,
+      "nefret": 0.2
     }
   },
   "silah arkadaslarinin bedduasini alan zat": {
