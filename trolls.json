@@ -7728,5 +7728,35 @@
       "siyasi": 0.9,
       "nefret": 0.6
     }
+  },
+  "kifayetsizkelimeler": {
+    "score": 80,
+    "last_evaluated": "2026-07-25T22:44:44.346Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "gavanda": {
+    "score": 60,
+    "last_evaluated": "2026-07-25T22:44:44.982Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.6
+    }
+  },
+  "south bank er": {
+    "score": 90,
+    "last_evaluated": "2026-07-25T22:44:45.537Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0.8,
+      "siyasi": 0.9,
+      "nefret": 0.6
+    }
   }
 }
