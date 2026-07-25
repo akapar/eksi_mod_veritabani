@@ -7688,5 +7688,25 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "henuzalinmamisnick": {
+    "score": 20,
+    "last_evaluated": "2026-07-25T11:02:49.665Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "seks shop esnafi": {
+    "score": 80,
+    "last_evaluated": "2026-07-25T11:02:50.054Z",
+    "details": {
+      "dini": 0.4,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
   }
 }
