@@ -7708,5 +7708,25 @@
       "siyasi": 0.8,
       "nefret": 0.6
     }
+  },
+  "nesre": {
+    "score": 80,
+    "last_evaluated": "2026-07-25T18:55:10.263Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.4
+    }
+  },
+  "speculation": {
+    "score": 90,
+    "last_evaluated": "2026-07-25T18:55:10.571Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0.4,
+      "siyasi": 0.9,
+      "nefret": 0.6
+    }
   }
 }
