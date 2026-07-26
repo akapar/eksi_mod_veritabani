@@ -1750,13 +1750,13 @@
     }
   },
   "sinav kagidindaki silgi artiklari": {
-    "score": 0,
-    "last_evaluated": "2026-07-19T13:40:05.695Z",
+    "score": 20,
+    "last_evaluated": "2026-07-26T14:26:46.086Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "siyasi": 0.2,
+      "nefret": 0.2
     }
   },
   "sozcelyk": {
@@ -8077,6 +8077,96 @@
       "milli": 0.2,
       "siyasi": 0.8,
       "nefret": 0
+    }
+  },
+  "singapore": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T14:26:45.657Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "te": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T14:26:46.366Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "stoci": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T14:26:46.695Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "lakarow": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T14:26:47.081Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
+  },
+  "nayabassa": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T14:26:47.342Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "uyku adam": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T14:26:47.568Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.6
+    }
+  },
+  "phobes von clavien": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T14:26:48.078Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bir entry yazip cikacam": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T14:26:48.297Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bosozoku": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T14:26:48.519Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.4,
+      "nefret": 0.2
     }
   }
 }
