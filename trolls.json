@@ -2650,13 +2650,13 @@
     }
   },
   "bidenforever": {
-    "score": 0,
-    "last_evaluated": "2026-07-20T16:19:51.413Z",
+    "score": 60,
+    "last_evaluated": "2026-07-26T14:40:37.257Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "siyasi": 0.6,
+      "nefret": 0.4
     }
   },
   "bimehisimladalanadam": {
@@ -8267,6 +8267,96 @@
       "milli": 0,
       "siyasi": 0.1,
       "nefret": 0.4
+    }
+  },
+  "plasebo etkisi 41": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T14:40:35.949Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "maydonozspor": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T14:40:36.315Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.8
+    }
+  },
+  "roses dont need a name": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T14:40:36.630Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "deadpoetsociety": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T14:40:36.825Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "hack the system": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T14:40:37.053Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
+  },
+  "acsr777": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T14:40:37.602Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "forzazippo": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T14:40:38.006Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "perfect sense": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T14:40:38.320Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "tomcruise1": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T14:40:38.594Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
     }
   }
 }
