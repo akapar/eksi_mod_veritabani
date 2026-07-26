@@ -320,13 +320,13 @@
     }
   },
   "becony1": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T08:54:31.598Z",
+    "score": 60,
+    "last_evaluated": "2026-07-26T05:34:07.173Z",
     "details": {
-      "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "dini": 0.2,
+      "milli": 0.4,
+      "siyasi": 0.6,
+      "nefret": 0.1
     }
   },
   "axnatascha": {
@@ -7757,6 +7757,26 @@
       "milli": 0.8,
       "siyasi": 0.9,
       "nefret": 0.6
+    }
+  },
+  "neutral true": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T05:34:06.231Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "pia yuitza": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T05:34:06.737Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.1
     }
   }
 }
