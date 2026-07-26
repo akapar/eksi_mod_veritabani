@@ -8358,5 +8358,105 @@
       "siyasi": 0.4,
       "nefret": 0
     }
+  },
+  "muderris": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T15:54:30.757Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "nzx": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T15:54:31.062Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "piccolo": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T15:54:31.421Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "s k o m": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T15:54:31.818Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "paceywitter": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T15:54:32.142Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "neseligenclik35": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T15:54:32.484Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "hasahor": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T15:54:32.852Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "sagopakajmer61": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T15:54:33.186Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "ecthelion 35": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T15:54:33.449Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "cemrexo": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T15:54:33.774Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
   }
 }
