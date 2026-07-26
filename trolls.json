@@ -7798,5 +7798,15 @@
       "siyasi": 0,
       "nefret": 0.2
     }
+  },
+  "lara 888": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T11:14:09.106Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
   }
 }
