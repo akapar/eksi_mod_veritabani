@@ -8578,5 +8578,85 @@
       "siyasi": 0,
       "nefret": 0.2
     }
+  },
+  "tamyogusmalizombi": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T18:30:11.542Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.4
+    }
+  },
+  "samet22": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T18:30:11.923Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.2
+    }
+  },
+  "blacklist2": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T18:30:12.322Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.4
+    }
+  },
+  "gitsedeyinegelenlerdenim": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T18:30:12.737Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "suchawow": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T18:30:13.191Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "ufurukten ucak": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T18:30:13.590Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "bambito": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T18:30:14.004Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "diariamente": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T18:30:24.347Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
