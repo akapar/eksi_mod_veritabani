@@ -2120,12 +2120,12 @@
     }
   },
   "timurun fillerinin bakicisi": {
-    "score": 20,
-    "last_evaluated": "2026-07-20T13:11:31.453Z",
+    "score": 0,
+    "last_evaluated": "2026-07-26T18:59:15.753Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0.2,
+      "siyasi": 0,
       "nefret": 0
     }
   },
@@ -8657,6 +8657,16 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0
+    }
+  },
+  "mantheman": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T18:59:05.365Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.6
     }
   }
 }
