@@ -650,13 +650,13 @@
     }
   },
   "elinherifi": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T13:41:02.602Z",
+    "score": 60,
+    "last_evaluated": "2026-07-26T12:58:40.310Z",
     "details": {
-      "dini": 0,
+      "dini": 0.2,
       "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "siyasi": 0.6,
+      "nefret": 0.2
     }
   },
   "emre85": {
@@ -7907,6 +7907,96 @@
       "milli": 0,
       "siyasi": 0.4,
       "nefret": 0
+    }
+  },
+  "nowaja zemlja": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T12:58:30.650Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "atesdustuguyeriyakar": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T12:58:31.050Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.1
+    }
+  },
+  "makhno": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T12:58:31.505Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.1
+    }
+  },
+  "thevalkyrie39": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T12:58:31.888Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.2
+    }
+  },
+  "birbaskagocebeencore": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T12:58:32.256Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "hard disk gibi adam": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T12:58:32.621Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0
+    }
+  },
+  "redemeye": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T12:58:33.031Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "viski tadan centilmen": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T12:58:33.417Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.4,
+      "nefret": 0.1
+    }
+  },
+  "galeferad": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T12:58:33.824Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0.8
     }
   }
 }
