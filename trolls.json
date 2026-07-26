@@ -7808,5 +7808,105 @@
       "siyasi": 0.8,
       "nefret": 0
     }
+  },
+  "nick degildir o nick olsa duramazsin": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T11:27:55.926Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "serhadss": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T11:27:56.228Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "electrick preacher": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T11:27:56.492Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "sozlerin efendisi": {
+    "score": 50,
+    "last_evaluated": "2026-07-26T11:27:56.780Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.2,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "gazneli volkan": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T11:27:57.028Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "fcstp": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T11:27:57.373Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "gloriousbastard": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T11:27:57.779Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "bahuc": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T11:27:58.021Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "maxclane": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T11:27:58.387Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0.1,
+      "siyasi": 0.8,
+      "nefret": 0.4
+    }
+  },
+  "imparator decius": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T11:27:59.801Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
   }
 }
