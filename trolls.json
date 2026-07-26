@@ -8668,5 +8668,15 @@
       "siyasi": 0,
       "nefret": 0.6
     }
+  },
+  "this is from mathilda": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T22:52:03.144Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
