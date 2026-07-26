@@ -8458,5 +8458,115 @@
       "siyasi": 0.6,
       "nefret": 0.4
     }
+  },
+  "collak": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T15:59:23.586Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.6
+    }
+  },
+  "papazin erigi": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T15:59:23.927Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "tornocumulayim": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T15:59:24.168Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.4
+    }
+  },
+  "gitmek mi zor kalmak mi": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T15:59:24.446Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.8
+    }
+  },
+  "sududusi": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T15:59:24.782Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "byricks": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T15:59:25.151Z",
+    "details": {
+      "dini": 0.5,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "asabi bir adam": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T15:59:25.521Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "a paranormal human": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T15:59:25.850Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kinyo": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T15:59:26.246Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
+  },
+  "one time": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T15:59:36.512Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "leatherfacein": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T15:59:46.932Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
