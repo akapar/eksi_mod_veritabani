@@ -7998,5 +7998,85 @@
       "siyasi": 0.1,
       "nefret": 0.8
     }
+  },
+  "hayatinzorluklari": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T13:01:57.689Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "efe": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T13:01:58.163Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "koyunfucyus": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T13:01:58.586Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "konusmakicinkonusmayanadam": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T13:01:58.872Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0.4,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "ahaber": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T13:01:59.459Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "vebasnt": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T13:01:59.885Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.2
+    }
+  },
+  "baziseylerbenibuyuttu": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T13:02:00.174Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "lukki bakunin": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T13:02:00.474Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
   }
 }
