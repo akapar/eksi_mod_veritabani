@@ -8568,5 +8568,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "matt1": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T16:50:52.326Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
   }
 }
