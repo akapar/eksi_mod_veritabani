@@ -7778,5 +7778,25 @@
       "siyasi": 0.2,
       "nefret": 0.1
     }
+  },
+  "excaliboor": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T08:10:56.978Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "gocumanirabbim": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T08:10:57.327Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
   }
 }
