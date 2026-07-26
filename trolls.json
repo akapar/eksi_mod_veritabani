@@ -8168,5 +8168,105 @@
       "siyasi": 0.4,
       "nefret": 0.2
     }
+  },
+  "raul kinyonez": {
+    "score": 20,
+    "last_evaluated": "2026-07-26T14:31:59.065Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "prologue": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T14:31:59.432Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "arvydassabonis": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T14:31:59.781Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "evetnicklazimbebeem": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T14:32:00.206Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "haylanetolsun": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T14:32:00.525Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.5,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "haziran gibi": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T14:32:00.844Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "lpg kullanan dizel motor": {
+    "score": 0,
+    "last_evaluated": "2026-07-26T14:32:01.057Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sozen": {
+    "score": 60,
+    "last_evaluated": "2026-07-26T14:32:01.295Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.2
+    }
+  },
+  "07161138": {
+    "score": 80,
+    "last_evaluated": "2026-07-26T14:32:01.627Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "le le le makine": {
+    "score": 40,
+    "last_evaluated": "2026-07-26T14:32:01.990Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0.4
+    }
   }
 }
