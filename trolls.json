@@ -8728,5 +8728,55 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "thoothamon": {
+    "score": 20,
+    "last_evaluated": "2026-07-27T17:37:10.319Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "ankoi": {
+    "score": 0,
+    "last_evaluated": "2026-07-27T17:37:10.838Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "anox": {
+    "score": 80,
+    "last_evaluated": "2026-07-27T17:37:11.207Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "come on tars": {
+    "score": 40,
+    "last_evaluated": "2026-07-27T17:37:11.614Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "eksi sozluk muhaliflerine muhalif": {
+    "score": 40,
+    "last_evaluated": "2026-07-27T17:37:12.004Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
   }
 }
