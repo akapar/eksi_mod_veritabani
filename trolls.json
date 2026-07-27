@@ -19,6 +19,16 @@
       "nefret": 0
     }
   },
+  "19216811": {
+    "score": 80,
+    "last_evaluated": "2026-07-27T14:13:21.121Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
   "hiperaktf c": {
     "score": 90,
     "last_evaluated": "2026-07-17T05:23:36.135Z",
@@ -8697,6 +8707,26 @@
       "milli": 0,
       "siyasi": 0.2,
       "nefret": 0.4
+    }
+  },
+  "sinyor979": {
+    "score": 0,
+    "last_evaluated": "2026-07-27T14:13:19.709Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "whisekey": {
+    "score": 20,
+    "last_evaluated": "2026-07-27T14:13:20.202Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
