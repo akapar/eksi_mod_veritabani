@@ -8678,5 +8678,25 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "prinkipodelisi": {
+    "score": 0,
+    "last_evaluated": "2026-07-27T11:11:47.277Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "pubvertica": {
+    "score": 40,
+    "last_evaluated": "2026-07-27T11:11:47.751Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.4
+    }
   }
 }
