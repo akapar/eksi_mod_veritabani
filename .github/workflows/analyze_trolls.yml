@@ -49,7 +49,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add trolls.json queue/
+          git add -u
+          if [ -d queue ]; then git add queue/; fi
+          if [ -f trolls.json ]; then git add trolls.json; fi
 
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes to commit, skipping."
