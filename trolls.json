@@ -8788,5 +8788,105 @@
       "siyasi": 0.4,
       "nefret": 0
     }
+  },
+  "faytonfayt": {
+    "score": 80,
+    "last_evaluated": "2026-07-28T11:12:32.080Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0.4,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "xenraiken": {
+    "score": 90,
+    "last_evaluated": "2026-07-28T11:12:32.453Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.9,
+      "nefret": 0.2
+    }
+  },
+  "el hombre biscolata": {
+    "score": 80,
+    "last_evaluated": "2026-07-28T11:12:32.790Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.8
+    }
+  },
+  "imp": {
+    "score": 80,
+    "last_evaluated": "2026-07-28T11:12:33.498Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "yedinci element": {
+    "score": 80,
+    "last_evaluated": "2026-07-28T11:12:33.928Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "aferin tanriya": {
+    "score": 20,
+    "last_evaluated": "2026-07-28T11:12:34.303Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "amanedenikimaldi": {
+    "score": 80,
+    "last_evaluated": "2026-07-28T11:12:34.531Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "titiraprap": {
+    "score": 80,
+    "last_evaluated": "2026-07-28T11:12:35.181Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "2 molar oxalic acid": {
+    "score": 80,
+    "last_evaluated": "2026-07-28T11:12:35.426Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "olmaz oyle sey kabul etmiyorum": {
+    "score": 80,
+    "last_evaluated": "2026-07-28T11:12:35.963Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
