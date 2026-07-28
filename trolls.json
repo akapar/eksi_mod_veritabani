@@ -1450,13 +1450,13 @@
     }
   },
   "ondokuztemmuz": {
-    "score": 20,
-    "last_evaluated": "2026-07-19T13:28:57.937Z",
+    "score": 0,
+    "last_evaluated": "2026-07-28T15:59:38.313Z",
     "details": {
       "dini": 0,
-      "milli": 0.2,
-      "siyasi": 0.1,
-      "nefret": 0.1
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   },
   "overlokcum ayagima geldi": {
@@ -5300,13 +5300,13 @@
     }
   },
   "60 dakika": {
-    "score": 0,
-    "last_evaluated": "2026-07-23T11:33:37.566Z",
+    "score": 80,
+    "last_evaluated": "2026-07-28T15:59:38.987Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "siyasi": 0.8,
+      "nefret": 0.2
     }
   },
   "7deliklitokmak": {
@@ -8967,6 +8967,76 @@
       "milli": 0,
       "siyasi": 0.8,
       "nefret": 0.6
+    }
+  },
+  "gaiptengelenadam": {
+    "score": 20,
+    "last_evaluated": "2026-07-28T15:59:37.966Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "sinsisinir": {
+    "score": 80,
+    "last_evaluated": "2026-07-28T15:59:38.658Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.8
+    }
+  },
+  "marsli gocmen": {
+    "score": 20,
+    "last_evaluated": "2026-07-28T15:59:39.349Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "faranjioma": {
+    "score": 80,
+    "last_evaluated": "2026-07-28T15:59:39.733Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "venator": {
+    "score": 40,
+    "last_evaluated": "2026-07-28T15:59:40.129Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "mesadu": {
+    "score": 90,
+    "last_evaluated": "2026-07-28T15:59:40.494Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0.2,
+      "siyasi": 0.9,
+      "nefret": 0.7
+    }
+  },
+  "fredi kurugir": {
+    "score": 0,
+    "last_evaluated": "2026-07-28T15:59:40.842Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
