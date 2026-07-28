@@ -8948,5 +8948,25 @@
       "siyasi": 0,
       "nefret": 0.2
     }
+  },
+  "ter lekesi": {
+    "score": 0,
+    "last_evaluated": "2026-07-28T13:44:16.248Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "aylik geliri 100 bin lira olan erkek": {
+    "score": 80,
+    "last_evaluated": "2026-07-28T13:44:16.761Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
   }
 }
