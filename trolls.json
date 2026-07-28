@@ -9038,5 +9038,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "lucky duke": {
+    "score": 0,
+    "last_evaluated": "2026-07-28T17:38:19.632Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bilakiskendisi": {
+    "score": 90,
+    "last_evaluated": "2026-07-28T17:38:20.398Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0.6,
+      "siyasi": 0.9,
+      "nefret": 0.7
+    }
   }
 }
