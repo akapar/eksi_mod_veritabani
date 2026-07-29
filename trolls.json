@@ -9088,5 +9088,15 @@
       "siyasi": 0.5,
       "nefret": 0.2
     }
+  },
+  "killing is my bussines": {
+    "score": 0,
+    "last_evaluated": "2026-07-29T11:55:24.367Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
