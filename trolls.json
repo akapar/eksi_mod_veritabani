@@ -9058,5 +9058,35 @@
       "siyasi": 0.9,
       "nefret": 0.7
     }
+  },
+  "kalpakli suvari": {
+    "score": 60,
+    "last_evaluated": "2026-07-29T08:24:25.666Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
+  },
+  "fmhastasi": {
+    "score": 20,
+    "last_evaluated": "2026-07-29T08:24:25.925Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "cemera": {
+    "score": 50,
+    "last_evaluated": "2026-07-29T08:24:26.309Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.2
+    }
   }
 }
