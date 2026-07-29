@@ -9098,5 +9098,65 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "heryerkaradelik": {
+    "score": 20,
+    "last_evaluated": "2026-07-29T13:49:56.811Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.2
+    }
+  },
+  "elitist": {
+    "score": 80,
+    "last_evaluated": "2026-07-29T13:49:57.214Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "ne deyim de ne soyleyim": {
+    "score": 80,
+    "last_evaluated": "2026-07-29T13:49:57.662Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "ingiliz anahtari": {
+    "score": 20,
+    "last_evaluated": "2026-07-29T13:49:58.420Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "rakunya": {
+    "score": 40,
+    "last_evaluated": "2026-07-29T13:49:58.830Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "blackiron": {
+    "score": 0,
+    "last_evaluated": "2026-07-29T13:49:59.373Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
