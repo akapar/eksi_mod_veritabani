@@ -9158,5 +9158,35 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "taranta babuya": {
+    "score": 80,
+    "last_evaluated": "2026-07-30T15:46:15.757Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
+  },
+  "jusnick": {
+    "score": 60,
+    "last_evaluated": "2026-07-30T15:46:16.388Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.2
+    }
+  },
+  "ses muhendisi": {
+    "score": 80,
+    "last_evaluated": "2026-07-30T15:46:17.121Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
   }
 }
