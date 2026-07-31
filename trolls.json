@@ -9198,5 +9198,65 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "eulogized": {
+    "score": 80,
+    "last_evaluated": "2026-07-31T17:24:14.943Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "hobbit from gotham": {
+    "score": 20,
+    "last_evaluated": "2026-07-31T17:24:15.332Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "piizeus": {
+    "score": 90,
+    "last_evaluated": "2026-07-31T17:24:16.001Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.9
+    }
+  },
+  "simdi sahne zamani": {
+    "score": 20,
+    "last_evaluated": "2026-07-31T17:24:16.554Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "reallydifficult": {
+    "score": 20,
+    "last_evaluated": "2026-07-31T17:24:16.907Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "pekomma": {
+    "score": 80,
+    "last_evaluated": "2026-07-31T17:24:17.470Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
   }
 }
