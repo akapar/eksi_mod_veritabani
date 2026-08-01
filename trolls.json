@@ -9278,5 +9278,15 @@
       "siyasi": 0.8,
       "nefret": 0.6
     }
+  },
+  "pembe gotlu eksici": {
+    "score": 90,
+    "last_evaluated": "2026-08-01T18:57:03.821Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.9,
+      "nefret": 0.9
+    }
   }
 }
