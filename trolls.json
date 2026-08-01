@@ -9268,5 +9268,15 @@
       "siyasi": 0.6,
       "nefret": 0.4
     }
+  },
+  "paleokastro": {
+    "score": 80,
+    "last_evaluated": "2026-08-01T14:52:57.394Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
   }
 }
