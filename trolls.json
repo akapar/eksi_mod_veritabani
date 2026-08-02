@@ -1540,13 +1540,13 @@
     }
   },
   "prenssiz beyaz at": {
-    "score": 20,
-    "last_evaluated": "2026-07-19T13:30:38.758Z",
+    "score": 80,
+    "last_evaluated": "2026-08-02T14:55:03.183Z",
     "details": {
       "dini": 0,
       "milli": 0.2,
-      "siyasi": 0.1,
-      "nefret": 0.1
+      "siyasi": 0.8,
+      "nefret": 0
     }
   },
   "psyjonturk": {
