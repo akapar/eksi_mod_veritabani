@@ -6600,13 +6600,13 @@
     }
   },
   "gucuneguckatmayageldik": {
-    "score": 0,
-    "last_evaluated": "2026-07-23T14:51:48.379Z",
+    "score": 80,
+    "last_evaluated": "2026-08-02T16:50:56.641Z",
     "details": {
-      "dini": 0,
+      "dini": 0.8,
       "milli": 0,
       "siyasi": 0,
-      "nefret": 0
+      "nefret": 0.2
     }
   },
   "muhalhal": {
@@ -9287,6 +9287,16 @@
       "milli": 0.8,
       "siyasi": 0.9,
       "nefret": 0.9
+    }
+  },
+  "kovboyunusikenmidilli": {
+    "score": 0,
+    "last_evaluated": "2026-08-02T16:50:56.860Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
