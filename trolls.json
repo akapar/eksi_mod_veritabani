@@ -9308,5 +9308,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "muserturer": {
+    "score": 20,
+    "last_evaluated": "2026-08-03T06:52:58.085Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "camiden adidas caldim bol geldi": {
+    "score": 80,
+    "last_evaluated": "2026-08-03T06:52:58.303Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0.1,
+      "siyasi": 0.8,
+      "nefret": 0.1
+    }
   }
 }
