@@ -9328,5 +9328,55 @@
       "siyasi": 0.8,
       "nefret": 0.1
     }
+  },
+  "mister silent": {
+    "score": 20,
+    "last_evaluated": "2026-08-03T14:19:28.049Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "yecucmecuc": {
+    "score": 80,
+    "last_evaluated": "2026-08-03T14:19:28.560Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.8
+    }
+  },
+  "akilliwonko": {
+    "score": 80,
+    "last_evaluated": "2026-08-03T14:19:29.102Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "birbenvarbendenbeter": {
+    "score": 80,
+    "last_evaluated": "2026-08-03T14:19:29.524Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.8
+    }
+  },
+  "son of the beach": {
+    "score": 20,
+    "last_evaluated": "2026-08-03T14:19:30.375Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
