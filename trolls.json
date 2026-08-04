@@ -9378,5 +9378,15 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "perisist": {
+    "score": 0,
+    "last_evaluated": "2026-08-04T14:06:35.230Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
