@@ -1360,12 +1360,12 @@
     }
   },
   "muhalif13": {
-    "score": 0,
-    "last_evaluated": "2026-07-19T13:27:19.128Z",
+    "score": 60,
+    "last_evaluated": "2026-08-04T17:36:28.673Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
       "nefret": 0
     }
   },
@@ -9486,6 +9486,46 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "bambaskahayat": {
+    "score": 20,
+    "last_evaluated": "2026-08-04T17:36:26.693Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "kirikkalpler": {
+    "score": 20,
+    "last_evaluated": "2026-08-04T17:36:27.230Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "giovinco": {
+    "score": 20,
+    "last_evaluated": "2026-08-04T17:36:27.776Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "tomiris": {
+    "score": 80,
+    "last_evaluated": "2026-08-04T17:36:28.101Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
       "nefret": 0
     }
   }
