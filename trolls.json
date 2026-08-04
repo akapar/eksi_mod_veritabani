@@ -9388,5 +9388,105 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "odhner": {
+    "score": 80,
+    "last_evaluated": "2026-08-04T15:39:18.283Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "hevamfuskiki": {
+    "score": 20,
+    "last_evaluated": "2026-08-04T15:39:19.385Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "thand": {
+    "score": 40,
+    "last_evaluated": "2026-08-04T15:39:20.077Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.4
+    }
+  },
+  "this is my story": {
+    "score": 80,
+    "last_evaluated": "2026-08-04T15:39:20.788Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.8
+    }
+  },
+  "deme yahu": {
+    "score": 80,
+    "last_evaluated": "2026-08-04T15:39:21.242Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "elleri cebinde olan zdf yoneticisi": {
+    "score": 20,
+    "last_evaluated": "2026-08-04T15:39:21.795Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "akdenizlininklavyesi": {
+    "score": 80,
+    "last_evaluated": "2026-08-04T15:39:23.586Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.8
+    }
+  },
+  "sorucumlesi": {
+    "score": 80,
+    "last_evaluated": "2026-08-04T15:39:24.139Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0.6
+    }
+  },
+  "carbonblue": {
+    "score": 80,
+    "last_evaluated": "2026-08-04T15:39:24.388Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "baldirdas": {
+    "score": 20,
+    "last_evaluated": "2026-08-04T15:39:24.817Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
