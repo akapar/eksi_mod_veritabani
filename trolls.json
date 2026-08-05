@@ -9528,5 +9528,15 @@
       "siyasi": 0.8,
       "nefret": 0
     }
+  },
+  "ero01": {
+    "score": 60,
+    "last_evaluated": "2026-08-05T08:21:38.514Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0.4,
+      "siyasi": 0.6,
+      "nefret": 0.4
+    }
   }
 }
