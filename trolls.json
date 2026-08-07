@@ -9608,5 +9608,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "mokopo": {
+    "score": 80,
+    "last_evaluated": "2026-08-07T16:43:07.563Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.8,
+      "nefret": 0
+    }
   }
 }
