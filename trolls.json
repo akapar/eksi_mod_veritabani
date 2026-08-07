@@ -7130,12 +7130,12 @@
     }
   },
   "jamirikua": {
-    "score": 0,
-    "last_evaluated": "2026-07-23T21:07:03.351Z",
+    "score": 20,
+    "last_evaluated": "2026-08-07T10:43:41.562Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.2,
       "nefret": 0
     }
   },
@@ -9577,6 +9577,36 @@
       "milli": 0.2,
       "siyasi": 0.8,
       "nefret": 0.1
+    }
+  },
+  "margi kleinjan": {
+    "score": 40,
+    "last_evaluated": "2026-08-07T10:43:41.293Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "shirlwwy": {
+    "score": 0,
+    "last_evaluated": "2026-08-07T10:43:41.912Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "boncuksurat": {
+    "score": 0,
+    "last_evaluated": "2026-08-07T10:43:42.294Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
