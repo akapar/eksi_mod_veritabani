@@ -1810,12 +1810,12 @@
     }
   },
   "tordah": {
-    "score": 0,
-    "last_evaluated": "2026-07-19T13:42:03.269Z",
+    "score": 20,
+    "last_evaluated": "2026-08-08T14:23:44.070Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.2,
       "nefret": 0
     }
   },
@@ -9616,6 +9616,16 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.8,
+      "nefret": 0
+    }
+  },
+  "agzima gelenler": {
+    "score": 20,
+    "last_evaluated": "2026-08-08T14:23:43.742Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
       "nefret": 0
     }
   }
