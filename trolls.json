@@ -9628,5 +9628,15 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "bassgitarsiz": {
+    "score": 80,
+    "last_evaluated": "2026-08-10T16:44:10.042Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.8,
+      "nefret": 0.2
+    }
   }
 }
