@@ -9638,5 +9638,15 @@
       "siyasi": 0.8,
       "nefret": 0.2
     }
+  },
+  "blue eye samurai": {
+    "score": 0,
+    "last_evaluated": "2026-08-11T14:50:46.914Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
