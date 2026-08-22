@@ -131,7 +131,7 @@ async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
         model: currentModel,
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.1,
-        max_tokens: 256,
+        max_tokens: 2048, // thinking models spend tokens on <think> blocks before answering
       });
       return result.choices[0].message.content.trim();
     } catch (e) {
@@ -345,14 +345,24 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
         const response = await callGroqWithRetry(groq, prompt);
         let text = response.trim();
 
-        // Strip <think>...</think> reasoning blocks (Qwen3 and similar thinking models)
-        text = text.replace(/<think>[\s\S]*?<\/think>/gi, '').trim();
+        // Strip <think>...</think> reasoning blocks (Qwen3 and similar thinking models).
+        // Strategy: if </think> exists take everything after it; otherwise strip from <think> onward
+        // and then hunt for the JSON block directly.
+        const thinkEnd = text.indexOf('</think>');
+        if (thinkEnd !== -1) {
+          text = text.slice(thinkEnd + '</think>'.length).trim();
+        } else if (/<think>/i.test(text)) {
+          // Thinking block was cut off (no closing tag) — extract the trailing JSON if present
+          const lastBrace = text.lastIndexOf('{');
+          if (lastBrace !== -1) text = text.slice(lastBrace);
+          else text = '';
+        }
 
-        // Extract JSON — look for object containing expected keys to skip any stray { } in prose
+        // Extract JSON — prefer object that contains our expected keys
         let jsonStr = text;
-        const jsonMatch = text.match(/\{[^]*?"dini"[^]*?\}/);
-        if (jsonMatch) {
-          jsonStr = jsonMatch[0];
+        const specificMatch = text.match(/\{[^{}]*"dini"[^{}]*\}/s);
+        if (specificMatch) {
+          jsonStr = specificMatch[0];
         } else {
           const fallback = text.match(/\{[\s\S]*\}/);
           if (fallback) jsonStr = fallback[0];
