@@ -137,13 +137,21 @@ async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
         temperature: 0.1,
         max_tokens: 512,
       });
-      return result.choices[0].message.content.trim();
+      const content = result.choices[0].message.content.trim();
+      if (!content) throw new Error('Empty response from model');
+      return content;
     } catch (e) {
       const errMsg = e.message || '';
 
-      // Model requires terms acceptance — skip silently, don't count as a retry
+      // Model requires terms acceptance or is rate-limited — skip, don't count as a retry
       if (errMsg.includes('model_terms_required') || errMsg.includes('terms acceptance')) {
         console.warn(`[Groq] Model '${currentModel}' requires terms acceptance. Skipping.`);
+        cachedModels = cachedModels.filter(m => m !== currentModel);
+        modelIdx++;
+        continue;
+      }
+      if (errMsg.includes('rate_limit_exceeded') || errMsg.includes('Rate limit reached')) {
+        console.warn(`[Groq] Model '${currentModel}' rate limited. Skipping for this run.`);
         cachedModels = cachedModels.filter(m => m !== currentModel);
         modelIdx++;
         continue;
