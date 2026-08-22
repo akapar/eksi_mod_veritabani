@@ -78,6 +78,25 @@ async function fetchUserProfileWithBrowser(browser, nickname) {
 
 let cachedModels = null;
 
+// Models that are not suitable for chat completions (speech, classification, safety filters, etc.)
+const EXCLUDED_MODEL_PATTERNS = ['whisper', 'vision', 'orpheus', 'prompt-guard', 'safeguard'];
+// Prefer these model families for Turkish text analysis
+const PREFERRED_MODEL_PATTERNS = ['llama', 'qwen', 'gemma', 'mixtral', 'deepseek', 'mistral'];
+const FALLBACK_MODELS = ['llama-3.1-8b-instant', 'llama-3.3-70b-versatile', 'gemma2-9b-it'];
+
+function buildModelQueue(allModels) {
+  const suitable = allModels.filter(m =>
+    !EXCLUDED_MODEL_PATTERNS.some(p => m.toLowerCase().includes(p))
+  );
+  // Sort so preferred chat-capable models come first
+  suitable.sort((a, b) => {
+    const aOk = PREFERRED_MODEL_PATTERNS.some(p => a.toLowerCase().includes(p));
+    const bOk = PREFERRED_MODEL_PATTERNS.some(p => b.toLowerCase().includes(p));
+    return (aOk === bOk) ? 0 : aOk ? -1 : 1;
+  });
+  return suitable.length > 0 ? suitable : [...FALLBACK_MODELS];
+}
+
 // Retry with exponential backoff for Groq API
 async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
   if (!cachedModels) {
@@ -87,17 +106,27 @@ async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
       console.log('[Groq] Available models:', cachedModels.join(', '));
     } catch (e) {
       console.warn('[Groq] Failed to list models:', e.message);
-      cachedModels = ['llama-3.1-8b-instant', 'llama-3.3-70b-versatile', 'gemma2-9b-it'];
+      cachedModels = [...FALLBACK_MODELS];
     }
   }
-  
-  let models = cachedModels.filter(m => !m.includes('whisper') && !m.includes('vision'));
-  if (models.length === 0) models = cachedModels;
 
-  for (let i = 0; i < retries; i++) {
-    const currentModel = models[Math.min(i, models.length - 1)];
+  const modelQueue = buildModelQueue(cachedModels);
+  let modelIdx = 0;
+  let attempt = 0;
+  let currentDelay = delay;
+
+  while (attempt < retries) {
+    if (modelIdx >= modelQueue.length) {
+      // Ran out of models; append fallbacks not yet tried
+      for (const fb of FALLBACK_MODELS) {
+        if (!modelQueue.includes(fb)) modelQueue.push(fb);
+      }
+      if (modelIdx >= modelQueue.length) break;
+    }
+
+    const currentModel = modelQueue[modelIdx];
     try {
-      if (i > 0) console.log(`[Groq] Retrying with model: ${currentModel}`);
+      if (attempt > 0 || modelIdx > 0) console.log(`[Groq] Trying model: ${currentModel}`);
       const result = await groq.chat.completions.create({
         model: currentModel,
         messages: [{ role: 'user', content: prompt }],
@@ -106,15 +135,29 @@ async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
       });
       return result.choices[0].message.content.trim();
     } catch (e) {
-      if (i === retries - 1) throw e;
-      let waitMs = delay;
-      const retryMatch = e.message && e.message.match(/(\d+(\.\d+)?)\s*second/);
-      if (retryMatch) waitMs = (parseFloat(retryMatch[1]) + 2) * 1000;
-      console.warn(`[Groq] API error (retry ${i + 1}/${retries}): ${e.message.split('\n')[0]}. Retrying in ${waitMs / 1000}s...`);
+      const errMsg = e.message || '';
+
+      // Model requires terms acceptance — skip silently, don't count as a retry
+      if (errMsg.includes('model_terms_required') || errMsg.includes('terms acceptance')) {
+        console.warn(`[Groq] Model '${currentModel}' requires terms acceptance. Skipping.`);
+        cachedModels = cachedModels.filter(m => m !== currentModel);
+        modelIdx++;
+        continue;
+      }
+
+      attempt++;
+      if (attempt >= retries) throw e;
+
+      const retryMatch = errMsg.match(/(\d+(\.\d+)?)\s*second/);
+      const waitMs = retryMatch ? (parseFloat(retryMatch[1]) + 2) * 1000 : currentDelay;
+      console.warn(`[Groq] API error (retry ${attempt}/${retries}): ${errMsg.split('\n')[0]}. Retrying in ${waitMs / 1000}s...`);
       await new Promise(resolve => setTimeout(resolve, waitMs));
-      delay *= 2;
+      currentDelay *= 2;
+      modelIdx++;
     }
   }
+
+  throw new Error('All Groq models failed after maximum retries.');
 }
 
 async function run() {
