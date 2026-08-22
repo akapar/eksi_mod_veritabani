@@ -76,9 +76,24 @@ async function fetchUserProfileWithBrowser(browser, nickname) {
   throw new Error(`Could not fetch profile for '${nickname}' from any mirror using stealth browser.`);
 }
 
+let cachedModels = null;
+
 // Retry with exponential backoff for Groq API
 async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
-  const models = ['llama3-8b-8192', 'llama3-70b-8192', 'mixtral-8x7b-32768'];
+  if (!cachedModels) {
+    try {
+      const res = await groq.models.list();
+      cachedModels = res.data.map(m => m.id);
+      console.log('[Groq] Available models:', cachedModels.join(', '));
+    } catch (e) {
+      console.warn('[Groq] Failed to list models:', e.message);
+      cachedModels = ['llama-3.1-8b-instant', 'llama-3.3-70b-versatile', 'gemma2-9b-it'];
+    }
+  }
+  
+  let models = cachedModels.filter(m => !m.includes('whisper') && !m.includes('vision'));
+  if (models.length === 0) models = cachedModels;
+
   for (let i = 0; i < retries; i++) {
     const currentModel = models[Math.min(i, models.length - 1)];
     try {
