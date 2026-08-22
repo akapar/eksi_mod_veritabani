@@ -78,7 +78,7 @@ async function fetchUserProfileWithBrowser(browser, nickname) {
 
 // Retry with exponential backoff for Groq API
 async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
-  const models = ['llama-3.3-70b-versatile', 'llama-3.1-8b-instant', 'llama-3.2-3b-preview'];
+  const models = ['llama3-8b-8192', 'llama3-70b-8192', 'mixtral-8x7b-32768'];
   for (let i = 0; i < retries; i++) {
     const currentModel = models[Math.min(i, models.length - 1)];
     try {
