@@ -1961,7 +1961,7 @@
   },
   "omurgadoktoru": {
     "score": 0,
-    "last_evaluated": "2026-07-19T14:25:32.301Z",
+    "last_evaluated": "2026-08-22T08:25:26.269Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -9712,6 +9712,46 @@
   "derdinipaylasmayanadam": {
     "score": 0,
     "last_evaluated": "2026-08-22T08:20:08.254Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "deusdeus": {
+    "score": 90,
+    "last_evaluated": "2026-08-22T08:24:11.334Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.9
+    }
+  },
+  "miamix": {
+    "score": 0,
+    "last_evaluated": "2026-08-22T08:24:22.144Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "woo girl": {
+    "score": 0,
+    "last_evaluated": "2026-08-22T08:24:43.291Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "minscnboo": {
+    "score": 0,
+    "last_evaluated": "2026-08-22T08:25:36.774Z",
     "details": {
       "dini": 0,
       "milli": 0,
