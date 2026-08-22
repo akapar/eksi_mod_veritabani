@@ -9798,5 +9798,25 @@
       "siyasi": 0.6,
       "nefret": 0.1
     }
+  },
+  "sucuklusabun": {
+    "score": 0,
+    "last_evaluated": "2026-08-22T10:14:10.009Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ineklere fisildayan adam": {
+    "score": 50,
+    "last_evaluated": "2026-08-22T10:14:30.469Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
   }
 }
