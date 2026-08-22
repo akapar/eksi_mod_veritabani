@@ -129,9 +129,13 @@ async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
       if (attempt > 0 || modelIdx > 0) console.log(`[Groq] Trying model: ${currentModel}`);
       const result = await groq.chat.completions.create({
         model: currentModel,
-        messages: [{ role: 'user', content: prompt }],
+        messages: [
+          // /no_think disables the reasoning chain on Qwen3; other models treat it as a plain instruction
+          { role: 'system', content: 'Yalnızca geçerli JSON çıktısı üret. Düşünme zinciri, açıklama veya markdown ekleme. /no_think' },
+          { role: 'user', content: prompt },
+        ],
         temperature: 0.1,
-        max_tokens: 2048, // thinking models spend tokens on <think> blocks before answering
+        max_tokens: 512,
       });
       return result.choices[0].message.content.trim();
     } catch (e) {
