@@ -9668,5 +9668,55 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "o nick buraya gelecek aga": {
+    "score": 0,
+    "last_evaluated": "2026-08-22T08:19:04.624Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "siyah balina": {
+    "score": 0,
+    "last_evaluated": "2026-08-22T08:19:15.128Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "m1911": {
+    "score": 30,
+    "last_evaluated": "2026-08-22T08:19:25.906Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.3
+    }
+  },
+  "superhero landing": {
+    "score": 0,
+    "last_evaluated": "2026-08-22T08:19:57.856Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "derdinipaylasmayanadam": {
+    "score": 0,
+    "last_evaluated": "2026-08-22T08:20:08.254Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
