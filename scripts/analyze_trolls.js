@@ -345,13 +345,19 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
         const response = await callGroqWithRetry(groq, prompt);
         let text = response.trim();
 
-        // Clean markdown code blocks if model wraps response
+        // Strip <think>...</think> reasoning blocks (Qwen3 and similar thinking models)
+        text = text.replace(/<think>[\s\S]*?<\/think>/gi, '').trim();
+
+        // Extract JSON — look for object containing expected keys to skip any stray { } in prose
         let jsonStr = text;
-        const jsonMatch = text.match(/\{[\s\S]*\}/);
+        const jsonMatch = text.match(/\{[^]*?"dini"[^]*?\}/);
         if (jsonMatch) {
           jsonStr = jsonMatch[0];
+        } else {
+          const fallback = text.match(/\{[\s\S]*\}/);
+          if (fallback) jsonStr = fallback[0];
         }
-        
+
         console.log(`Groq response: ${text}`);
         const scores = JSON.parse(jsonStr);
 
