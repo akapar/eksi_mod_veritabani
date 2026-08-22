@@ -78,23 +78,68 @@ async function fetchUserProfileWithBrowser(browser, nickname) {
 
 let cachedModels = null;
 
-// Models that are not suitable for chat completions (speech, classification, safety filters, etc.)
+// Models unsuitable for chat completions (speech, classification, safety filters)
 const EXCLUDED_MODEL_PATTERNS = ['whisper', 'vision', 'orpheus', 'prompt-guard', 'safeguard'];
-// Prefer these model families for Turkish text analysis
-const PREFERRED_MODEL_PATTERNS = ['llama', 'qwen', 'gemma', 'mixtral', 'deepseek', 'mistral'];
-const FALLBACK_MODELS = ['llama-3.1-8b-instant', 'llama-3.3-70b-versatile', 'gemma2-9b-it'];
+
+// Explicit priority order — most reliable first based on observed behaviour.
+// qwen is a thinking model and is intentionally deprioritised; compound models are Groq-native and stable.
+const PRIORITY_MODELS = [
+  'groq/compound',
+  'groq/compound-mini',
+  'openai/gpt-oss-120b',
+  'openai/gpt-oss-20b',
+  'qwen/qwen3.6-27b',
+  'allam-2-7b',
+  'llama-3.3-70b-versatile',
+  'llama-3.1-8b-instant',
+  'gemma2-9b-it',
+];
 
 function buildModelQueue(allModels) {
-  const suitable = allModels.filter(m =>
-    !EXCLUDED_MODEL_PATTERNS.some(p => m.toLowerCase().includes(p))
+  const available = new Set(
+    allModels.filter(m => !EXCLUDED_MODEL_PATTERNS.some(p => m.toLowerCase().includes(p)))
   );
-  // Sort so preferred chat-capable models come first
-  suitable.sort((a, b) => {
-    const aOk = PREFERRED_MODEL_PATTERNS.some(p => a.toLowerCase().includes(p));
-    const bOk = PREFERRED_MODEL_PATTERNS.some(p => b.toLowerCase().includes(p));
-    return (aOk === bOk) ? 0 : aOk ? -1 : 1;
-  });
-  return suitable.length > 0 ? suitable : [...FALLBACK_MODELS];
+  // Priority models first (if available), then any remaining suitable models
+  const queue = PRIORITY_MODELS.filter(m => available.has(m));
+  for (const m of available) {
+    if (!queue.includes(m)) queue.push(m);
+  }
+  return queue.length > 0 ? queue : [...PRIORITY_MODELS];
+}
+
+function parseScores(text) {
+  // Strip <think>...</think> reasoning blocks (Qwen3 and similar thinking models)
+  const thinkEnd = text.indexOf('</think>');
+  if (thinkEnd !== -1) {
+    text = text.slice(thinkEnd + '</think>'.length).trim();
+  } else if (/<think>/i.test(text)) {
+    const lastBrace = text.lastIndexOf('{');
+    text = lastBrace !== -1 ? text.slice(lastBrace) : '';
+  }
+
+  // Find JSON object containing our expected keys
+  let jsonStr = null;
+  const specific = text.match(/\{[^{}]*"dini"[^{}]*\}/s);
+  if (specific) {
+    jsonStr = specific[0];
+  } else {
+    const greedy = text.match(/\{[\s\S]*\}/);
+    if (greedy) jsonStr = greedy[0];
+  }
+
+  if (!jsonStr) throw new Error('No JSON object found in model response');
+
+  const scores = JSON.parse(jsonStr);
+  const keys = ['dini', 'milli', 'siyasi', 'nefret'];
+  for (const k of keys) {
+    if (!(k in scores)) throw new Error(`Missing key '${k}' in response JSON`);
+  }
+  return {
+    dini:   Math.min(1, Math.max(0, parseFloat(scores.dini)   || 0)),
+    milli:  Math.min(1, Math.max(0, parseFloat(scores.milli)  || 0)),
+    siyasi: Math.min(1, Math.max(0, parseFloat(scores.siyasi) || 0)),
+    nefret: Math.min(1, Math.max(0, parseFloat(scores.nefret) || 0)),
+  };
 }
 
 // Retry with exponential backoff for Groq API
@@ -106,7 +151,7 @@ async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
       console.log('[Groq] Available models:', cachedModels.join(', '));
     } catch (e) {
       console.warn('[Groq] Failed to list models:', e.message);
-      cachedModels = [...FALLBACK_MODELS];
+      cachedModels = [...PRIORITY_MODELS];
     }
   }
 
@@ -117,9 +162,9 @@ async function callGroqWithRetry(groq, prompt, retries = 3, delay = 10000) {
 
   while (attempt < retries) {
     if (modelIdx >= modelQueue.length) {
-      // Ran out of models; append fallbacks not yet tried
-      for (const fb of FALLBACK_MODELS) {
-        if (!modelQueue.includes(fb)) modelQueue.push(fb);
+      // Ran out of models; append priority fallbacks not yet tried
+      for (const m of PRIORITY_MODELS) {
+        if (!modelQueue.includes(m)) modelQueue.push(m);
       }
       if (modelIdx >= modelQueue.length) break;
     }
@@ -325,11 +370,11 @@ async function run() {
           continue;
         }
 
-        // Token limitlerini aşmamak için yazıları kısalt (Groq 8b-instant limiti genelde 6000 token)
+        // 400 karakter sınırı: groq/compound 413 hatasını önler, token limitini düşürür
         entries = entries.map(e => ({
           title: e.title,
-          content: e.content.length > 800 ? e.content.substring(0, 800) + '... (kısaltıldı)' : e.content
-        })).slice(0, 5); // Yapay zekaya en fazla 5 entry gönder
+          content: e.content.length > 400 ? e.content.substring(0, 400) + '…' : e.content
+        })).slice(0, 5);
 
         console.log(`Successfully got ${entries.length} entries. Sending to Groq for scoring...`);
 
@@ -355,38 +400,9 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
 }`;
 
         const response = await callGroqWithRetry(groq, prompt);
-        let text = response.trim();
-
-        // Strip <think>...</think> reasoning blocks (Qwen3 and similar thinking models).
-        // Strategy: if </think> exists take everything after it; otherwise strip from <think> onward
-        // and then hunt for the JSON block directly.
-        const thinkEnd = text.indexOf('</think>');
-        if (thinkEnd !== -1) {
-          text = text.slice(thinkEnd + '</think>'.length).trim();
-        } else if (/<think>/i.test(text)) {
-          // Thinking block was cut off (no closing tag) — extract the trailing JSON if present
-          const lastBrace = text.lastIndexOf('{');
-          if (lastBrace !== -1) text = text.slice(lastBrace);
-          else text = '';
-        }
-
-        // Extract JSON — prefer object that contains our expected keys
-        let jsonStr = text;
-        const specificMatch = text.match(/\{[^{}]*"dini"[^{}]*\}/s);
-        if (specificMatch) {
-          jsonStr = specificMatch[0];
-        } else {
-          const fallback = text.match(/\{[\s\S]*\}/);
-          if (fallback) jsonStr = fallback[0];
-        }
-
-        console.log(`Groq response: ${text}`);
-        const scores = JSON.parse(jsonStr);
-
-        const dini = parseFloat(scores.dini) || 0.0;
-        const milli = parseFloat(scores.milli) || 0.0;
-        const siyasi = parseFloat(scores.siyasi) || 0.0;
-        const nefret = parseFloat(scores.nefret) || 0.0;
+        console.log(`Groq response: ${response.trim()}`);
+        const scores = parseScores(response.trim());
+        const { dini, milli, siyasi, nefret } = scores;
 
         // Overall score = highest category * 100
         const maxScoreVal = Math.max(dini, milli, siyasi, nefret);
