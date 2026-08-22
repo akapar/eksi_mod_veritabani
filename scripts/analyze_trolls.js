@@ -181,6 +181,7 @@ async function run() {
     });
   }
 
+  let hasErrors = false;
   try {
     for (let idx = 0; idx < batch.length; idx++) {
       const item = batch[idx];
@@ -287,12 +288,14 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
         let text = response.trim();
 
         // Clean markdown code blocks if model wraps response
-        if (text.startsWith('```')) {
-          text = text.replace(/^```json\s*/, '').replace(/```$/, '').trim();
+        let jsonStr = text;
+        const jsonMatch = text.match(/\{[\s\S]*\}/);
+        if (jsonMatch) {
+          jsonStr = jsonMatch[0];
         }
-
+        
         console.log(`Groq response: ${text}`);
-        const scores = JSON.parse(text);
+        const scores = JSON.parse(jsonStr);
 
         const dini = parseFloat(scores.dini) || 0.0;
         const milli = parseFloat(scores.milli) || 0.0;
@@ -316,6 +319,7 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
 
       } catch (e) {
         console.error(`Error processing '${nickname}':`, e.message);
+        hasErrors = true;
         // Keep queue file on error for retry in next run
       }
     }
@@ -332,6 +336,12 @@ Sonucu kesinlikle sadece aşağıdaki JSON formatında döndür, markdown bloğu
     console.log(`\nSuccessfully updated trolls.json.`);
   } catch (e) {
     console.error('Failed to write trolls.json:', e.message);
+    hasErrors = true;
+  }
+  
+  if (hasErrors) {
+    console.error('\nScript finished with errors. Exiting with code 1 so GitHub Actions will report a failure.');
+    process.exit(1);
   }
 }
 
