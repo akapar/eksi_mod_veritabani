@@ -9758,5 +9758,45 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "nickim demir gel kemir": {
+    "score": 0,
+    "last_evaluated": "2026-08-22T09:13:38.009Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kiri": {
+    "score": 15,
+    "last_evaluated": "2026-08-22T09:13:56.084Z",
+    "details": {
+      "dini": 0.05,
+      "milli": 0,
+      "siyasi": 0.15,
+      "nefret": 0
+    }
+  },
+  "oksijensiznefes": {
+    "score": 20,
+    "last_evaluated": "2026-08-22T09:14:14.375Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
+  },
+  "anonimbiriiste": {
+    "score": 60,
+    "last_evaluated": "2026-08-22T09:14:55.890Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.6,
+      "nefret": 0.1
+    }
   }
 }
