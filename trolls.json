@@ -9818,5 +9818,15 @@
       "siyasi": 0,
       "nefret": 0.5
     }
+  },
+  "tahirikemal": {
+    "score": 40,
+    "last_evaluated": "2026-08-24T02:56:07.188Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.3,
+      "siyasi": 0.4,
+      "nefret": 0.1
+    }
   }
 }
