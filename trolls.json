@@ -9828,5 +9828,15 @@
       "siyasi": 0.4,
       "nefret": 0.1
     }
+  },
+  "yuzbasipusat": {
+    "score": 0,
+    "last_evaluated": "2026-08-24T14:33:20.950Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
