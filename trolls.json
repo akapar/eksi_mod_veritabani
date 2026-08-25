@@ -1,4 +1,14 @@
 {
+  "9": {
+    "score": 20,
+    "last_evaluated": "2026-08-25T06:31:45.931Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
   "236": {
     "score": 80,
     "last_evaluated": "2026-07-20T13:16:46.969Z",
@@ -1280,12 +1290,12 @@
     }
   },
   "lion king345": {
-    "score": 20,
-    "last_evaluated": "2026-07-19T13:26:03.963Z",
+    "score": 25,
+    "last_evaluated": "2026-08-25T06:32:01.441Z",
     "details": {
       "dini": 0,
-      "milli": 0.2,
-      "siyasi": 0.1,
+      "milli": 0.1,
+      "siyasi": 0.25,
       "nefret": 0
     }
   },
