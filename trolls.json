@@ -9848,5 +9848,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "icnika": {
+    "score": 20,
+    "last_evaluated": "2026-08-25T12:31:10.632Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
   }
 }
