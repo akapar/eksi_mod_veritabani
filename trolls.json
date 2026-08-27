@@ -630,13 +630,13 @@
     }
   },
   "derinsubasi": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T13:33:23.468Z",
+    "score": 20,
+    "last_evaluated": "2026-08-27T16:46:43.843Z",
     "details": {
       "dini": 0,
       "milli": 0,
       "siyasi": 0,
-      "nefret": 0
+      "nefret": 0.2
     }
   },
   "dostnaystro": {
@@ -2860,12 +2860,12 @@
     }
   },
   "cathars": {
-    "score": 0,
-    "last_evaluated": "2026-07-20T16:26:06.459Z",
+    "score": 30,
+    "last_evaluated": "2026-08-27T16:47:12.371Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.3,
       "nefret": 0
     }
   },
@@ -9857,6 +9857,76 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0.2
+    }
+  },
+  "aspects of life": {
+    "score": 20,
+    "last_evaluated": "2026-08-27T16:46:54.071Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "verarivken": {
+    "score": 20,
+    "last_evaluated": "2026-08-27T16:47:00.013Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0
+    }
+  },
+  "ozel sosu olmayan donerci": {
+    "score": 15,
+    "last_evaluated": "2026-08-27T16:47:25.774Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.15,
+      "nefret": 0
+    }
+  },
+  "kotu soz soyletilen kavanoz": {
+    "score": 0,
+    "last_evaluated": "2026-08-27T16:47:38.714Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sosyete kazim": {
+    "score": 0,
+    "last_evaluated": "2026-08-27T16:47:59.265Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "pipisi silah zannedilen adam": {
+    "score": 0,
+    "last_evaluated": "2026-08-27T16:48:09.986Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "mete mandalli": {
+    "score": 0,
+    "last_evaluated": "2026-08-27T16:48:15.521Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
