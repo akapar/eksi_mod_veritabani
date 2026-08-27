@@ -9928,5 +9928,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "blacksocks": {
+    "score": 10,
+    "last_evaluated": "2026-08-27T17:23:38.380Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0.1
+    }
   }
 }
