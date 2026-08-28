@@ -9938,5 +9938,25 @@
       "siyasi": 0.1,
       "nefret": 0.1
     }
+  },
+  "lothloran": {
+    "score": 0,
+    "last_evaluated": "2026-08-28T13:44:26.274Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "2020 ekonomik krizi": {
+    "score": 50,
+    "last_evaluated": "2026-08-28T13:44:43.344Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.4,
+      "nefret": 0.5
+    }
   }
 }
