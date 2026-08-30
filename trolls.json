@@ -9958,5 +9958,45 @@
       "siyasi": 0.4,
       "nefret": 0.5
     }
+  },
+  "minotaurosyan": {
+    "score": 0,
+    "last_evaluated": "2026-08-30T09:36:35.388Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "carlitonun yolu": {
+    "score": 0,
+    "last_evaluated": "2026-08-30T09:36:38.608Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "nihilistic cat": {
+    "score": 0,
+    "last_evaluated": "2026-08-30T09:36:54.332Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "renksiz hayat": {
+    "score": 20,
+    "last_evaluated": "2026-08-30T09:36:58.376Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
