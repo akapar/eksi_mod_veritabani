@@ -6210,13 +6210,13 @@
     }
   },
   "on": {
-    "score": 0,
-    "last_evaluated": "2026-07-23T12:15:15.442Z",
+    "score": 80,
+    "last_evaluated": "2026-08-31T23:31:17.922Z",
     "details": {
-      "dini": 0,
-      "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "dini": 0.2,
+      "milli": 0.3,
+      "siyasi": 0.8,
+      "nefret": 0.1
     }
   },
   "p8": {
@@ -10146,6 +10146,26 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "walroth sama": {
+    "score": 35,
+    "last_evaluated": "2026-08-31T23:31:01.303Z",
+    "details": {
+      "dini": 0.3,
+      "milli": 0.2,
+      "siyasi": 0.3,
+      "nefret": 0.35
+    }
+  },
+  "kurdish developer": {
+    "score": 30,
+    "last_evaluated": "2026-08-31T23:31:34.422Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.3,
       "nefret": 0
     }
   }
