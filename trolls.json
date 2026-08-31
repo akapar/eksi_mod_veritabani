@@ -10038,5 +10038,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "kelimevedinle": {
+    "score": 0,
+    "last_evaluated": "2026-08-31T18:30:26.975Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "xwxw": {
+    "score": 20,
+    "last_evaluated": "2026-08-31T18:30:42.791Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
