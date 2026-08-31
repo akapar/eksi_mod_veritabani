@@ -20,13 +20,13 @@
     }
   },
   "155551": {
-    "score": 0,
-    "last_evaluated": "2026-07-23T11:33:37.039Z",
+    "score": 80,
+    "last_evaluated": "2026-08-31T21:10:24.326Z",
     "details": {
-      "dini": 0,
+      "dini": 0.2,
       "milli": 0,
       "siyasi": 0,
-      "nefret": 0
+      "nefret": 0.8
     }
   },
   "19216811": {
@@ -5990,13 +5990,13 @@
     }
   },
   "ferman87": {
-    "score": 0,
-    "last_evaluated": "2026-07-23T12:03:40.252Z",
+    "score": 50,
+    "last_evaluated": "2026-08-31T21:10:41.451Z",
     "details": {
       "dini": 0,
       "milli": 0,
       "siyasi": 0,
-      "nefret": 0
+      "nefret": 0.5
     }
   },
   "goldar": {
@@ -10052,6 +10052,96 @@
   "xwxw": {
     "score": 20,
     "last_evaluated": "2026-08-31T18:30:42.791Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "luckys": {
+    "score": 0,
+    "last_evaluated": "2026-08-31T21:10:16.975Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "styna valentina": {
+    "score": 70,
+    "last_evaluated": "2026-08-31T21:10:27.682Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.7
+    }
+  },
+  "atgozlukluyobaz": {
+    "score": 40,
+    "last_evaluated": "2026-08-31T21:10:51.595Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.4
+    }
+  },
+  "serbestdusunenhindi": {
+    "score": 0,
+    "last_evaluated": "2026-08-31T21:10:59.157Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "karoaspapaz": {
+    "score": 60,
+    "last_evaluated": "2026-08-31T21:11:07.297Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.6,
+      "siyasi": 0.3,
+      "nefret": 0
+    }
+  },
+  "camelkahverengi": {
+    "score": 30,
+    "last_evaluated": "2026-08-31T21:12:24.777Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.3
+    }
+  },
+  "karatigin": {
+    "score": 20,
+    "last_evaluated": "2026-08-31T21:12:39.496Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "puzzleman": {
+    "score": 20,
+    "last_evaluated": "2026-08-31T21:12:40.638Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "dogru konus": {
+    "score": 20,
+    "last_evaluated": "2026-08-31T21:12:41.872Z",
     "details": {
       "dini": 0,
       "milli": 0,
