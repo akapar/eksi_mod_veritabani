@@ -8310,13 +8310,13 @@
     }
   },
   "roses dont need a name": {
-    "score": 0,
-    "last_evaluated": "2026-07-26T14:40:36.630Z",
+    "score": 20,
+    "last_evaluated": "2026-08-31T10:18:00.690Z",
     "details": {
       "dini": 0,
       "milli": 0,
       "siyasi": 0,
-      "nefret": 0
+      "nefret": 0.2
     }
   },
   "deadpoetsociety": {
@@ -9661,7 +9661,7 @@
   },
   "ramazan kamadan": {
     "score": 0,
-    "last_evaluated": "2026-08-22T02:49:14.122Z",
+    "last_evaluated": "2026-08-31T10:18:06.701Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -10002,6 +10002,36 @@
   "auer": {
     "score": 0,
     "last_evaluated": "2026-08-30T18:57:20.495Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "linus torvalds": {
+    "score": 0,
+    "last_evaluated": "2026-08-31T10:18:02.770Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bayanacizane": {
+    "score": 0,
+    "last_evaluated": "2026-08-31T10:18:14.381Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "boylebuyurduhamus": {
+    "score": 0,
+    "last_evaluated": "2026-08-31T10:18:26.036Z",
     "details": {
       "dini": 0,
       "milli": 0,
