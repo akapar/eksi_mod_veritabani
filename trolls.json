@@ -10188,5 +10188,35 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "buyuk orta dunya procesi": {
+    "score": 80,
+    "last_evaluated": "2026-09-02T13:58:44.412Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.1,
+      "siyasi": 0.3,
+      "nefret": 0.8
+    }
+  },
+  "uzaymekik": {
+    "score": 50,
+    "last_evaluated": "2026-09-02T13:59:04.464Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.5
+    }
+  },
+  "ibrahimefendi": {
+    "score": 0,
+    "last_evaluated": "2026-09-02T13:59:11.960Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
