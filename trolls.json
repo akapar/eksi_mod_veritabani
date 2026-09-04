@@ -10228,5 +10228,45 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "cemkara": {
+    "score": 50,
+    "last_evaluated": "2026-09-04T13:53:37.361Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "aman da amann": {
+    "score": 20,
+    "last_evaluated": "2026-09-04T13:53:38.640Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "advest": {
+    "score": 0,
+    "last_evaluated": "2026-09-04T13:53:41.501Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "klavye kahramani": {
+    "score": 20,
+    "last_evaluated": "2026-09-04T13:53:50.073Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
