@@ -10020,13 +10020,13 @@
     }
   },
   "bayanacizane": {
-    "score": 0,
-    "last_evaluated": "2026-08-31T10:18:14.381Z",
+    "score": 20,
+    "last_evaluated": "2026-09-04T20:01:48.746Z",
     "details": {
       "dini": 0,
       "milli": 0,
       "siyasi": 0,
-      "nefret": 0
+      "nefret": 0.2
     }
   },
   "boylebuyurduhamus": {
@@ -10264,6 +10264,96 @@
     "last_evaluated": "2026-09-04T13:53:50.073Z",
     "details": {
       "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "yeni kullanici kaydi olmaz olsun": {
+    "score": 0,
+    "last_evaluated": "2026-09-04T20:00:46.864Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "cagor": {
+    "score": 0,
+    "last_evaluated": "2026-09-04T20:00:49.441Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "yonca lobi": {
+    "score": 20,
+    "last_evaluated": "2026-09-04T20:00:56.343Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "anatomyofpoet": {
+    "score": 0,
+    "last_evaluated": "2026-09-04T20:01:04.448Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "avraam": {
+    "score": 10,
+    "last_evaluated": "2026-09-04T20:01:13.364Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.1
+    }
+  },
+  "kutahya1903": {
+    "score": 40,
+    "last_evaluated": "2026-09-04T20:01:20.550Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.4
+    }
+  },
+  "denethorizm": {
+    "score": 0,
+    "last_evaluated": "2026-09-04T20:01:28.591Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kim lan onlar": {
+    "score": 80,
+    "last_evaluated": "2026-09-04T20:01:37.853Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
+  },
+  "since 1905": {
+    "score": 10,
+    "last_evaluated": "2026-09-04T20:02:00.038Z",
+    "details": {
+      "dini": 0.1,
       "milli": 0,
       "siyasi": 0,
       "nefret": 0
