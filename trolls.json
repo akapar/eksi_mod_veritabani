@@ -1290,12 +1290,12 @@
     }
   },
   "lion king345": {
-    "score": 30,
-    "last_evaluated": "2026-09-01T22:13:53.197Z",
+    "score": 100,
+    "last_evaluated": "2026-09-05T14:17:51.246Z",
     "details": {
-      "dini": 0.1,
-      "milli": 0.2,
-      "siyasi": 0.3,
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 1,
       "nefret": 0
     }
   },
@@ -10447,6 +10447,16 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0
+    }
+  },
+  "anna magdalena bach": {
+    "score": 10,
+    "last_evaluated": "2026-09-05T14:17:53.566Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.1
     }
   }
 }
