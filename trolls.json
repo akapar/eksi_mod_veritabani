@@ -10488,5 +10488,105 @@
       "siyasi": 0,
       "nefret": 0.85
     }
+  },
+  "red ranger": {
+    "score": 0,
+    "last_evaluated": "2026-09-06T20:25:54.174Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "altay hurda": {
+    "score": 0,
+    "last_evaluated": "2026-09-06T20:25:55.837Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "suleimanthemagnificent2": {
+    "score": 0,
+    "last_evaluated": "2026-09-06T20:25:59.332Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "avoiding the puddle": {
+    "score": 0,
+    "last_evaluated": "2026-09-06T20:26:05.956Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "c88": {
+    "score": 20,
+    "last_evaluated": "2026-09-06T20:26:07.363Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "iyiiailecocugu": {
+    "score": 0,
+    "last_evaluated": "2026-09-06T20:26:17.470Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "uyku gurmesi": {
+    "score": 20,
+    "last_evaluated": "2026-09-06T20:26:25.751Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.1,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "crystallin": {
+    "score": 0,
+    "last_evaluated": "2026-09-06T20:26:34.525Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "carlito ikigante": {
+    "score": 0,
+    "last_evaluated": "2026-09-06T20:26:43.149Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "epileptic seizure": {
+    "score": 20,
+    "last_evaluated": "2026-09-06T20:26:49.350Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
