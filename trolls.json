@@ -8241,7 +8241,7 @@
   },
   "haziran gibi": {
     "score": 0,
-    "last_evaluated": "2026-07-26T14:32:00.844Z",
+    "last_evaluated": "2026-09-07T14:45:35.911Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -10667,6 +10667,96 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0.6
+    }
+  },
+  "easygoing": {
+    "score": 50,
+    "last_evaluated": "2026-09-07T14:45:32.565Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "business class time traveler": {
+    "score": 0,
+    "last_evaluated": "2026-09-07T14:45:34.189Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "orle": {
+    "score": 0,
+    "last_evaluated": "2026-09-07T14:45:42.008Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "markoapostolidis": {
+    "score": 0,
+    "last_evaluated": "2026-09-07T14:45:45.274Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "36 etnik unsur": {
+    "score": 90,
+    "last_evaluated": "2026-09-07T14:45:53.856Z",
+    "details": {
+      "dini": 0.7,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.9
+    }
+  },
+  "erdklc": {
+    "score": 20,
+    "last_evaluated": "2026-09-07T14:46:02.753Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "yakocan": {
+    "score": 0,
+    "last_evaluated": "2026-09-07T14:46:14.454Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "warriorxenia": {
+    "score": 20,
+    "last_evaluated": "2026-09-07T14:46:21.255Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "painkiller10": {
+    "score": 0,
+    "last_evaluated": "2026-09-07T14:46:29.995Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
