@@ -1870,11 +1870,11 @@
     }
   },
   "yaren": {
-    "score": 0,
-    "last_evaluated": "2026-07-19T13:44:11.855Z",
+    "score": 20,
+    "last_evaluated": "2026-09-07T13:21:48.425Z",
     "details": {
       "dini": 0,
-      "milli": 0,
+      "milli": 0.2,
       "siyasi": 0,
       "nefret": 0
     }
@@ -8570,13 +8570,13 @@
     }
   },
   "one time": {
-    "score": 0,
-    "last_evaluated": "2026-07-26T15:59:36.512Z",
+    "score": 60,
+    "last_evaluated": "2026-09-07T13:21:50.906Z",
     "details": {
       "dini": 0,
       "milli": 0,
       "siyasi": 0,
-      "nefret": 0
+      "nefret": 0.6
     }
   },
   "leatherfacein": {
@@ -10607,6 +10607,66 @@
       "milli": 0.2,
       "siyasi": 0,
       "nefret": 0
+    }
+  },
+  "achatla": {
+    "score": 0,
+    "last_evaluated": "2026-09-07T13:20:32.690Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sum ting wog": {
+    "score": 30,
+    "last_evaluated": "2026-09-07T13:20:34.966Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.3,
+      "nefret": 0.1
+    }
+  },
+  "dilikalem": {
+    "score": 0,
+    "last_evaluated": "2026-09-07T13:20:39.595Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "frenkymerlin": {
+    "score": 30,
+    "last_evaluated": "2026-09-07T13:20:48.894Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.2,
+      "nefret": 0.3
+    }
+  },
+  "sarabi eskiya": {
+    "score": 0,
+    "last_evaluated": "2026-09-07T13:21:47.344Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "muratbuyuklu": {
+    "score": 60,
+    "last_evaluated": "2026-09-07T13:21:49.505Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.6
     }
   }
 }
