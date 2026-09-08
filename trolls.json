@@ -2140,12 +2140,12 @@
     }
   },
   "timurun fillerinin bakicisi": {
-    "score": 0,
-    "last_evaluated": "2026-08-28T01:56:57.336Z",
+    "score": 20,
+    "last_evaluated": "2026-09-08T14:00:54.342Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.2,
       "nefret": 0
     }
   },
@@ -10854,6 +10854,16 @@
     "last_evaluated": "2026-09-07T19:30:55.845Z",
     "details": {
       "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bozaj": {
+    "score": 20,
+    "last_evaluated": "2026-09-08T14:00:57.433Z",
+    "details": {
+      "dini": 0.2,
       "milli": 0,
       "siyasi": 0,
       "nefret": 0
