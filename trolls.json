@@ -10868,5 +10868,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "kavimler gocunde evi yagmalanan adam": {
+    "score": 20,
+    "last_evaluated": "2026-09-09T08:30:03.274Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "galatadereli": {
+    "score": 20,
+    "last_evaluated": "2026-09-09T08:30:06.584Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
