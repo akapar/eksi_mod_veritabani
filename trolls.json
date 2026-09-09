@@ -921,7 +921,7 @@
   },
   "i am weird": {
     "score": 0,
-    "last_evaluated": "2026-07-18T14:01:19.342Z",
+    "last_evaluated": "2026-09-09T14:03:24.346Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -10887,6 +10887,16 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0
+    }
+  },
+  "mmystere": {
+    "score": 10,
+    "last_evaluated": "2026-09-09T14:03:22.010Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.1
     }
   }
 }
