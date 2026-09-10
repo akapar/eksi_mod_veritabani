@@ -10918,5 +10918,35 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "eaaii": {
+    "score": 40,
+    "last_evaluated": "2026-09-10T13:58:05.357Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.4,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
+  },
+  "hsnsylk": {
+    "score": 0,
+    "last_evaluated": "2026-09-10T13:58:10.615Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "5 mart 2015 sourlines rezaleti": {
+    "score": 0,
+    "last_evaluated": "2026-09-10T13:58:13.662Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
