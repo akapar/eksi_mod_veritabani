@@ -10948,5 +10948,75 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "bloody baron": {
+    "score": 100,
+    "last_evaluated": "2026-09-13T13:59:31.638Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 1
+    }
+  },
+  "canned": {
+    "score": 100,
+    "last_evaluated": "2026-09-13T13:59:33.839Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 1
+    }
+  },
+  "iyi biri": {
+    "score": 100,
+    "last_evaluated": "2026-09-13T13:59:37.064Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 1
+    }
+  },
+  "arsak palabiyikyan": {
+    "score": 0,
+    "last_evaluated": "2026-09-13T13:59:44.800Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "theblondie": {
+    "score": 10,
+    "last_evaluated": "2026-09-13T13:59:48.195Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.1,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kabadan zerk": {
+    "score": 60,
+    "last_evaluated": "2026-09-13T13:59:59.325Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.6
+    }
+  },
+  "zobor06": {
+    "score": 80,
+    "last_evaluated": "2026-09-13T14:00:06.577Z",
+    "details": {
+      "dini": 0.7,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.8
+    }
   }
 }
