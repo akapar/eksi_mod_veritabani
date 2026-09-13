@@ -11018,5 +11018,15 @@
       "siyasi": 0,
       "nefret": 0.8
     }
+  },
+  "dadallius": {
+    "score": 0,
+    "last_evaluated": "2026-09-13T17:20:31.319Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
