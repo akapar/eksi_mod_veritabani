@@ -29,6 +29,16 @@
       "nefret": 0.8
     }
   },
+  "11213112": {
+    "score": 10,
+    "last_evaluated": "2026-09-14T09:25:05.223Z",
+    "details": {
+      "dini": 0.1,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
   "19216811": {
     "score": 80,
     "last_evaluated": "2026-07-27T14:13:21.121Z",
@@ -11022,6 +11032,46 @@
   "dadallius": {
     "score": 0,
     "last_evaluated": "2026-09-13T17:20:31.319Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bana makosenlerimi giydirdinizz": {
+    "score": 80,
+    "last_evaluated": "2026-09-14T09:24:44.601Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.8
+    }
+  },
+  "gemi var gemicik var": {
+    "score": 50,
+    "last_evaluated": "2026-09-14T09:24:47.193Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.5
+    }
+  },
+  "sabigun": {
+    "score": 0,
+    "last_evaluated": "2026-09-14T09:24:51.781Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "daagci": {
+    "score": 0,
+    "last_evaluated": "2026-09-14T09:24:55.292Z",
     "details": {
       "dini": 0,
       "milli": 0,
