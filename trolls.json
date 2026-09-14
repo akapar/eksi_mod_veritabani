@@ -11078,5 +11078,55 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "gurelk": {
+    "score": 20,
+    "last_evaluated": "2026-09-14T16:04:32.339Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "askerligi kantinci olarak yapan yeniceri": {
+    "score": 0,
+    "last_evaluated": "2026-09-14T16:04:36.492Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kimleeer kimlerle beraber": {
+    "score": 0,
+    "last_evaluated": "2026-09-14T16:04:40.031Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ingilizvatandasiarapati": {
+    "score": 0,
+    "last_evaluated": "2026-09-14T16:04:47.946Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "gordonmilne": {
+    "score": 20,
+    "last_evaluated": "2026-09-14T16:05:09.786Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
