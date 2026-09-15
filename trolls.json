@@ -11128,5 +11128,25 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "blacxea": {
+    "score": 20,
+    "last_evaluated": "2026-09-15T17:50:51.556Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "queen of dogs": {
+    "score": 0,
+    "last_evaluated": "2026-09-15T17:50:53.599Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
