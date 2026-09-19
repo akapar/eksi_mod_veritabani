@@ -11198,5 +11198,25 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "entelektuel barbar": {
+    "score": 0,
+    "last_evaluated": "2026-09-19T16:56:23.875Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "cehennem bos tum seytanlar burada": {
+    "score": 0,
+    "last_evaluated": "2026-09-19T16:56:26.030Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
