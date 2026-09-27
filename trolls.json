@@ -11258,5 +11258,15 @@
       "siyasi": 0.2,
       "nefret": 0.6
     }
+  },
+  "mmeci": {
+    "score": 50,
+    "last_evaluated": "2026-09-27T17:59:32.987Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0.5
+    }
   }
 }
