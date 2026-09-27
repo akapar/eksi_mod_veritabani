@@ -11248,5 +11248,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "janisa": {
+    "score": 60,
+    "last_evaluated": "2026-09-27T13:25:43.143Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.6
+    }
   }
 }
