@@ -11268,5 +11268,15 @@
       "siyasi": 0.4,
       "nefret": 0.5
     }
+  },
+  "yamanuzay": {
+    "score": 20,
+    "last_evaluated": "2026-09-28T22:47:54.946Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
