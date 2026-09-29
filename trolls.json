@@ -820,12 +820,12 @@
     }
   },
   "harbiyelisubay": {
-    "score": 0,
-    "last_evaluated": "2026-07-18T13:56:58.429Z",
+    "score": 20,
+    "last_evaluated": "2026-09-29T17:21:02.635Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.2,
       "nefret": 0
     }
   },
@@ -11276,6 +11276,26 @@
       "dini": 0.2,
       "milli": 0,
       "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "hegemon": {
+    "score": 0,
+    "last_evaluated": "2026-09-29T17:21:47.659Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ckckckck": {
+    "score": 30,
+    "last_evaluated": "2026-09-29T17:21:48.616Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.3,
       "nefret": 0
     }
   }
