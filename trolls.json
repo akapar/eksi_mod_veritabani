@@ -11338,5 +11338,15 @@
       "siyasi": 0.35,
       "nefret": 0.4
     }
+  },
+  "michel angel": {
+    "score": 70,
+    "last_evaluated": "2026-09-30T20:25:26.660Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.7
+    }
   }
 }
