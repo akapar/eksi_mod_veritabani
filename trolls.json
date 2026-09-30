@@ -11298,5 +11298,45 @@
       "siyasi": 0.3,
       "nefret": 0
     }
+  },
+  "antikarizmatik": {
+    "score": 0,
+    "last_evaluated": "2026-09-30T14:27:44.294Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "aydanalvarsa": {
+    "score": 10,
+    "last_evaluated": "2026-09-30T14:27:45.227Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0
+    }
+  },
+  "johnny adam": {
+    "score": 50,
+    "last_evaluated": "2026-09-30T14:27:46.793Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0
+    }
+  },
+  "amina koyayim": {
+    "score": 40,
+    "last_evaluated": "2026-09-30T14:27:48.428Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.35,
+      "nefret": 0.4
+    }
   }
 }
