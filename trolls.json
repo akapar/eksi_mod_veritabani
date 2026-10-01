@@ -11348,5 +11348,25 @@
       "siyasi": 0,
       "nefret": 0.7
     }
+  },
+  "tevfik fikret hakan kuskan": {
+    "score": 20,
+    "last_evaluated": "2026-10-01T08:04:20.683Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0.2
+    }
+  },
+  "mrtfrlss": {
+    "score": 0,
+    "last_evaluated": "2026-10-01T08:04:21.711Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
