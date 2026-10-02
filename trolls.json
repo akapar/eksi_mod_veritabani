@@ -11378,5 +11378,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "sidirmiup": {
+    "score": 30,
+    "last_evaluated": "2026-10-02T21:37:57.447Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0.3
+    }
   }
 }
