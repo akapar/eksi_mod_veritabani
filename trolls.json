@@ -11388,5 +11388,15 @@
       "siyasi": 0.1,
       "nefret": 0.3
     }
+  },
+  "macchinadelsesso": {
+    "score": 30,
+    "last_evaluated": "2026-10-03T17:41:37.042Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.3
+    }
   }
 }
