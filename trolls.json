@@ -11448,5 +11448,15 @@
       "siyasi": 0.5,
       "nefret": 0.2
     }
+  },
+  "karanliktakimum": {
+    "score": 20,
+    "last_evaluated": "2026-10-06T19:15:10.968Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
