@@ -11428,5 +11428,25 @@
       "siyasi": 0.1,
       "nefret": 0.4
     }
+  },
+  "zukeryanmickydick001": {
+    "score": 20,
+    "last_evaluated": "2026-10-06T12:29:17.739Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "a dream of poetry": {
+    "score": 50,
+    "last_evaluated": "2026-10-06T12:29:18.913Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.5,
+      "nefret": 0.2
+    }
   }
 }
