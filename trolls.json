@@ -10000,13 +10000,13 @@
     }
   },
   "renksiz hayat": {
-    "score": 20,
-    "last_evaluated": "2026-08-30T09:36:58.376Z",
+    "score": 80,
+    "last_evaluated": "2026-10-08T12:31:59.401Z",
     "details": {
       "dini": 0,
-      "milli": 0.2,
-      "siyasi": 0,
-      "nefret": 0
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.8
     }
   },
   "auer": {
@@ -11487,6 +11487,46 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0.1
+    }
+  },
+  "mantikli insanin sesi": {
+    "score": 20,
+    "last_evaluated": "2026-10-08T12:32:00.352Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "cokomilk": {
+    "score": 55,
+    "last_evaluated": "2026-10-08T12:32:01.198Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.55
+    }
+  },
+  "positive contact": {
+    "score": 40,
+    "last_evaluated": "2026-10-08T12:32:02.309Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "bundan adam olmaz": {
+    "score": 0,
+    "last_evaluated": "2026-10-08T12:32:02.721Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
