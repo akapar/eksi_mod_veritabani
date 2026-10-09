@@ -11528,5 +11528,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "tosun benim": {
+    "score": 20,
+    "last_evaluated": "2026-10-09T00:04:03.704Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
