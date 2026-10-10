@@ -6210,13 +6210,13 @@
     }
   },
   "nuhun jetskisi": {
-    "score": 0,
-    "last_evaluated": "2026-07-23T12:15:04.985Z",
+    "score": 80,
+    "last_evaluated": "2026-10-10T20:56:02.814Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0,
-      "nefret": 0
+      "siyasi": 0.6,
+      "nefret": 0.8
     }
   },
   "on": {
