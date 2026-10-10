@@ -11538,5 +11538,25 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "mahalliidare": {
+    "score": 0,
+    "last_evaluated": "2026-10-10T10:18:02.853Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "yayeter": {
+    "score": 20,
+    "last_evaluated": "2026-10-10T10:18:03.712Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0.2
+    }
   }
 }
