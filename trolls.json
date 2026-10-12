@@ -11558,5 +11558,25 @@
       "siyasi": 0.1,
       "nefret": 0.2
     }
+  },
+  "bobora": {
+    "score": 0,
+    "last_evaluated": "2026-10-12T19:31:32.914Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "satem": {
+    "score": 90,
+    "last_evaluated": "2026-10-12T19:31:33.654Z",
+    "details": {
+      "dini": 0.9,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
