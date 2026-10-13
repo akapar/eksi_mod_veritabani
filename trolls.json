@@ -11578,5 +11578,75 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "ma armastan": {
+    "score": 0,
+    "last_evaluated": "2026-10-13T01:44:13.577Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "magic mushroom kavurma": {
+    "score": 10,
+    "last_evaluated": "2026-10-13T01:44:14.866Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0
+    }
+  },
+  "kes sesini bana bi tekila": {
+    "score": 0,
+    "last_evaluated": "2026-10-13T01:44:15.703Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "arnava": {
+    "score": 0,
+    "last_evaluated": "2026-10-13T01:44:16.234Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sigurd snake in the eye": {
+    "score": 30,
+    "last_evaluated": "2026-10-13T01:44:17.446Z",
+    "details": {
+      "dini": 0.3,
+      "milli": 0,
+      "siyasi": 0.3,
+      "nefret": 0
+    }
+  },
+  "ninjayuruyusluayi": {
+    "score": 70,
+    "last_evaluated": "2026-10-13T01:44:18.936Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.1,
+      "siyasi": 0.7,
+      "nefret": 0.3
+    }
+  },
+  "hadibabageneyap": {
+    "score": 20,
+    "last_evaluated": "2026-10-13T01:44:20.064Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
   }
 }
