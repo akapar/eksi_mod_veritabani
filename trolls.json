@@ -7010,12 +7010,12 @@
     }
   },
   "nimda": {
-    "score": 20,
-    "last_evaluated": "2026-07-23T20:44:32.961Z",
+    "score": 80,
+    "last_evaluated": "2026-10-14T09:10:06.111Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0.2,
+      "siyasi": 0.8,
       "nefret": 0
     }
   },
@@ -11686,6 +11686,16 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.1,
+      "nefret": 0
+    }
+  },
+  "actori incumbit onus probandi": {
+    "score": 20,
+    "last_evaluated": "2026-10-14T09:10:08.758Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
       "nefret": 0
     }
   }
