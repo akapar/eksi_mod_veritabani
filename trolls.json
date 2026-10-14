@@ -9670,12 +9670,12 @@
     }
   },
   "ramazan kamadan": {
-    "score": 0,
-    "last_evaluated": "2026-09-29T21:41:56.523Z",
+    "score": 30,
+    "last_evaluated": "2026-10-14T14:47:42.828Z",
     "details": {
-      "dini": 0,
+      "dini": 0.1,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.3,
       "nefret": 0
     }
   },
@@ -11696,6 +11696,16 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "roman yazanski": {
+    "score": 0,
+    "last_evaluated": "2026-10-14T14:48:16.500Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
       "nefret": 0
     }
   }
