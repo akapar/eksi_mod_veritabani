@@ -11708,5 +11708,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "darthsidious": {
+    "score": 20,
+    "last_evaluated": "2026-10-14T19:51:57.492Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
