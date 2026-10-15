@@ -11718,5 +11718,15 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "sinfegos": {
+    "score": 60,
+    "last_evaluated": "2026-10-15T19:34:52.572Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0.5
+    }
   }
 }
