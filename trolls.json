@@ -11738,5 +11738,15 @@
       "siyasi": 0.5,
       "nefret": 0.9
     }
+  },
+  "fluox": {
+    "score": 10,
+    "last_evaluated": "2026-10-17T13:22:33.846Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0
+    }
   }
 }
