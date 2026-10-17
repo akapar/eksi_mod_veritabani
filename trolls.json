@@ -11728,5 +11728,15 @@
       "siyasi": 0.6,
       "nefret": 0.5
     }
+  },
+  "azcorbacek": {
+    "score": 90,
+    "last_evaluated": "2026-10-17T08:09:30.047Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0.5,
+      "nefret": 0.9
+    }
   }
 }
