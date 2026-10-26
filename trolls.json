@@ -90,12 +90,12 @@
     }
   },
   "deepthinking": {
-    "score": 50,
-    "last_evaluated": "2026-07-17T05:47:09.089Z",
+    "score": 0,
+    "last_evaluated": "2026-10-26T22:08:12.259Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0.5,
+      "siyasi": 0,
       "nefret": 0
     }
   },
@@ -5590,12 +5590,12 @@
     }
   },
   "jaws": {
-    "score": 50,
-    "last_evaluated": "2026-07-23T11:43:46.511Z",
+    "score": 0,
+    "last_evaluated": "2026-10-26T22:07:39.444Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0.5,
+      "siyasi": 0,
       "nefret": 0
     }
   },
@@ -6000,13 +6000,13 @@
     }
   },
   "ferman87": {
-    "score": 50,
-    "last_evaluated": "2026-08-31T21:10:41.451Z",
+    "score": 35,
+    "last_evaluated": "2026-10-26T22:08:15.756Z",
     "details": {
       "dini": 0,
       "milli": 0,
       "siyasi": 0,
-      "nefret": 0.5
+      "nefret": 0.35
     }
   },
   "goldar": {
@@ -6170,13 +6170,13 @@
     }
   },
   "munzevicakal": {
-    "score": 50,
-    "last_evaluated": "2026-07-23T12:14:12.952Z",
+    "score": 90,
+    "last_evaluated": "2026-10-26T22:08:13.625Z",
     "details": {
-      "dini": 0,
-      "milli": 0,
-      "siyasi": 0.5,
-      "nefret": 0
+      "dini": 0.7,
+      "milli": 0.5,
+      "siyasi": 0.4,
+      "nefret": 0.9
     }
   },
   "nazarboncuklucaybardagi": {
@@ -10910,12 +10910,12 @@
     }
   },
   "rainysaturday": {
-    "score": 50,
-    "last_evaluated": "2026-09-09T18:57:17.642Z",
+    "score": 60,
+    "last_evaluated": "2026-10-26T22:07:36.610Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0.5,
+      "siyasi": 0.6,
       "nefret": 0
     }
   },
@@ -11756,6 +11756,36 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "crom": {
+    "score": 20,
+    "last_evaluated": "2026-10-26T22:07:37.769Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "takometreci geldi hanim": {
+    "score": 20,
+    "last_evaluated": "2026-10-26T22:07:38.908Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0.1,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "hombre de hielo": {
+    "score": 30,
+    "last_evaluated": "2026-10-26T22:08:14.908Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.3,
       "nefret": 0
     }
   }
