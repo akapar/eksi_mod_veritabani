@@ -1430,12 +1430,12 @@
     }
   },
   "nickim yok sikim var": {
-    "score": 50,
-    "last_evaluated": "2026-07-19T13:28:18.339Z",
+    "score": 85,
+    "last_evaluated": "2026-10-26T16:23:09.916Z",
     "details": {
-      "dini": 0.5,
+      "dini": 0.85,
       "milli": 0,
-      "siyasi": 0,
+      "siyasi": 0.2,
       "nefret": 0
     }
   },
@@ -1840,12 +1840,12 @@
     }
   },
   "travolecik": {
-    "score": 50,
-    "last_evaluated": "2026-07-19T13:42:30.743Z",
+    "score": 30,
+    "last_evaluated": "2026-10-26T16:23:10.914Z",
     "details": {
-      "dini": 0.5,
+      "dini": 0,
       "milli": 0,
-      "siyasi": 0.5,
+      "siyasi": 0.3,
       "nefret": 0
     }
   },
@@ -5181,7 +5181,7 @@
   },
   "neyazarim": {
     "score": 0,
-    "last_evaluated": "2026-07-23T07:25:17.004Z",
+    "last_evaluated": "2026-10-26T16:23:43.280Z",
     "details": {
       "dini": 0,
       "milli": 0,
@@ -6090,13 +6090,13 @@
     }
   },
   "hukum41": {
-    "score": 50,
-    "last_evaluated": "2026-07-23T12:05:23.262Z",
+    "score": 80,
+    "last_evaluated": "2026-10-26T16:23:44.455Z",
     "details": {
-      "dini": 0,
+      "dini": 0.8,
       "milli": 0,
-      "siyasi": 0.5,
-      "nefret": 0
+      "siyasi": 0.2,
+      "nefret": 0.7
     }
   },
   "i hate you all": {
