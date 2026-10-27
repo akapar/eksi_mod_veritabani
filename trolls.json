@@ -11798,5 +11798,25 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "wrath of kane": {
+    "score": 60,
+    "last_evaluated": "2026-10-27T09:28:04.825Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.6,
+      "siyasi": 0.1,
+      "nefret": 0
+    }
+  },
+  "esvedswan": {
+    "score": 0,
+    "last_evaluated": "2026-10-27T09:28:37.336Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
