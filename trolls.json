@@ -11818,5 +11818,45 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "sakaldutandagezenorangutan": {
+    "score": 20,
+    "last_evaluated": "2026-10-27T15:37:48.212Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "ansentzia": {
+    "score": 80,
+    "last_evaluated": "2026-10-27T15:37:49.473Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.8,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ickisiayranolanadam": {
+    "score": 0,
+    "last_evaluated": "2026-10-27T15:37:50.219Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "nuhungemisi": {
+    "score": 0,
+    "last_evaluated": "2026-10-27T15:38:24.299Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
