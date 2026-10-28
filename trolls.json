@@ -11878,5 +11878,35 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "hehocehe": {
+    "score": 0,
+    "last_evaluated": "2026-10-28T14:43:12.937Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "caiphas": {
+    "score": 20,
+    "last_evaluated": "2026-10-28T14:43:13.854Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "destiny is all": {
+    "score": 0,
+    "last_evaluated": "2026-10-28T14:43:27.097Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
