@@ -3000,12 +3000,12 @@
     }
   },
   "ddsmac": {
-    "score": 50,
-    "last_evaluated": "2026-07-20T16:34:54.589Z",
+    "score": 25,
+    "last_evaluated": "2026-10-28T00:50:48.411Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0.5,
+      "siyasi": 0.25,
       "nefret": 0
     }
   },
@@ -9670,12 +9670,12 @@
     }
   },
   "ramazan kamadan": {
-    "score": 30,
-    "last_evaluated": "2026-10-14T14:47:42.828Z",
+    "score": 10,
+    "last_evaluated": "2026-10-28T00:50:47.036Z",
     "details": {
-      "dini": 0.1,
+      "dini": 0,
       "milli": 0,
-      "siyasi": 0.3,
+      "siyasi": 0.1,
       "nefret": 0
     }
   },
