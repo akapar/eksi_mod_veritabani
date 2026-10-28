@@ -11868,5 +11868,15 @@
       "siyasi": 0.4,
       "nefret": 0
     }
+  },
+  "eskortlarla yasiyorum": {
+    "score": 20,
+    "last_evaluated": "2026-10-28T07:45:25.925Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
