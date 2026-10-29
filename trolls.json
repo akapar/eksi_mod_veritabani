@@ -3480,13 +3480,13 @@
     }
   },
   "heykellere ufleyen adam": {
-    "score": 50,
-    "last_evaluated": "2026-07-20T20:18:24.667Z",
+    "score": 40,
+    "last_evaluated": "2026-10-29T20:45:22.193Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0.5,
-      "nefret": 0.5
+      "siyasi": 0.4,
+      "nefret": 0
     }
   },
   "distortion the real": {
@@ -11906,6 +11906,16 @@
       "dini": 0,
       "milli": 0,
       "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "givles": {
+    "score": 30,
+    "last_evaluated": "2026-10-29T20:45:21.070Z",
+    "details": {
+      "dini": 0.3,
+      "milli": 0.1,
+      "siyasi": 0.2,
       "nefret": 0
     }
   }
