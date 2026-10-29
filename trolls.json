@@ -3320,12 +3320,12 @@
     }
   },
   "soamanager": {
-    "score": 50,
-    "last_evaluated": "2026-07-20T18:33:05.784Z",
+    "score": 40,
+    "last_evaluated": "2026-10-29T14:49:27.175Z",
     "details": {
       "dini": 0,
       "milli": 0,
-      "siyasi": 0.5,
+      "siyasi": 0.4,
       "nefret": 0
     }
   },
