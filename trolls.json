@@ -11928,5 +11928,25 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "evaturkey": {
+    "score": 0,
+    "last_evaluated": "2026-10-31T22:56:22.154Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "meftunyekta": {
+    "score": 50,
+    "last_evaluated": "2026-10-31T22:56:24.787Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.5
+    }
   }
 }
