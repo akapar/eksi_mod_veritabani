@@ -11948,5 +11948,15 @@
       "siyasi": 0,
       "nefret": 0.5
     }
+  },
+  "sadece yoko yeterdi": {
+    "score": 0,
+    "last_evaluated": "2026-11-01T10:55:50.108Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
