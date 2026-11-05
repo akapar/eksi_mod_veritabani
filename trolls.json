@@ -12008,5 +12008,35 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "stefan kuntz": {
+    "score": 0,
+    "last_evaluated": "2026-11-05T17:46:43.125Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "cslls": {
+    "score": 20,
+    "last_evaluated": "2026-11-05T17:46:44.037Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
+  },
+  "obali": {
+    "score": 30,
+    "last_evaluated": "2026-11-05T17:46:45.245Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.3,
+      "nefret": 0
+    }
   }
 }
