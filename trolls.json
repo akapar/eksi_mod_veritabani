@@ -11998,5 +11998,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "atilogz": {
+    "score": 30,
+    "last_evaluated": "2026-11-05T08:46:56.167Z",
+    "details": {
+      "dini": 0.3,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
