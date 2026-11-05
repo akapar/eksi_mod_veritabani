@@ -12038,5 +12038,15 @@
       "siyasi": 0.3,
       "nefret": 0
     }
+  },
+  "popokafa": {
+    "score": 20,
+    "last_evaluated": "2026-11-05T23:03:58.758Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
