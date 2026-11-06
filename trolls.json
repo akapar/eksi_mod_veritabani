@@ -12048,5 +12048,15 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "csanov": {
+    "score": 0,
+    "last_evaluated": "2026-11-06T13:29:56.618Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
