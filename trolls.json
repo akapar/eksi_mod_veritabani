@@ -12068,5 +12068,35 @@
       "siyasi": 0,
       "nefret": 0.6
     }
+  },
+  "iambadatfindingnickname": {
+    "score": 0,
+    "last_evaluated": "2026-11-08T17:25:41.385Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "mhhyzz": {
+    "score": 20,
+    "last_evaluated": "2026-11-08T17:25:42.158Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "ankaragucume gidiyor boyle yasamak": {
+    "score": 0,
+    "last_evaluated": "2026-11-08T17:25:42.655Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
