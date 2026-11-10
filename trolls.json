@@ -12238,5 +12238,15 @@
       "siyasi": 0.3,
       "nefret": 0
     }
+  },
+  "lloottuuss": {
+    "score": 20,
+    "last_evaluated": "2026-11-10T19:20:41.755Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
