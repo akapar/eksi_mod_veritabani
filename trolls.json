@@ -9670,12 +9670,12 @@
     }
   },
   "ramazan kamadan": {
-    "score": 10,
-    "last_evaluated": "2026-10-28T00:50:47.036Z",
+    "score": 20,
+    "last_evaluated": "2026-11-10T10:06:56.992Z",
     "details": {
       "dini": 0,
-      "milli": 0,
-      "siyasi": 0.1,
+      "milli": 0.2,
+      "siyasi": 0,
       "nefret": 0
     }
   },
@@ -9940,13 +9940,13 @@
     }
   },
   "blacksocks": {
-    "score": 10,
-    "last_evaluated": "2026-08-27T17:23:38.380Z",
+    "score": 30,
+    "last_evaluated": "2026-11-10T10:08:01.320Z",
     "details": {
-      "dini": 0,
-      "milli": 0,
-      "siyasi": 0.1,
-      "nefret": 0.1
+      "dini": 0.2,
+      "milli": 0.3,
+      "siyasi": 0,
+      "nefret": 0
     }
   },
   "lothloran": {
@@ -12107,6 +12107,116 @@
       "milli": 0,
       "siyasi": 0,
       "nefret": 0.3
+    }
+  },
+  "kelagerm": {
+    "score": 0,
+    "last_evaluated": "2026-11-10T10:06:54.906Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "tamm": {
+    "score": 70,
+    "last_evaluated": "2026-11-10T10:06:58.405Z",
+    "details": {
+      "dini": 0.4,
+      "milli": 0.3,
+      "siyasi": 0.2,
+      "nefret": 0.7
+    }
+  },
+  "kalleslere acimayacaksin": {
+    "score": 30,
+    "last_evaluated": "2026-11-10T10:07:10.757Z",
+    "details": {
+      "dini": 0.1,
+      "milli": 0.3,
+      "siyasi": 0.3,
+      "nefret": 0.1
+    }
+  },
+  "dogununbulutu": {
+    "score": 0,
+    "last_evaluated": "2026-11-10T10:07:11.116Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "sultan ottoman": {
+    "score": 40,
+    "last_evaluated": "2026-11-10T10:07:12.484Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.2,
+      "siyasi": 0,
+      "nefret": 0.4
+    }
+  },
+  "alibasaev": {
+    "score": 20,
+    "last_evaluated": "2026-11-10T10:07:14.176Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "supporting idea": {
+    "score": 20,
+    "last_evaluated": "2026-11-10T10:07:14.945Z",
+    "details": {
+      "dini": 0.2,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "tahtakilic62": {
+    "score": 80,
+    "last_evaluated": "2026-11-10T10:07:16.166Z",
+    "details": {
+      "dini": 0.8,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.1
+    }
+  },
+  "m scott": {
+    "score": 0,
+    "last_evaluated": "2026-11-10T10:07:58.864Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "catkitty": {
+    "score": 10,
+    "last_evaluated": "2026-11-10T10:07:59.763Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.1,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "paradikmaniniflasi": {
+    "score": 0,
+    "last_evaluated": "2026-11-10T10:08:33.849Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
     }
   }
 }
