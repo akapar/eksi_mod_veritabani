@@ -12248,5 +12248,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "kimdi bunlar": {
+    "score": 10,
+    "last_evaluated": "2026-11-12T21:58:46.021Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.1,
+      "nefret": 0
+    }
   }
 }
