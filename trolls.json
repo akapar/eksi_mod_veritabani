@@ -12258,5 +12258,15 @@
       "siyasi": 0.1,
       "nefret": 0
     }
+  },
+  "neolacakya": {
+    "score": 30,
+    "last_evaluated": "2026-11-15T16:43:03.629Z",
+    "details": {
+      "dini": 0.3,
+      "milli": 0.1,
+      "siyasi": 0,
+      "nefret": 0
+    }
   }
 }
