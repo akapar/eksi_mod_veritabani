@@ -12358,5 +12358,25 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "roymossjen": {
+    "score": 0,
+    "last_evaluated": "2026-11-16T23:08:18.276Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "kaptankurabiye": {
+    "score": 30,
+    "last_evaluated": "2026-11-16T23:08:19.005Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.3,
+      "nefret": 0
+    }
   }
 }
