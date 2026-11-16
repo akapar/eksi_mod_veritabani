@@ -12268,5 +12268,95 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "paul onuachu": {
+    "score": 60,
+    "last_evaluated": "2026-11-16T18:34:13.133Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.6,
+      "nefret": 0
+    }
+  },
+  "moz0642": {
+    "score": 0,
+    "last_evaluated": "2026-11-16T18:34:14.043Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "9yillikogrenci": {
+    "score": 0,
+    "last_evaluated": "2026-11-16T18:34:46.635Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "theblackop": {
+    "score": 60,
+    "last_evaluated": "2026-11-16T18:34:47.872Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.6
+    }
+  },
+  "yolgezer38": {
+    "score": 40,
+    "last_evaluated": "2026-11-16T18:34:49.209Z",
+    "details": {
+      "dini": 0,
+      "milli": 0.1,
+      "siyasi": 0.4,
+      "nefret": 0
+    }
+  },
+  "delusionsincebirth": {
+    "score": 0,
+    "last_evaluated": "2026-11-16T18:34:49.611Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "scsi": {
+    "score": 0,
+    "last_evaluated": "2026-11-16T18:34:51.102Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "mrgovernor": {
+    "score": 30,
+    "last_evaluated": "2026-11-16T18:34:52.224Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.3
+    }
+  },
+  "kepenekci": {
+    "score": 20,
+    "last_evaluated": "2026-11-16T18:34:53.244Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
