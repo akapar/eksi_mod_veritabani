@@ -12408,5 +12408,35 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "boray eris": {
+    "score": 0,
+    "last_evaluated": "2026-11-21T20:20:27.330Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0
+    }
+  },
+  "bigbig": {
+    "score": 90,
+    "last_evaluated": "2026-11-21T20:20:28.575Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0.9
+    }
+  },
+  "jivanmugti": {
+    "score": 20,
+    "last_evaluated": "2026-11-21T20:20:29.384Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0,
+      "nefret": 0.2
+    }
   }
 }
