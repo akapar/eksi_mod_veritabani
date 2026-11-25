@@ -12448,5 +12448,15 @@
       "siyasi": 0,
       "nefret": 0
     }
+  },
+  "bosbulunanhermakamakendiniatayanrektor": {
+    "score": 20,
+    "last_evaluated": "2026-11-25T20:53:06.625Z",
+    "details": {
+      "dini": 0,
+      "milli": 0,
+      "siyasi": 0.2,
+      "nefret": 0
+    }
   }
 }
