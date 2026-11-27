@@ -12458,5 +12458,15 @@
       "siyasi": 0.2,
       "nefret": 0
     }
+  },
+  "moyalli": {
+    "score": 90,
+    "last_evaluated": "2026-11-27T16:15:11.118Z",
+    "details": {
+      "dini": 0.7,
+      "milli": 0.1,
+      "siyasi": 0.4,
+      "nefret": 0.9
+    }
   }
 }
